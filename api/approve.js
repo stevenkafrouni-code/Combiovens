@@ -1,87 +1,53 @@
 // api/approve.js
-// GET /api/approve/[quoteId]
-// Admin clicks approve link in email → quote is sent to customer
-
-const { getRows, updateQuoteStatus } = require('../lib/sheets');
-const { buildQuoteLines, applyReferralDiscount, buildStripeLineItems } = require('../lib/products');
+const { buildQuoteLines, buildStripeLineItems } = require('../lib/products');
+const { updateQuote } = require('../lib/storage');
 const { sendQuoteToCustomer } = require('../lib/email');
-const Stripe = require('stripe');
 
-const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
+const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || 'combiovens2026';
 
 module.exports = async (req, res) => {
-  const { quoteId } = req.query;
+  const { quoteId, pw, data } = req.query;
+  if (pw !== ADMIN_PASSWORD) return res.status(401).send('Unauthorised');
+  if (!quoteId) return res.status(400).send('Missing quoteId');
+  if (!data) return res.status(400).send('Missing data — quote cannot be decoded. Please resubmit the quote form.');
 
-  if (!quoteId) return res.status(400).send('Missing quote ID');
+  let quote;
+  try {
+    const decoded = Buffer.from(decodeURIComponent(data), 'base64').toString('utf8');
+    quote = JSON.parse(decoded);
+  } catch (err) {
+    return res.status(400).send(`Could not decode quote data: ${err.message}. Raw data length: ${data?.length}`);
+  }
 
   try {
-    // ── Fetch quote from Sheets ───────────────────────────────────────────────
-    const rows = await getRows('Quotes');
-    const quoteRow = rows.find(r => r['QuoteId'] === quoteId);
+    const { lines } = buildQuoteLines(quote.items.map(i => ({ sku: i.sku, qty: i.qty })));
 
-    if (!quoteRow) return res.status(404).send('Quote not found: ' + quoteId);
-    if (quoteRow['Status'] !== 'pending_approval') {
-      return res.status(400).send(`Quote ${quoteId} is already ${quoteRow['Status']}`);
+    let paymentUrl = null;
+    if (process.env.STRIPE_SECRET_KEY && process.env.STRIPE_SECRET_KEY !== 'placeholder') {
+      const Stripe = require('stripe');
+      const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
+      const stripeItems = buildStripeLineItems(lines, quote.discount || 0);
+      if (stripeItems.length) {
+        const link = await stripe.paymentLinks.create({
+          line_items: stripeItems,
+          metadata: { quoteId },
+          after_completion: { type: 'redirect', redirect: { url: `https://www.combiovens.com.au/thankyou?order=${quoteId}` } },
+          payment_method_types: ['card'],
+          invoice_creation: { enabled: true },
+        });
+        paymentUrl = link.url;
+      }
     }
 
-    const items = JSON.parse(quoteRow['Items']);
-    const { lines } = buildQuoteLines(items);
-    const discount = parseFloat(quoteRow['Discount']) || 0;
+    await sendQuoteToCustomer({ quote: { ...quote, paymentUrl }, lines });
+    await updateQuote(quoteId, { status: 'sent', approvedAt: new Date().toISOString(), paymentLink: paymentUrl });
 
-    const quote = {
-      quoteId,
-      customerName: quoteRow['CustomerName'],
-      businessName: quoteRow['BusinessName'],
-      email: quoteRow['Email'],
-      phone: quoteRow['Phone'],
-      postcode: quoteRow['Postcode'],
-      subtotal: parseFloat(quoteRow['Subtotal']),
-      discount,
-      total: parseFloat(quoteRow['Total']),
-      referralCode: quoteRow['ReferralCode'],
-    };
-
-    // ── Create Stripe Payment Link ────────────────────────────────────────────
-    // Build line items for Stripe
-    const stripeLineItems = buildStripeLineItems(lines, discount);
-
-    const paymentLink = await stripe.paymentLinks.create({
-      line_items: stripeLineItems,
-      metadata: { quoteId },
-      after_completion: {
-        type: 'redirect',
-        redirect: { url: `https://combiovens.com.au/thankyou?order=${quoteId}` },
-      },
-      payment_method_types: ['card', 'paypal'],
-      invoice_creation: {
-        enabled: true,
-        invoice_data: {
-          description: `CombiOvens.com.au — Quote ${quoteId}`,
-          metadata: { quoteId },
-          footer: 'Authorised Australian Dealer. Full manufacturer warranty. ABN: [YOUR_ABN]',
-        },
-      },
-    });
-
-    // ── Send quote to customer with payment link ───────────────────────────────
-    await sendQuoteToCustomer({
-      quote: { ...quote, paymentUrl: paymentLink.url },
-      lines,
-    });
-
-    // ── Update status in Sheets ───────────────────────────────────────────────
-    await updateQuoteStatus(quoteId, {
-      Status: 'sent',
-      ApprovedAt: new Date().toISOString(),
-      PaymentLink: paymentLink.url,
-    });
-
-    // ── Respond to admin ──────────────────────────────────────────────────────
     return res.status(200).send(`
-      <html><body style="font-family:sans-serif;padding:40px;background:#0e0e0e;color:#e8e4de">
-        <h2 style="color:#e85d04">✓ Quote Sent</h2>
-        <p>Quote <strong>${quoteId}</strong> has been sent to <strong>${quote.email}</strong>.</p>
-        <p>Payment link: <a href="${paymentLink.url}" style="color:#e85d04">${paymentLink.url}</a></p>
+      <html><body style="font-family:sans-serif;padding:60px;background:#0e0e0e;color:#e8e4de;text-align:center">
+        <div style="font-size:48px;margin-bottom:16px">✓</div>
+        <h2 style="color:#00b4a6;font-size:24px;margin-bottom:8px">Quote Sent</h2>
+        <p style="color:#a8a8a8">${quoteId} → ${quote.email}</p>
+        ${paymentUrl ? `<p style="margin-top:16px"><a href="${paymentUrl}" style="color:#e85d04">Payment link ↗</a></p>` : ''}
       </body></html>
     `);
 
