@@ -8,16 +8,5 @@
   "routes": [
     { "src": "/api/(.*)", "dest": "/api/$1" },
     { "src": "/(.*)", "dest": "/public/$1" }
-  ],
-  "env": {
-    "ANTHROPIC_API_KEY": "@anthropic_api_key",
-    "RESEND_API_KEY": "@resend_api_key",
-    "STRIPE_SECRET_KEY": "@stripe_secret_key",
-    "STRIPE_WEBHOOK_SECRET": "@stripe_webhook_secret",
-    "GOOGLE_SHEETS_ID": "@google_sheets_id",
-    "GOOGLE_SERVICE_ACCOUNT_EMAIL": "@google_service_account_email",
-    "GOOGLE_PRIVATE_KEY": "@google_private_key",
-    "ADMIN_EMAIL": "@admin_email",
-    "FROM_EMAIL": "@from_email"
-  }
+  ]
 }
