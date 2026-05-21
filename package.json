@@ -1,13 +1,11 @@
 {
   "name": "combiovens",
   "version": "1.0.0",
-  "description": "CombiOvens.com.au — Commercial Kitchen Equipment",
+  "description": "CombiOvens.com.au",
   "private": true,
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.20.0",
+    "@anthropic-ai/sdk": "^0.39.0",
     "resend": "^3.0.0",
-    "stripe": "^14.0.0",
-    "googleapis": "^140.0.0",
-    "nanoid": "^3.3.7"
+    "stripe": "^14.0.0"
   }
 }
