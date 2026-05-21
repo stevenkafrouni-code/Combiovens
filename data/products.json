@@ -1,0 +1,582 @@
+[
+  {
+    "sku": "EPC-0511E1",
+    "name": "Combi Oven 5 Tray GN1/1",
+    "cat": "Atosa \u00b7 Combi Oven",
+    "rrp": 8300.0,
+    "dims": "W786xD870xH712",
+    "capacity": "5 tray",
+    "type": "Combi Oven",
+    "img": "https://atosausa.com/wp-content/uploads/2023/11/0511-1000-by-1000-300x300.jpg"
+  },
+  {
+    "sku": "EPC-0711E2",
+    "name": "Combi Oven 7 Tray GN1/1",
+    "cat": "Atosa \u00b7 Combi Oven",
+    "rrp": 10500.0,
+    "dims": "W786xD870xH888",
+    "capacity": "7 tray",
+    "type": "Combi Oven",
+    "img": "https://atosausa.com/wp-content/uploads/2023/11/0711-300x300.png"
+  },
+  {
+    "sku": "EPC-1011E2",
+    "name": "Combi Oven 10 Tray GN1/1",
+    "cat": "Atosa \u00b7 Combi Oven",
+    "rrp": 13400.0,
+    "dims": "W786xD870xH1052",
+    "capacity": "10 tray",
+    "type": "Combi Oven",
+    "img": "https://atosausa.com/wp-content/uploads/2023/11/1011-front1000-by-1000-300x300.jpg"
+  },
+  {
+    "sku": "EPC-0621E2",
+    "name": "Combi Oven 6 Tray GN2/1",
+    "cat": "Atosa \u00b7 Combi Oven",
+    "rrp": 14800.0,
+    "dims": "W908xD1080xH922",
+    "capacity": "6 tray",
+    "type": "Combi Oven",
+    "img": "https://atosausa.com/wp-content/uploads/2023/11/0621-1000-by-1000-300x300.jpg"
+  },
+  {
+    "sku": "EPC-1021E3",
+    "name": "Combi Oven 10 Tray GN2/1",
+    "cat": "Atosa \u00b7 Combi Oven",
+    "rrp": 17300.0,
+    "dims": "W908xD1080xH1224",
+    "capacity": "10 tray",
+    "type": "Combi Oven",
+    "img": "https://atosausa.com/wp-content/uploads/2023/11/1021-front1000-by-1000-copy-300x300.jpg"
+  },
+  {
+    "sku": "MBF8004",
+    "name": "Gastronorm Single Door Refrigerator 600L",
+    "cat": "Atosa \u00b7 Upright Fridge",
+    "rrp": 3669.0,
+    "dims": "W730xD800xH2075",
+    "capacity": "600L",
+    "type": "Refrigerator",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/c/h/chiller_fridge_1.jpg"
+  },
+  {
+    "sku": "MBF8001",
+    "name": "Gastronorm Single Door Freezer 600L",
+    "cat": "Atosa \u00b7 Upright Freezer",
+    "rrp": 4129.0,
+    "dims": "W730xD800xH2075",
+    "capacity": "600L",
+    "type": "Freezer",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/c/h/chiller_fridge4_1.jpg"
+  },
+  {
+    "sku": "MBF8005",
+    "name": "Gastronorm Double Door Refrigerator 1200L",
+    "cat": "Atosa \u00b7 Upright Fridge",
+    "rrp": 5049.0,
+    "dims": "W1314xD800xH2075",
+    "capacity": "1200L",
+    "type": "Refrigerator",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/c/h/chiller_fridge.jpg"
+  },
+  {
+    "sku": "MBF8002",
+    "name": "Gastronorm Double Door Freezer 1200L",
+    "cat": "Atosa \u00b7 Upright Freezer",
+    "rrp": 5624.0,
+    "dims": "W1314xD800xH2075",
+    "capacity": "1200L",
+    "type": "Freezer",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/c/h/chiller_fridge4.jpg"
+  },
+  {
+    "sku": "YBF9206",
+    "name": "Compact Single Door Refrigerator 410L",
+    "cat": "Atosa \u00b7 Compact Fridge",
+    "rrp": 2979.0,
+    "dims": "W600xD730xH1955",
+    "capacity": "410L",
+    "type": "Refrigerator",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/y/b/ybp9206-07.jpg"
+  },
+  {
+    "sku": "YBF9218",
+    "name": "Compact Double Door Refrigerator 900L",
+    "cat": "Atosa \u00b7 Compact Fridge",
+    "rrp": 4359.0,
+    "dims": "W1200xD730xH1955",
+    "capacity": "900L",
+    "type": "Refrigerator",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/y/b/ybf9218-19.jpg"
+  },
+  {
+    "sku": "EPF3422",
+    "name": "Gastronorm 2 Door Underbench Refrigerator",
+    "cat": "Atosa \u00b7 Underbench Fridge",
+    "rrp": 3094.0,
+    "dims": "W1360xD700xH838",
+    "capacity": "280L",
+    "type": "Underbench Refrigerator",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/m/s/msf8301os.jpg"
+  },
+  {
+    "sku": "EPF3432",
+    "name": "Gastronorm 3 Door Underbench Refrigerator",
+    "cat": "Atosa \u00b7 Underbench Fridge",
+    "rrp": 3554.0,
+    "dims": "W1795xD700xH838",
+    "capacity": "420L",
+    "type": "Underbench Refrigerator",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/m/s/msf8301os.jpg"
+  },
+  {
+    "sku": "EBF-03",
+    "name": "Blast Chiller 3 Tray",
+    "cat": "Atosa \u00b7 Blast Chiller",
+    "rrp": 4190.0,
+    "dims": "W755xD832xH581",
+    "capacity": "74L",
+    "type": "Blast Chiller",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/b/ebf-3.jpg"
+  },
+  {
+    "sku": "EBF-10",
+    "name": "Blast Chiller 10 Tray",
+    "cat": "Atosa \u00b7 Blast Chiller",
+    "rrp": 8290.0,
+    "dims": "W750xD830xH1435",
+    "capacity": "178L",
+    "type": "Blast Chiller",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/b/ebf-5.jpg"
+  },
+  {
+    "sku": "BB-208HEC",
+    "name": "2 Door Back Bar Cooler 208L",
+    "cat": "Atosa \u00b7 Back Bar Cooler",
+    "rrp": 1485.0,
+    "dims": "W900xD530xH835",
+    "capacity": "208L",
+    "type": "Back Bar Cooler",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/b/b/bb-208hec.png"
+  },
+  {
+    "sku": "BB-208SEC",
+    "name": "2 Sliding Door Back Bar Cooler 208L",
+    "cat": "Atosa \u00b7 Back Bar Cooler",
+    "rrp": 1485.0,
+    "dims": "W900xD520xH835",
+    "capacity": "208L",
+    "type": "Back Bar Cooler",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/b/b/bb-208sec.png"
+  },
+  {
+    "sku": "P380WA",
+    "name": "Drink Cooler Single Door 380L",
+    "cat": "Atosa \u00b7 Drink Cooler",
+    "rrp": 1714.0,
+    "dims": "W606xD620xH1940",
+    "capacity": "380L",
+    "type": "Drink Cooler",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/p/3/p3800wa.jpg"
+  },
+  {
+    "sku": "P1000WB-A",
+    "name": "Drink Cooler Double Door 1000L",
+    "cat": "Atosa \u00b7 Drink Cooler",
+    "rrp": 2979.0,
+    "dims": "W1130xD720xH2023",
+    "capacity": "1000L",
+    "type": "Drink Cooler",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/p/1/p1000wb-a.jpg"
+  },
+  {
+    "sku": "JBF40RSGR",
+    "name": "Snowman Single Door Storage Refrigerator 430L",
+    "cat": "Atosa \u00b7 Economy Upright",
+    "rrp": 2690.0,
+    "dims": "W654xD800xH2065",
+    "capacity": "430L",
+    "type": "Refrigerator",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/j/b/jbf40rs-1-850x533.jpg"
+  },
+  {
+    "sku": "JBF80RSGR",
+    "name": "Snowman Double Door Storage Refrigerator 860L",
+    "cat": "Atosa \u00b7 Economy Upright",
+    "rrp": 3990.0,
+    "dims": "W1314xD800xH2065",
+    "capacity": "860L",
+    "type": "Refrigerator",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/j/b/jbf80rs-1-850x533_1.jpg"
+  },
+  {
+    "sku": "AT80G2B-F",
+    "name": "2 Burner Gas Cooktop with Stand",
+    "cat": "CookRite \u00b7 Gas Cooktop",
+    "rrp": 2294.0,
+    "dims": "W300xD800xH1000",
+    "capacity": "2 burner",
+    "type": "Gas Cooktop",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g2b-f_2000px_1200px_1.png"
+  },
+  {
+    "sku": "AT80G4B-F",
+    "name": "4 Burner Gas Cooktop with Stand",
+    "cat": "CookRite \u00b7 Gas Cooktop",
+    "rrp": 3099.0,
+    "dims": "W600xD800xH1000",
+    "capacity": "4 burner",
+    "type": "Gas Cooktop",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g4b-f_2000px_1200px.png"
+  },
+  {
+    "sku": "AT80G6B-F",
+    "name": "6 Burner Gas Cooktop with Stand",
+    "cat": "CookRite \u00b7 Gas Cooktop",
+    "rrp": 4134.0,
+    "dims": "W900xD800xH1000",
+    "capacity": "6 burner",
+    "type": "Gas Cooktop",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g4b-f_2000px_1200px.png"
+  },
+  {
+    "sku": "AT80G8B-F",
+    "name": "8 Burner Gas Cooktop with Stand",
+    "cat": "CookRite \u00b7 Gas Cooktop",
+    "rrp": 5629.0,
+    "dims": "W1200xD800xH1000",
+    "capacity": "8 burner",
+    "type": "Gas Cooktop",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g4b-f_2000px_1200px.png"
+  },
+  {
+    "sku": "AT80G6G-F",
+    "name": "600mm Gas Griddle with Stand",
+    "cat": "CookRite \u00b7 Gas Griddle",
+    "rrp": 2639.0,
+    "dims": "W600xD800xH1115",
+    "capacity": "4 burner",
+    "type": "Gas Range with Oven",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g12g-f.png"
+  },
+  {
+    "sku": "AT80G12G-F",
+    "name": "1200mm Gas Griddle with Stand",
+    "cat": "CookRite \u00b7 Gas Griddle",
+    "rrp": 5054.0,
+    "dims": "W900xD800xH1115",
+    "capacity": "6 burner",
+    "type": "Gas Range with Oven",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g12g-f.png"
+  },
+  {
+    "sku": "AT80G3C-F",
+    "name": "300mm Gas Char Grill with Stand",
+    "cat": "CookRite \u00b7 Char Grill",
+    "rrp": 2064.0,
+    "dims": "W600xD900xH1180",
+    "capacity": "1 wok(s)",
+    "type": "Wok Range",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g3c-f.png"
+  },
+  {
+    "sku": "AT80G6C-F",
+    "name": "600mm Gas Char Grill with Stand",
+    "cat": "CookRite \u00b7 Char Grill",
+    "rrp": 2984.0,
+    "dims": "W1200xD900xH1180",
+    "capacity": "2 wok(s)",
+    "type": "Wok Range",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g6c-f.png"
+  },
+  {
+    "sku": "ATFS-40",
+    "name": "Gas Deep Fryer 3-4 Tube",
+    "cat": "CookRite \u00b7 Deep Fryer",
+    "rrp": null,
+    "dims": "W600xD900xH1180",
+    "capacity": "",
+    "type": "Stockpot Boiler",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atfs-40-50-75_1.jpg"
+  },
+  {
+    "sku": "ATFS-75",
+    "name": "Gas Deep Fryer 5 Tube",
+    "cat": "CookRite \u00b7 Deep Fryer",
+    "rrp": null,
+    "dims": "460x570x720-750mm",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atfs-40-50-75_1_3.jpg"
+  },
+  {
+    "sku": "AT80G4B-O",
+    "name": "4 Burner Gas Range with Oven",
+    "cat": "CookRite \u00b7 Oven Range",
+    "rrp": null,
+    "dims": "600x600x820-850mm",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g4b-o.jpg"
+  },
+  {
+    "sku": "AT80G6B-O",
+    "name": "6 Burner Gas Range with Oven",
+    "cat": "CookRite \u00b7 Oven Range",
+    "rrp": null,
+    "dims": "400x600x300mm",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g6b-o.jpg"
+  },
+  {
+    "sku": "JA-1DB-N",
+    "name": "Single Wok Range Natural Gas",
+    "cat": "Jasper \u00b7 Asian Cooking",
+    "rrp": 3980.0,
+    "dims": "635x699x1453-1513mm",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image052.jpg"
+  },
+  {
+    "sku": "JA-2DB-N",
+    "name": "Double Wok Range Natural Gas",
+    "cat": "Jasper \u00b7 Asian Cooking",
+    "rrp": 6280.0,
+    "dims": "635x699x1454-1514mm",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image052.jpg"
+  },
+  {
+    "sku": "JA-SPB-N",
+    "name": "Stockpot Boiler Natural Gas",
+    "cat": "Jasper \u00b7 Asian Cooking",
+    "rrp": 4380.0,
+    "dims": "500x500x820-850mm",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image052.jpg"
+  },
+  {
+    "sku": "MPF8201",
+    "name": "Single Door Pizza Prep Refrigerator",
+    "cat": "Atosa \u00b7 Pizza Prep",
+    "rrp": null,
+    "dims": "600x603x820-850mm",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/8/2/8201-750x900.jpg"
+  },
+  {
+    "sku": "MPF8202",
+    "name": "Double Door Pizza Prep Refrigerator",
+    "cat": "Atosa \u00b7 Pizza Prep",
+    "rrp": null,
+    "dims": "600x603x820-850mm",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/m/p/mpf8202_600.png"
+  },
+  {
+    "sku": "MSF8301",
+    "name": "Single Door Sandwich Prep Refrigerator",
+    "cat": "Atosa \u00b7 Sandwich Prep",
+    "rrp": null,
+    "dims": "700x603x820-850mm",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image052.jpg"
+  },
+  {
+    "sku": "MSF8302",
+    "name": "Double Door Sandwich Prep Refrigerator",
+    "cat": "Atosa \u00b7 Sandwich Prep",
+    "rrp": null,
+    "dims": "500x500x820-850mm",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/c/d/cd0d165e9302c73978d21d8cbf01c48a.jpg"
+  },
+  {
+    "sku": "MGF8450",
+    "name": "Chef Base 2 Drawers",
+    "cat": "Atosa \u00b7 Chef Base",
+    "rrp": null,
+    "dims": "600x603x820-850mm",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/m/g/mgf8450-8451_b1-1.jpg"
+  },
+  {
+    "sku": "MGF8453",
+    "name": "Chef Base 4 Drawers",
+    "cat": "Atosa \u00b7 Chef Base",
+    "rrp": null,
+    "dims": "635x712x1460-1515mm",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/m/g/mgf8453_600_closed.jpg"
+  },
+  {
+    "sku": "C400",
+    "name": "C400 Undercounter",
+    "cat": "Classeq \u00b7 Warewashing",
+    "rrp": 4492.0,
+    "dims": "735x750x1460-1995mm",
+    "capacity": "",
+    "type": "",
+    "img": "https://www.classeq.com.au/wp-content/uploads/2025/03/C400_Closed.jpg"
+  },
+  {
+    "sku": "C500",
+    "name": "C500 Undercounter",
+    "cat": "Classeq \u00b7 Warewashing",
+    "rrp": 6850.0,
+    "dims": "635x712x1460-1515mm",
+    "capacity": "",
+    "type": "",
+    "img": "https://www.classeq.com.au/wp-content/uploads/2025/03/C500_Overhead.jpg"
+  },
+  {
+    "sku": "C500DD",
+    "name": "C500DD Undercounter Utensil / Tray Washer",
+    "cat": "Classeq \u00b7 Warewashing",
+    "rrp": null,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://www.classeq.com.au/wp-content/uploads/2025/03/classeq_c500dd_hero_open_butcher_0298_RGB_72dpi.png"
+  },
+  {
+    "sku": "CP500",
+    "name": "CP500 Pass Through Dishwasher",
+    "cat": "Classeq \u00b7 Warewashing",
+    "rrp": null,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://www.classeq.com.au/wp-content/uploads/2025/09/CP500_gesamt_gerade_zu_0590.png"
+  },
+  {
+    "sku": "CP500SR",
+    "name": "CP500SR Pass Through Dishwasher with Steam Recovery",
+    "cat": "Classeq \u00b7 Warewashing",
+    "rrp": null,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://www.classeq.com.au/wp-content/uploads/2025/09/cp500sr.png"
+  },
+  {
+    "sku": "WH-UC-S",
+    "name": "UC-S Undercounter",
+    "cat": "Winterhalter \u00b7 Warewashing",
+    "rrp": 10720.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://www.winterhalter.com/fileadmin/user_upload/Website/Corporate/products/warewashers/undercounter/uc-s/winterhalter-uc-s-undercounter-warewasher.jpg"
+  },
+  {
+    "sku": "WH-UC-M",
+    "name": "UC-M Undercounter",
+    "cat": "Winterhalter \u00b7 Warewashing",
+    "rrp": 11770.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://www.winterhalter.com/fileadmin/user_upload/Website/Corporate/products/warewashers/undercounter/uc-m/winterhalter-uc-m-undercounter-warewasher.jpg"
+  },
+  {
+    "sku": "WH-UC-L",
+    "name": "UC-L Undercounter",
+    "cat": "Winterhalter \u00b7 Warewashing",
+    "rrp": 12853.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://www.winterhalter.com/fileadmin/user_upload/Website/Corporate/products/warewashers/undercounter/uc-l/winterhalter-uc-l-undercounter-warewasher.jpg"
+  },
+  {
+    "sku": "WH-UC-XL",
+    "name": "UC-XL Undercounter",
+    "cat": "Winterhalter \u00b7 Warewashing",
+    "rrp": 15085.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://www.winterhalter.com/fileadmin/user_upload/Website/Corporate/products/warewashers/undercounter/uc-xl/winterhalter-uc-xl-undercounter-warewasher.jpg"
+  },
+  {
+    "sku": "WH-UC-S-EXI",
+    "name": "UC-S Excellence-i Polish-Free Undercounter",
+    "cat": "Winterhalter \u00b7 Warewashing",
+    "rrp": 13620.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://www.winterhalter.com/fileadmin/user_upload/Website/Corporate/products/warewashers/undercounter/uc-s/winterhalter-uc-s-excellence-i-undercounter-warewasher.jpg"
+  },
+  {
+    "sku": "WH-UC-M-EXI",
+    "name": "UC-M Excellence-i Polish-Free Undercounter",
+    "cat": "Winterhalter \u00b7 Warewashing",
+    "rrp": 16127.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://www.winterhalter.com/fileadmin/user_upload/Website/Corporate/products/warewashers/undercounter/uc-m/winterhalter-uc-m-excellence-i-undercounter-warewasher.jpg"
+  },
+  {
+    "sku": "WH-PT-M",
+    "name": "PT-M Pass Through Dishwasher",
+    "cat": "Winterhalter \u00b7 Warewashing",
+    "rrp": 24553.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://www.winterhalter.com/fileadmin/user_upload/Website/Australia/products/warewashers/passtrough-dishwashers/winterhalter-passthrough-dishwasher-pt-series-restaurant.jpg"
+  },
+  {
+    "sku": "WH-PT-L",
+    "name": "PT-L Pass Through Dishwasher",
+    "cat": "Winterhalter \u00b7 Warewashing",
+    "rrp": 29515.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://www.winterhalter.com/fileadmin/user_upload/Website/Australia/products/warewashers/passtrough-dishwashers/winterhalter-passthrough-dishwasher-pt-series-restaurant.jpg"
+  },
+  {
+    "sku": "WH-PT-XL",
+    "name": "PT-XL Pass Through Dishwasher / Utensil Washer",
+    "cat": "Winterhalter \u00b7 Warewashing",
+    "rrp": 30422.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://www.winterhalter.com/fileadmin/user_upload/Website/Australia/products/warewashers/passtrough-dishwashers/winterhalter-passthrough-dishwasher-pt-series-restaurant.jpg"
+  },
+  {
+    "sku": "WH-GS630",
+    "name": "GS 630 Utensil Washer",
+    "cat": "Winterhalter \u00b7 Warewashing",
+    "rrp": 20007.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://www.winterhalter.com/fileadmin/user_upload/Website/Corporate/products/warewashers/utensil-washers/gs-630/winterhalter-gs-630-utensil-washer.jpg"
+  },
+  {
+    "sku": "WH-UF-XL",
+    "name": "UF-XL Utensil Washer",
+    "cat": "Winterhalter \u00b7 Warewashing",
+    "rrp": 34431.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://www.winterhalter.com/fileadmin/user_upload/Website/Corporate/products/warewashers/utensil-washers/uf/winterhalter-uf-utensil-washer.jpg"
+  }
+]
