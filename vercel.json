@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "ignoreCommand": "git diff HEAD~1 --name-only | grep -qvE '^data/'",
   "functions": {
     "api/**/*.js": {
       "maxDuration": 30
