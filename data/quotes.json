@@ -4,5 +4,11 @@
     "status": "sent",
     "approvedAt": "2026-05-22T11:20:05.722Z",
     "paymentLink": null
+  },
+  {
+    "quoteId": "CBO-260522-3755",
+    "status": "sent",
+    "approvedAt": "2026-05-22T11:22:47.133Z",
+    "paymentLink": null
   }
 ]
