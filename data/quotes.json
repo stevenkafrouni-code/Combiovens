@@ -28,5 +28,49 @@
     "status": "sent",
     "approvedAt": "2026-05-22T12:39:14.266Z",
     "paymentLink": null
+  },
+  {
+    "quoteId": "CBO-260522-5088",
+    "timestamp": "2026-05-22T13:13:34.677Z",
+    "name": "Steven Kafrouni",
+    "businessName": "Miss Pickle",
+    "email": "steven@misspickle.com.au",
+    "phone": "0410776713",
+    "postcode": "3977",
+    "address": "11 Powerscout Retreat",
+    "suburb": "Cranbourne",
+    "state": "VIC",
+    "notes": "",
+    "deliveryNotes": "",
+    "items": [
+      {
+        "sku": "EPC-1011E2",
+        "desc": "Combi Oven 10 Tray GN1/1",
+        "qty": 1
+      },
+      {
+        "sku": "EBF-10",
+        "desc": "Blast Chiller 10 Tray",
+        "qty": 1
+      },
+      {
+        "sku": "AT80G2B-F",
+        "desc": "2 Burner Gas Cooktop with Stand",
+        "qty": 1
+      },
+      {
+        "sku": "AT80G6C-F",
+        "desc": "600mm Gas Char Grill with Stand",
+        "qty": 1
+      }
+    ],
+    "referralCode": "",
+    "subtotal": 17529.2,
+    "discount": 0,
+    "total": 17529.2,
+    "gst": 1752.92,
+    "totalIncGst": 19282.12,
+    "hasPoaItems": false,
+    "status": "sent"
   }
 ]
