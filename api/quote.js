@@ -5,8 +5,8 @@
 const { buildQuoteLines, applyReferralDiscount, buildMarginSummary } = require('../lib/products');
 const { validateCode }   = require('../lib/referral');
 const { validateQuote }  = require('../lib/claude');
-const { logQuote, logCustomer } = require('../lib/sheets');
-const { sendQuoteForApproval }  = require('../lib/email');
+const { appendToFile }   = require('../lib/storage');
+const { sendQuoteToCustomer }   = require('../lib/email');
 
 function generateQuoteId() {
   const now  = new Date();
@@ -118,7 +118,7 @@ module.exports = async (req, res) => {
       gst:          finalGst,
       totalIncGst:  finalIncGst,
       hasPoaItems,
-      status:       'pending_approval',
+      status:       'sent',
     };
 
     // ── Claude validates ──────────────────────────────────────────────────────
@@ -130,16 +130,15 @@ module.exports = async (req, res) => {
       referralUsed: !!discount,
     });
 
-    // ── Log to Google Sheets ──────────────────────────────────────────────────
-    await logQuote(quote);
-    await logCustomer(customer);
+    // ── Store quote and customer ──────────────────────────────────────────────
+    await appendToFile('data/quotes.json', quote);
+    await appendToFile('data/customers.json', customer);
 
-    // ── Email admin for approval (with margin summary) ────────────────────────
-    await sendQuoteForApproval({
+    // ── Send quote directly to customer ───────────────────────────────────────
+    await sendQuoteToCustomer({
       quote,
       lines,
-      marginSummary,
-      aiReview,
+      claudeNote: aiReview?.customerNote,
     });
 
     return res.status(200).json({
