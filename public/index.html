@@ -227,6 +227,17 @@ footer{background:var(--black);border-top:1px solid rgba(255,255,255,.06);paddin
 .footer-legal a{font-size:13px;color:var(--steel);text-decoration:none}
 .footer-legal a:hover{color:var(--silver)}
 
+/* SEARCH */
+.search-wrap{position:relative;margin-bottom:16px}
+.search-input{width:100%;background:var(--dark);border:1px solid rgba(255,255,255,.1);border-radius:2px;color:var(--light);font-family:'Barlow',sans-serif;font-size:15px;padding:14px 48px 14px 44px;transition:border-color .2s;outline:none}
+.search-input:focus{border-color:var(--orange)}
+.search-input::placeholder{color:var(--steel)}
+.search-icon{position:absolute;left:16px;top:50%;transform:translateY(-50%);font-size:16px;pointer-events:none;opacity:.4}
+.search-clear{position:absolute;right:14px;top:50%;transform:translateY(-50%);background:none;border:none;color:var(--steel);font-size:22px;cursor:pointer;padding:0 4px;line-height:1;transition:color .2s;display:none}
+.search-clear:hover{color:var(--white)}
+.search-info{font-family:'Barlow Condensed',sans-serif;font-size:13px;color:var(--steel);margin-bottom:16px;letter-spacing:.04em;min-height:20px}
+.search-info strong{color:var(--orange)}
+
 /* CART FAB */
 .cart-fab{position:fixed;bottom:32px;right:32px;z-index:150;background:var(--orange);color:var(--white);border:none;border-radius:3px;padding:14px 22px;font-family:'Barlow Condensed',sans-serif;font-size:15px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;cursor:pointer;display:flex;align-items:center;gap:10px;box-shadow:0 4px 24px rgba(232,93,4,.4);transition:transform .2s,background .2s}
 .cart-fab:hover{background:var(--orange-light);transform:translateY(-2px)}
@@ -406,6 +417,12 @@ footer{background:var(--black);border-top:1px solid rgba(255,255,255,.06);paddin
       <a href="#quote" class="section-link">Request full catalogue →</a>
     </div>
     <p class="quote-prompt">Select the equipment you need — we'll send your itemised quote instantly. No phone tag, no waiting.</p>
+    <div class="search-wrap">
+      <span class="search-icon">🔍</span>
+      <input class="search-input" id="productSearch" type="text" placeholder="Search by name, SKU or category — e.g. 'underbench fridge' or 'EPC-0711'" oninput="handleSearch(this.value)" autocomplete="off">
+      <button class="search-clear" id="searchClear" onclick="clearSearch()">×</button>
+    </div>
+    <div class="search-info" id="searchInfo"></div>
     <div class="filter-bar" id="filterBar">
       <button class="filter-pill active" onclick="filterCat('all')">All</button>
       <button class="filter-pill" onclick="filterCat('combi')">Combi Ovens</button>
@@ -924,6 +941,7 @@ const PRODUCTS = [
 
 // ── FILTER & RENDER ───────────────────────────────────────────────────────────
 let currentCat = 'all';
+let searchQuery = '';
 
 const CAT_MAP = {
   'combi':         p => p.cat.includes('Combi'),
@@ -958,12 +976,40 @@ function filterCat(cat) {
   renderProducts();
 }
 
+function handleSearch(val) {
+  searchQuery = val.trim().toLowerCase();
+  document.getElementById('searchClear').style.display = searchQuery ? 'block' : 'none';
+  renderProducts();
+}
+
+function clearSearch() {
+  searchQuery = '';
+  document.getElementById('productSearch').value = '';
+  document.getElementById('searchClear').style.display = 'none';
+  renderProducts();
+}
+
 function renderProducts() {
   const grid = document.getElementById('productGrid');
-  const filter = CAT_MAP[currentCat] || (p => true);
-  const products = PRODUCTS.filter(filter);
+  const catFilter = CAT_MAP[currentCat] || (p => true);
+  const q = searchQuery;
+  const products = PRODUCTS.filter(p => {
+    if (!catFilter(p)) return false;
+    if (!q) return true;
+    return (p.name + ' ' + p.sku + ' ' + p.cat + ' ' + (p.desc || '')).toLowerCase().includes(q);
+  });
+
+  const infoEl = document.getElementById('searchInfo');
+  if (q) {
+    infoEl.innerHTML = products.length
+      ? `<strong>${products.length}</strong> result${products.length !== 1 ? 's' : ''} for "<strong>${q}</strong>"`
+      : `No results for "<strong>${q}</strong>" — try a different term or <a href="#" onclick="clearSearch();return false;" style="color:var(--orange)">clear search</a>`;
+  } else {
+    infoEl.innerHTML = '';
+  }
+
   if (products.length === 0) {
-    grid.innerHTML = '<div style="color:var(--steel);padding:40px;grid-column:1/-1;text-align:center">No products found in this category.</div>';
+    grid.innerHTML = '<div style="color:var(--steel);padding:40px;grid-column:1/-1;text-align:center">No products found.</div>';
     return;
   }
   grid.innerHTML = products.map(p => `
