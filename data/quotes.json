@@ -72,5 +72,49 @@
     "totalIncGst": 19282.12,
     "hasPoaItems": false,
     "status": "sent"
+  },
+  {
+    "quoteId": "CBO-260522-7831",
+    "timestamp": "2026-05-22T21:21:08.166Z",
+    "name": "Chloe",
+    "businessName": "MM",
+    "email": "chloe@misspickle.com.au",
+    "phone": "099",
+    "postcode": "3000",
+    "address": "jj",
+    "suburb": "ed",
+    "state": "NT",
+    "notes": "",
+    "deliveryNotes": "",
+    "items": [
+      {
+        "sku": "EPC-1011E2",
+        "desc": "Combi Oven 10 Tray GN1/1",
+        "qty": 1
+      },
+      {
+        "sku": "MBF8004",
+        "desc": "Gastronorm Single Door Refrigerator 600L",
+        "qty": 1
+      },
+      {
+        "sku": "AT80G6C-F",
+        "desc": "600mm Gas Char Grill with Stand",
+        "qty": 1
+      },
+      {
+        "sku": "MSF8302",
+        "desc": "Double Door Sandwich Prep Refrigerator",
+        "qty": 1
+      }
+    ],
+    "referralCode": "",
+    "subtotal": 13034.45,
+    "discount": 0,
+    "total": 13034.45,
+    "gst": 1303.45,
+    "totalIncGst": 14337.9,
+    "hasPoaItems": true,
+    "status": "sent"
   }
 ]
