@@ -227,6 +227,10 @@ footer{background:var(--black);border-top:1px solid rgba(255,255,255,.06);paddin
 .footer-legal a{font-size:13px;color:var(--steel);text-decoration:none}
 .footer-legal a:hover{color:var(--silver)}
 
+/* DEALER BADGE */
+.dealer-tag{display:inline-flex;align-items:center;gap:4px;font-family:'Barlow Condensed',sans-serif;font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--teal);border:1px solid rgba(0,180,166,.3);border-radius:2px;padding:3px 8px;margin-bottom:8px}
+.modal-dealer-badge{display:flex;align-items:center;gap:8px;background:rgba(0,180,166,.07);border:1px solid rgba(0,180,166,.2);border-radius:2px;padding:10px 16px;font-family:'Barlow Condensed',sans-serif;font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--teal);margin-bottom:16px}
+
 /* SEARCH */
 .search-wrap{position:relative;margin-bottom:16px}
 .search-input{width:100%;background:var(--dark);border:1px solid rgba(255,255,255,.1);border-radius:2px;color:var(--light);font-family:'Barlow',sans-serif;font-size:15px;padding:14px 48px 14px 44px;transition:border-color .2s;outline:none}
@@ -615,6 +619,7 @@ footer{background:var(--black);border-top:1px solid rgba(255,255,255,.06);paddin
     </div>
     <div class="modal-body">
       <img id="modalImg" class="modal-product-img" src="" alt="" onerror="this.style.display='none'">
+      <div id="modalDealerBadge" class="modal-dealer-badge" style="display:none">✓ Authorised Australian Dealer</div>
       <div class="modal-specs" id="modalSpecs"></div>
       <div class="modal-dims" id="modalDims"></div>
       <div class="modal-rrp-row">
@@ -1025,6 +1030,7 @@ function renderProducts() {
       </div>
       <div class="product-body">
         <div class="product-category">${p.cat}</div>
+        <div class="dealer-tag">✓ Auth. Dealer</div>
         <div class="product-name">${p.name}</div>
         <div class="product-sku">${p.sku}</div>
         <div class="product-specs">${p.specs.map(s=>'<span class="spec-tag">' + s + '</span>').join('')}</div>
@@ -1062,9 +1068,25 @@ function handleCardClick(el) {
   openModal(sku, name, rrp, img, specs);
 }
 
+function getBrand(cat) {
+  if (cat.includes('Atosa'))        return 'Atosa';
+  if (cat.includes('CookRite'))     return 'CookRite';
+  if (cat.includes('Jasper'))       return 'Jasper';
+  if (cat.includes('MixRite'))      return 'MixRite';
+  if (cat.includes('Classeq'))      return 'Classeq';
+  if (cat.includes('Winterhalter')) return 'Winterhalter';
+  if (cat.includes('IceMS'))        return 'IceMS';
+  return null;
+}
+
 function openModal(sku, name, rrp, img, specs) {
   _sku = sku; _rrp = rrp;
   document.getElementById('modalSub').textContent = sku + ' · ' + name;
+  const prod = PRODUCTS.find(p => p.sku === sku);
+  const badge = document.getElementById('modalDealerBadge');
+  const brand = prod ? getBrand(prod.cat) : null;
+  if (brand) { badge.textContent = '✓ Authorised Australian ' + brand + ' Dealer'; badge.style.display = 'flex'; }
+  else { badge.style.display = 'none'; }
   document.getElementById('modalRrp').textContent = '$' + rrp.toLocaleString();
   const imgEl = document.getElementById('modalImg');
   imgEl.src = img; imgEl.alt = name; imgEl.style.display = 'block';
