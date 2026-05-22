@@ -10,5 +10,17 @@
     "state": "VIC",
     "notes": "",
     "deliveryNotes": ""
+  },
+  {
+    "name": "Chloe",
+    "businessName": "MM",
+    "email": "chloe@misspickle.com.au",
+    "phone": "099",
+    "postcode": "3000",
+    "address": "jj",
+    "suburb": "ed",
+    "state": "NT",
+    "notes": "",
+    "deliveryNotes": ""
   }
 ]
