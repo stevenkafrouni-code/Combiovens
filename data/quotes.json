@@ -22,5 +22,11 @@
     "status": "sent",
     "approvedAt": "2026-05-22T11:51:18.071Z",
     "paymentLink": null
+  },
+  {
+    "quoteId": "CBO-260522-5956",
+    "status": "sent",
+    "approvedAt": "2026-05-22T12:39:14.266Z",
+    "paymentLink": null
   }
 ]
