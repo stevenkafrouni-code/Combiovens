@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "Steven Kafrouni",
+    "businessName": "Miss Pickle",
+    "email": "steven@misspickle.com.au",
+    "phone": "0410776713",
+    "postcode": "3977",
+    "address": "11 Powerscout Retreat",
+    "suburb": "Cranbourne",
+    "state": "VIC",
+    "notes": "",
+    "deliveryNotes": ""
+  }
+]
