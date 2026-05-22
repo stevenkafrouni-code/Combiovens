@@ -227,6 +227,37 @@ footer{background:var(--black);border-top:1px solid rgba(255,255,255,.06);paddin
 .footer-legal a{font-size:13px;color:var(--steel);text-decoration:none}
 .footer-legal a:hover{color:var(--silver)}
 
+/* CART FAB */
+.cart-fab{position:fixed;bottom:32px;right:32px;z-index:150;background:var(--orange);color:var(--white);border:none;border-radius:3px;padding:14px 22px;font-family:'Barlow Condensed',sans-serif;font-size:15px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;cursor:pointer;display:flex;align-items:center;gap:10px;box-shadow:0 4px 24px rgba(232,93,4,.4);transition:transform .2s,background .2s}
+.cart-fab:hover{background:var(--orange-light);transform:translateY(-2px)}
+.cart-fab-count{background:var(--white);color:var(--orange);font-size:13px;font-weight:900;min-width:22px;height:22px;border-radius:11px;display:flex;align-items:center;justify-content:center;padding:0 5px}
+/* CART OVERLAY + DRAWER */
+.cart-overlay{position:fixed;inset:0;background:rgba(0,0,0,.65);z-index:300;opacity:0;pointer-events:none;transition:opacity .25s}
+.cart-overlay.active{opacity:1;pointer-events:all}
+.cart-drawer{position:fixed;top:0;right:0;bottom:0;width:400px;max-width:100vw;background:var(--charcoal);border-left:1px solid rgba(255,255,255,.08);z-index:301;transform:translateX(100%);transition:transform .3s cubic-bezier(.4,0,.2,1);display:flex;flex-direction:column}
+.cart-drawer.open{transform:translateX(0)}
+.cart-head{padding:28px 28px 20px;border-bottom:1px solid rgba(255,255,255,.06);display:flex;justify-content:space-between;align-items:flex-start;flex-shrink:0}
+.cart-head-title{font-family:'Barlow Condensed',sans-serif;font-size:22px;font-weight:800;text-transform:uppercase;color:var(--white)}
+.cart-head-count{font-size:13px;color:var(--steel);margin-top:3px}
+.cart-list{flex:1;overflow-y:auto;padding:8px 28px}
+.cart-empty{padding:48px 0;text-align:center;color:var(--steel);font-size:14px;font-weight:300;line-height:1.7}
+.cart-item{display:flex;gap:14px;padding:16px 0;border-bottom:1px solid rgba(255,255,255,.06);align-items:flex-start}
+.cart-item-img{width:56px;height:56px;object-fit:contain;background:var(--dark);border-radius:2px;padding:6px;flex-shrink:0}
+.cart-item-info{flex:1;min-width:0}
+.cart-item-name{font-family:'Barlow Condensed',sans-serif;font-size:15px;font-weight:700;text-transform:uppercase;color:var(--white);line-height:1.2;margin-bottom:2px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.cart-item-sku{font-size:11px;color:var(--steel);margin-bottom:6px;letter-spacing:.06em}
+.cart-item-rrp{font-size:12px;color:var(--steel)}
+.cart-item-rrp s{color:var(--silver)}
+.cart-qty{display:flex;align-items:center;gap:8px;margin-top:8px}
+.cart-qty-btn{background:var(--dark);border:1px solid rgba(255,255,255,.1);color:var(--light);width:28px;height:28px;border-radius:2px;cursor:pointer;font-size:18px;display:flex;align-items:center;justify-content:center;transition:border-color .2s,color .2s;line-height:1}
+.cart-qty-btn:hover{border-color:var(--orange);color:var(--orange)}
+.cart-qty-val{font-family:'Barlow Condensed',sans-serif;font-size:17px;font-weight:700;color:var(--white);min-width:22px;text-align:center}
+.cart-remove{background:none;border:none;color:var(--steel);font-size:20px;cursor:pointer;padding:2px 4px;line-height:1;flex-shrink:0;transition:color .2s;align-self:center}
+.cart-remove:hover{color:var(--orange)}
+.cart-foot{padding:20px 28px;border-top:1px solid rgba(255,255,255,.06);flex-shrink:0}
+.cart-note{font-size:12px;color:var(--steel);text-align:center;margin-top:10px;line-height:1.5}
+@media(max-width:640px){.cart-fab{bottom:20px;right:20px;padding:12px 18px;font-size:14px}}
+
 /* ANIMATIONS */
 @keyframes fadeUp{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:translateY(0)}}
 .fade-up{opacity:0;animation:fadeUp .6s ease forwards}
@@ -576,9 +607,34 @@ footer{background:var(--black);border-top:1px solid rgba(255,255,255,.06);paddin
         <label>Quantity</label>
         <input type="number" id="modalQty" value="1" min="1" max="99" style="max-width:120px">
       </div>
-      <button class="btn btn-primary" style="width:100%;justify-content:center" onclick="addToQuoteFromModal()">Add to Quote & Continue →</button>
-      <p style="text-align:center;margin-top:12px"><a href="#quote" onclick="closeModal()" style="color:var(--steel);font-size:13px">Or go straight to quote form</a></p>
+      <button class="btn btn-primary" style="width:100%;justify-content:center" onclick="addToCartFromModal()">Add to Cart →</button>
+      <p style="text-align:center;margin-top:12px"><a href="#" onclick="closeModal();openCart();return false;" style="color:var(--steel);font-size:13px">View cart &amp; request quote</a></p>
     </div>
+  </div>
+</div>
+
+<!-- CART FAB -->
+<button id="cartFab" class="cart-fab" onclick="openCart()" style="display:none">
+  Quote List
+  <span id="cartFabCount" class="cart-fab-count">0</span>
+</button>
+
+<!-- CART DRAWER -->
+<div id="cartOverlay" class="cart-overlay" onclick="closeCart()"></div>
+<div id="cartDrawer" class="cart-drawer">
+  <div class="cart-head">
+    <div>
+      <div class="cart-head-title">Quote List</div>
+      <div id="cartHeadCount" class="cart-head-count">0 items</div>
+    </div>
+    <button class="modal-close" onclick="closeCart()">×</button>
+  </div>
+  <div id="cartItems" class="cart-list">
+    <div class="cart-empty">Your quote list is empty.<br>Browse products and click <strong style="color:var(--light)">Add to Quote</strong>.</div>
+  </div>
+  <div class="cart-foot">
+    <button onclick="proceedToQuote()" class="btn btn-primary" style="width:100%;justify-content:center;font-size:16px">Request Quote →</button>
+    <p class="cart-note">Your itemised quote will be emailed instantly. No obligation.</p>
   </div>
 </div>
 
@@ -927,7 +983,7 @@ function renderProducts() {
             ${p.rrp ? '<div class="product-rrp-val">$' + p.rrp.toLocaleString() + '</div>' : '<div class="product-rrp-val" style="font-size:14px;color:var(--steel)">POA</div>'}
             <div class="cant-show-tag">Our price — get quote</div>
           </div>
-          <button class="product-quote-btn">Add to Quote</button>
+          <button class="product-quote-btn" onclick="event.stopPropagation();addProductFromCard(this.closest('.product-card'))">Add to Quote</button>
         </div>
       </div>
     </div>
@@ -997,45 +1053,158 @@ function closeModalOverlay(e) {
   if(e.target===document.getElementById('quoteModal')) closeModal();
 }
 
-function addToQuoteFromModal() {
-  const qty = parseInt(document.getElementById('modalQty').value) || 1;
+// ── CART ──────────────────────────────────────────────────────────────────────
+let cart = JSON.parse(localStorage.getItem('cbo_cart') || '[]');
+
+function saveCart() {
+  localStorage.setItem('cbo_cart', JSON.stringify(cart));
+}
+
+function addProductFromCard(card) {
+  const sku  = card.dataset.sku;
+  const name = card.dataset.name;
+  const rrp  = parseFloat(card.dataset.rrp) || 0;
+  const img  = card.dataset.img;
+  const btn  = card.querySelector('.product-quote-btn');
+  addProductToCart(sku, name, 1, rrp, img, btn);
+}
+
+function addProductToCart(sku, name, qty, rrp, img, btn) {
+  const existing = cart.find(i => i.sku === sku);
+  if (existing) {
+    existing.qty += qty;
+  } else {
+    cart.push({ sku, name, qty, rrp, img });
+  }
+  saveCart();
+  updateCartUI();
+  if (btn) {
+    const orig = btn.textContent;
+    btn.textContent = 'Added ✓';
+    btn.style.background = 'var(--teal)';
+    setTimeout(() => { btn.textContent = orig; btn.style.background = ''; syncCartButtons(); }, 1400);
+  }
+}
+
+function addToCartFromModal() {
+  const qty  = parseInt(document.getElementById('modalQty').value) || 1;
   const sku  = _sku;
   const name = document.getElementById('modalSub').textContent.split(' · ')[1] || '';
-  
+  const prod = PRODUCTS.find(p => p.sku === sku);
+  addProductToCart(sku, name, qty, _rrp, prod?.img || '');
   closeModal();
-  
-  // Scroll to quote section
+  setTimeout(() => openCart(), 200);
+}
+
+function updateCartQty(sku, delta) {
+  const item = cart.find(i => i.sku === sku);
+  if (!item) return;
+  item.qty = Math.max(1, item.qty + delta);
+  saveCart();
+  renderCart();
+  updateCartFab();
+  syncCartButtons();
+}
+
+function removeFromCart(sku) {
+  cart = cart.filter(i => i.sku !== sku);
+  saveCart();
+  renderCart();
+  updateCartFab();
+  syncCartButtons();
+}
+
+function clearCart() {
+  cart = [];
+  saveCart();
+  updateCartUI();
+}
+
+function updateCartFab() {
+  const fab   = document.getElementById('cartFab');
+  const count = cart.reduce((s, i) => s + i.qty, 0);
+  if (count > 0) {
+    fab.style.display = 'flex';
+    document.getElementById('cartFabCount').textContent = count;
+  } else {
+    fab.style.display = 'none';
+  }
+}
+
+function syncCartButtons() {
+  document.querySelectorAll('.product-card').forEach(card => {
+    const sku  = card.dataset.sku;
+    const btn  = card.querySelector('.product-quote-btn');
+    if (!btn) return;
+    const item = cart.find(i => i.sku === sku);
+    if (item) {
+      btn.textContent = 'In Cart (' + item.qty + ')';
+      btn.style.background = 'var(--teal)';
+    } else {
+      btn.textContent = 'Add to Quote';
+      btn.style.background = '';
+    }
+  });
+}
+
+function renderCart() {
+  const el    = document.getElementById('cartItems');
+  const count = cart.reduce((s, i) => s + i.qty, 0);
+  document.getElementById('cartHeadCount').textContent = count + ' item' + (count !== 1 ? 's' : '');
+  if (cart.length === 0) {
+    el.innerHTML = '<div class="cart-empty">Your quote list is empty.<br>Browse the products above and click <strong style="color:var(--light)">Add to Quote</strong>.</div>';
+    return;
+  }
+  el.innerHTML = cart.map(item => `
+    <div class="cart-item">
+      <img class="cart-item-img" src="${item.img}" alt="${item.name}" onerror="this.style.display='none'">
+      <div class="cart-item-info">
+        <div class="cart-item-name">${item.name}</div>
+        <div class="cart-item-sku">${item.sku}</div>
+        ${item.rrp ? '<div class="cart-item-rrp">RRP <s>$' + item.rrp.toLocaleString() + '</s></div>' : ''}
+        <div class="cart-qty">
+          <button class="cart-qty-btn" onclick="updateCartQty('${item.sku}', -1)">−</button>
+          <span class="cart-qty-val">${item.qty}</span>
+          <button class="cart-qty-btn" onclick="updateCartQty('${item.sku}', 1)">+</button>
+        </div>
+      </div>
+      <button class="cart-remove" onclick="removeFromCart('${item.sku}')" title="Remove">×</button>
+    </div>
+  `).join('');
+}
+
+function updateCartUI() {
+  updateCartFab();
+  renderCart();
+  syncCartButtons();
+}
+
+function openCart() {
+  renderCart();
+  document.getElementById('cartOverlay').classList.add('active');
+  document.getElementById('cartDrawer').classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+
+function closeCart() {
+  document.getElementById('cartOverlay').classList.remove('active');
+  document.getElementById('cartDrawer').classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+function proceedToQuote() {
+  if (cart.length === 0) return;
+  closeCart();
+  const container = document.getElementById('quoteItems');
+  container.innerHTML = cart.map(item => `
+    <div class="quote-item-row">
+      <input type="text" class="item-sku" value="${item.sku}" style="text-transform:uppercase" oninput="this.value=this.value.toUpperCase()">
+      <input type="text" class="item-desc" value="${item.name}" placeholder="Description">
+      <input type="number" class="item-qty" value="${item.qty}" min="1" max="99">
+      <button type="button" class="remove-btn" onclick="removeItem(this)">×</button>
+    </div>
+  `).join('');
   document.getElementById('quote').scrollIntoView({ behavior: 'smooth' });
-  
-  setTimeout(() => {
-    // Find first empty SKU row or add a new one
-    const rows = document.querySelectorAll('.quote-item-row');
-    let added = false;
-    
-    for (const row of rows) {
-      const skuInput = row.querySelector('.item-sku');
-      if (!skuInput.value.trim()) {
-        skuInput.value = sku;
-        row.querySelector('.item-desc').value = name;
-        row.querySelector('.item-qty').value = qty;
-        added = true;
-        skuInput.focus();
-        break;
-      }
-    }
-    
-    if (!added) {
-      addItem(sku, name, qty);
-    }
-    
-    // Flash the quote section to confirm
-    const quoteWrap = document.querySelector('.quote-form-wrap');
-    if (quoteWrap) {
-      quoteWrap.style.borderColor = 'var(--orange)';
-      quoteWrap.style.transition = 'border-color .3s';
-      setTimeout(() => { quoteWrap.style.borderColor = ''; }, 1500);
-    }
-  }, 700);
 }
 
 // ── QUOTE FORM ────────────────────────────────────────────────────────────────
@@ -1158,7 +1327,8 @@ async function submitQuote(e) {
       `;
       form.appendChild(msg);
       
-      // Reset items but keep contact details
+      // Clear cart and reset items
+      clearCart();
       document.getElementById('quoteItems').innerHTML = `
         <div class="quote-item-row">
           <input type="text" class="item-sku" placeholder="e.g. EPC-0711E2" style="text-transform:uppercase" oninput="this.value=this.value.toUpperCase()">
@@ -1199,6 +1369,7 @@ document.querySelectorAll('.cat-card,.how-step,.trust-item,.pillar').forEach(el=
 
 // Init
 renderProducts();
+updateCartUI();
 </script>
 </body>
 </html>
