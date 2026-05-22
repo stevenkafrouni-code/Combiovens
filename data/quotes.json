@@ -116,5 +116,49 @@
     "totalIncGst": 14337.9,
     "hasPoaItems": true,
     "status": "sent"
+  },
+  {
+    "quoteId": "CBO-260522-8239",
+    "timestamp": "2026-05-22T22:54:48.788Z",
+    "name": "as",
+    "businessName": "as",
+    "email": "chloe@misspickle.com.au",
+    "phone": "as",
+    "postcode": "3001",
+    "address": "as",
+    "suburb": "as",
+    "state": "ACT",
+    "notes": "",
+    "deliveryNotes": "",
+    "items": [
+      {
+        "sku": "EPC-1021E3",
+        "desc": "Combi Oven 10 Tray GN2/1",
+        "qty": 1
+      },
+      {
+        "sku": "MBF8005",
+        "desc": "Gastronorm Double Door Refrigerator 1200L",
+        "qty": 1
+      },
+      {
+        "sku": "MBF8002",
+        "desc": "Gastronorm Double Door Freezer 1200L",
+        "qty": 1
+      },
+      {
+        "sku": "EBF-03",
+        "desc": "Blast Chiller 3 Tray",
+        "qty": 1
+      }
+    ],
+    "referralCode": "",
+    "subtotal": 20905.95,
+    "discount": 0,
+    "total": 20905.95,
+    "gst": 2090.6,
+    "totalIncGst": 22996.55,
+    "hasPoaItems": false,
+    "status": "sent"
   }
 ]
