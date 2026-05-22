@@ -160,5 +160,44 @@
     "totalIncGst": 22996.55,
     "hasPoaItems": false,
     "status": "sent"
+  },
+  {
+    "quoteId": "CBO-260522-2902",
+    "timestamp": "2026-05-22T23:31:29.177Z",
+    "name": "Andrew",
+    "businessName": "Grounded",
+    "email": "andrew.badre@gmail.com",
+    "phone": "0423074381",
+    "postcode": "3802",
+    "address": "",
+    "suburb": "",
+    "state": "VIC",
+    "notes": "",
+    "deliveryNotes": "",
+    "items": [
+      {
+        "sku": "P1000WB-A",
+        "desc": "Drink Cooler Double Door 1000L",
+        "qty": 1
+      },
+      {
+        "sku": "JBF40RSGR",
+        "desc": "Snowman Single Door Storage Refrigerator 430L",
+        "qty": 1
+      },
+      {
+        "sku": "BB-208SEC",
+        "desc": "2 Sliding Door Back Bar Cooler 208L",
+        "qty": 1
+      }
+    ],
+    "referralCode": "",
+    "subtotal": 4650.1,
+    "discount": 0,
+    "total": 4650.1,
+    "gst": 465.01,
+    "totalIncGst": 5115.11,
+    "hasPoaItems": false,
+    "status": "sent"
   }
 ]
