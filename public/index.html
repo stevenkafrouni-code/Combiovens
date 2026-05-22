@@ -1092,8 +1092,7 @@ function openModal(sku, name, rrp, img, specs) {
   const imgEl = document.getElementById('modalImg');
   imgEl.src = img; imgEl.alt = name; imgEl.style.display = 'block';
   document.getElementById('modalSpecs').innerHTML = specs.map(s=>'<span class="spec-tag">' + s + '</span>').join('');
-  // Find product and show detailed dims
-  const prod = PRODUCTS.find(p => p.sku === sku);
+  // Show detailed dims (prod already declared above)
   const dimsEl = document.getElementById('modalDims');
   if (prod && (prod.dims || prod.capacity)) {
     const parts = [];
