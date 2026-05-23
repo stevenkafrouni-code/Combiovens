@@ -46,5 +46,17 @@
     "state": "VIC",
     "notes": "",
     "deliveryNotes": ""
+  },
+  {
+    "name": "Bob",
+    "businessName": "Zoosh",
+    "email": "zachar.m@hotmail.com",
+    "phone": "0411733181",
+    "postcode": "3199",
+    "address": "123 fake street",
+    "suburb": "",
+    "state": "VIC",
+    "notes": "",
+    "deliveryNotes": ""
   }
 ]
