@@ -1014,28 +1014,6 @@
     "desc": "Winterhalter WH-PT-XL. Rack Size: 500x500mm | Dimensions: 635x712x1460-1515mm | Clear Entry Height: 440mm | Racks/hr: up"
   },
   {
-    "sku": "WH-GS630",
-    "name": "GS 630 Utensil Washer",
-    "cat": "Winterhalter · Warewashing",
-    "rrp": 20007,
-    "badge": "",
-    "img": "https://www.winterhalter.com/fileadmin/user_upload/Website/Corporate/products/warewashers/utensil-washers/gs-630/winterhalter-gs-630-utensil-washer.jpg",
-    "specs": [
-      "Basket 630x530mm"
-    ],
-    "desc": "Winterhalter WH-GS630. Basket/Rack Size: 630x530mm | Reversing wash arms for maximum coverage | 1-button operation with "
-  },
-  {
-    "sku": "WH-UF-XL",
-    "name": "UF-XL Utensil Washer",
-    "cat": "Winterhalter · Warewashing",
-    "rrp": 34431,
-    "badge": "",
-    "img": "https://www.winterhalter.com/fileadmin/user_upload/Website/Corporate/products/warewashers/utensil-washers/uf/winterhalter-uf-utensil-washer.jpg",
-    "specs": [],
-    "desc": "Winterhalter WH-UF-XL. Large-capacity utensil washer for pots."
-  },
-  {
     "sku": "DF097D",
     "name": "Upright Round Cake Showcase 900 Mm Fridge",
     "cat": "Display Fridge",
