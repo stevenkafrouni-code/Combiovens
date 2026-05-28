@@ -293,20 +293,6 @@
     "type": "Display Freezer",
     "brand": "Atosa"
   },
-  "MCF8605": {
-    "rrp": 5509,
-    "cost": 3305.4,
-    "sell": 3580.85,
-    "margin": 275.45,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "1240L",
-    "dims": "W1314xD805xH2075",
-    "type": "Display Refrigerator",
-    "brand": "Atosa"
-  },
   "MCF8602": {
     "rrp": 7349,
     "cost": 4409.4,
@@ -390,34 +376,6 @@
     "dims": "",
     "type": "",
     "brand": ""
-  },
-  "SC-430WD": {
-    "rrp": 2420,
-    "cost": 1452,
-    "sell": 1573,
-    "margin": 121,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "154 bottles",
-    "dims": "H595xW680xD1762",
-    "type": "Wine Cooler",
-    "brand": "Atosa"
-  },
-  "SC-145WD": {
-    "rrp": 1690,
-    "cost": 1014,
-    "sell": 1098.5,
-    "margin": 84.5,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "46 bottles",
-    "dims": "H595xW575xD820-870",
-    "type": "Wine Cooler",
-    "brand": "Atosa"
   },
   "Gastronorm Storage Fridges & Freezers – Economy Snowman (Atosa)": {
     "rrp": null,
@@ -1173,20 +1131,6 @@
     "capacity": "",
     "dims": "W400xD650xH485",
     "type": "Compact Gas Cooktop",
-    "brand": "CookRite"
-  },
-  "AT65G4F-C": {
-    "rrp": 2524,
-    "cost": 1514.4,
-    "sell": 1640.6,
-    "margin": 126.2,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "8L",
-    "dims": "W400xD650xH485",
-    "type": "Compact Gas Fryer",
     "brand": "CookRite"
   },
   "AT65G4G-C": {
