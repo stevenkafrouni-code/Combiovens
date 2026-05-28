@@ -58,6 +58,11 @@ module.exports = async (req, res) => {
         description: `CombiOvens — ${quote.quoteId}`,
         metadata: { quoteId: quote.quoteId },
       },
+      custom_text: {
+        submit: {
+          message: 'Equipment only — freight is not included in this payment. We will calculate freight and send a separate invoice within 24 hours.',
+        },
+      },
       success_url: `${SITE_URL}/payment-success.html?quoteId=${quote.quoteId}`,
       cancel_url:  `${SITE_URL}`,
     });
