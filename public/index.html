@@ -497,6 +497,34 @@ footer{background:var(--black);border-top:1px solid rgba(255,255,255,.06);paddin
             </select>
           </div>
         </div>
+        <!-- FREIGHT BLURB -->
+        <div style="background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08);border-radius:3px;padding:16px 20px;margin:8px 0 24px;display:flex;gap:14px;align-items:flex-start">
+          <span style="font-size:20px;line-height:1">🚚</span>
+          <div>
+            <div style="font-family:'Barlow Condensed',sans-serif;font-size:13px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--white);margin-bottom:4px">Freight passed on at cost — no markup</div>
+            <div style="font-size:13px;color:var(--silver);line-height:1.5">We'll confirm your exact freight cost within 24 hours of your order. Ground floor delivery is standard — let us know below if your site has any access requirements so we can arrange the right service.</div>
+          </div>
+        </div>
+
+        <!-- DELIVERY ACCESS -->
+        <div style="margin-bottom:24px">
+          <label style="display:block;margin-bottom:12px">Delivery Access</label>
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:12px">
+            <label style="display:flex;align-items:center;gap:10px;background:var(--charcoal);border:1px solid rgba(255,255,255,.08);border-radius:3px;padding:12px 16px;cursor:pointer;font-family:'Barlow',sans-serif;font-size:14px;font-weight:400;text-transform:none;letter-spacing:0;color:var(--light)">
+              <input type="checkbox" name="accessGroundFloor" value="yes" checked style="width:auto;accent-color:var(--orange)"> Ground floor access
+            </label>
+            <label style="display:flex;align-items:center;gap:10px;background:var(--charcoal);border:1px solid rgba(255,255,255,.08);border-radius:3px;padding:12px 16px;cursor:pointer;font-family:'Barlow',sans-serif;font-size:14px;font-weight:400;text-transform:none;letter-spacing:0;color:var(--light)">
+              <input type="checkbox" name="accessStairs" value="yes" style="width:auto;accent-color:var(--orange)"> Stairs / basement involved
+            </label>
+            <label style="display:flex;align-items:center;gap:10px;background:var(--charcoal);border:1px solid rgba(255,255,255,.08);border-radius:3px;padding:12px 16px;cursor:pointer;font-family:'Barlow',sans-serif;font-size:14px;font-weight:400;text-transform:none;letter-spacing:0;color:var(--light)">
+              <input type="checkbox" name="accessDock" value="yes" style="width:auto;accent-color:var(--orange)"> Loading dock available
+            </label>
+            <label style="display:flex;align-items:center;gap:10px;background:var(--charcoal);border:1px solid rgba(255,255,255,.08);border-radius:3px;padding:12px 16px;cursor:pointer;font-family:'Barlow',sans-serif;font-size:14px;font-weight:400;text-transform:none;letter-spacing:0;color:var(--light)">
+              <input type="checkbox" name="accessTailLift" value="yes" style="width:auto;accent-color:var(--orange)"> Tail-lift truck required
+            </label>
+          </div>
+        </div>
+
         <div style="margin:28px 0 12px">
           <label style="display:block;margin-bottom:12px">Equipment Required</label>
           <div class="quote-items-header">
@@ -1096,6 +1124,12 @@ async function submitQuote(e) {
     postcode:      data.get('postcode')?.trim(),
     notes:         data.get('notes')?.trim(),
     referralCode:  document.getElementById('referralCode')?.value?.trim().toUpperCase() || '',
+    deliveryAccess: {
+      groundFloor: !!data.get('accessGroundFloor'),
+      stairs:      !!data.get('accessStairs'),
+      dock:        !!data.get('accessDock'),
+      tailLift:    !!data.get('accessTailLift'),
+    },
     items,
   };
 

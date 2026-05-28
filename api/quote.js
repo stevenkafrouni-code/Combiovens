@@ -38,6 +38,7 @@ module.exports = async (req, res) => {
       referralCode,
       notes,
       deliveryNotes,
+      deliveryAccess, // { groundFloor, stairs, dock, tailLift }
     } = req.body;
 
     // ── Validate required fields ──────────────────────────────────────────────
@@ -104,6 +105,7 @@ module.exports = async (req, res) => {
       state:         state?.trim() || '',
       notes:         notes?.trim() || '',
       deliveryNotes: deliveryNotes?.trim() || '',
+      deliveryAccess: deliveryAccess || {},
     };
 
     const quote = {
