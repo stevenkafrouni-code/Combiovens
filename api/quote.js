@@ -72,6 +72,15 @@ module.exports = async (req, res) => {
       });
     }
 
+    // Block POA items — every submitted quote must be fully priced so follow-up
+    // automation can treat status:'sent' as complete with no exclusion logic
+    const poaSkus = rawLines.filter(l => l.poa);
+    if (poaSkus.length) {
+      return res.status(400).json({
+        error: `${poaSkus.map(l => l.sku).join(', ')} ${poaSkus.length === 1 ? 'requires' : 'require'} a custom quote. Call us on (03) 7009 3816 and we'll sort it out.`,
+      });
+    }
+
     // ── Enrich lines with stock availability ─────────────────────────────────
     const lines = await enrichLinesWithStock(rawLines).catch(() => rawLines);
 
