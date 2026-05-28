@@ -63,30 +63,29 @@ module.exports = async (req, res) => {
       continue;
     }
 
-    // ── Find which follow-up day to send today ───────────────────────────────
+    // ── Find ALL follow-up days due and not yet sent ─────────────────────────
+    // Uses filter (not find) so a missed cron run catches up on next execution
     const sentDays = (quote.followUpsSent || []).map(f => f.day);
-    const dayToSend = FOLLOW_UP_DAYS.find(d => daysSince >= d && !sentDays.includes(d));
+    const daysDue = FOLLOW_UP_DAYS.filter(d => daysSince >= d && !sentDays.includes(d));
 
-    if (!dayToSend) {
+    if (daysDue.length === 0) {
       results.skipped.push({ quoteId: quote.quoteId, reason: `no_day_due (day ${daysSince}, sent [${sentDays.join(',')}])` });
       continue;
     }
 
-    // ── Send and record ───────────────────────────────────────────────────────
-    try {
-      await sendFollowUp(quote, dayToSend);
-
-      const updatedFollowUps = [
-        ...(quote.followUpsSent || []),
-        { day: dayToSend, sentAt: now.toISOString() },
-      ];
-      await updateQuote(quote.quoteId, { followUpsSent: updatedFollowUps });
-
-      results.sent.push({ quoteId: quote.quoteId, day: dayToSend, email: quote.email });
-    } catch (err) {
-      console.error(`Follow-up error for ${quote.quoteId} day ${dayToSend}:`, err.message);
-      results.errors.push({ quoteId: quote.quoteId, day: dayToSend, error: err.message });
+    // ── Send each due day and record ─────────────────────────────────────────
+    const updatedFollowUps = [...(quote.followUpsSent || [])];
+    for (const dayToSend of daysDue) {
+      try {
+        await sendFollowUp(quote, dayToSend);
+        updatedFollowUps.push({ day: dayToSend, sentAt: now.toISOString() });
+        results.sent.push({ quoteId: quote.quoteId, day: dayToSend, email: quote.email });
+      } catch (err) {
+        console.error(`Follow-up error for ${quote.quoteId} day ${dayToSend}:`, err.message);
+        results.errors.push({ quoteId: quote.quoteId, day: dayToSend, error: err.message });
+      }
     }
+    await updateQuote(quote.quoteId, { followUpsSent: updatedFollowUps });
   }
 
   console.log('Follow-up cron complete:', results);

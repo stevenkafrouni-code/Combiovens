@@ -31,7 +31,7 @@
   },
   {
     "quoteId": "CBO-260522-5088",
-    "timestamp": "2026-05-22T13:13:34.677Z",
+    "timestamp": "2026-05-20T23:44:43.653Z",
     "name": "Steven Kafrouni",
     "businessName": "Miss Pickle",
     "email": "steven@misspickle.com.au",
@@ -71,7 +71,8 @@
     "gst": 1752.92,
     "totalIncGst": 19282.12,
     "hasPoaItems": false,
-    "status": "sent"
+    "status": "sent",
+    "followUpsSent": []
   },
   {
     "quoteId": "CBO-260522-7831",
@@ -159,7 +160,8 @@
     "gst": 2090.6,
     "totalIncGst": 22996.55,
     "hasPoaItems": false,
-    "status": "sent"
+    "status": "closed",
+    "closedAt": "2026-05-28T23:44:04.908Z"
   },
   {
     "quoteId": "CBO-260522-2902",
@@ -198,7 +200,8 @@
     "gst": 465.01,
     "totalIncGst": 5115.11,
     "hasPoaItems": false,
-    "status": "sent"
+    "status": "closed",
+    "closedAt": "2026-05-28T23:44:04.913Z"
   },
   {
     "quoteId": "CBO-260523-3527",
