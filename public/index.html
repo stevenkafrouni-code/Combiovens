@@ -328,7 +328,7 @@ footer{background:var(--black);border-top:1px solid rgba(255,255,255,.06);paddin
     <li><a href="#how">How It Works</a></li>
     <li><a href="#story">Our Story</a></li>
     <li class="nav-phone-wrap">
-      <a href="tel:1300000000" class="nav-phone">📞 1300 000 000</a>
+      <a href="tel:0370093816" class="nav-phone">📞 (03) 7009 3816</a>
       <span class="nav-phone-sub">We run on hospo hours — call any time you're working</span>
     </li>
     <li><a href="#products" class="nav-cta">Get a Quote</a></li>
@@ -1418,7 +1418,7 @@ async function submitQuote(e) {
       
       const errMsg = document.createElement('div');
       errMsg.style.cssText = 'background:rgba(232,93,4,.1);border:1px solid rgba(232,93,4,.3);border-radius:3px;padding:16px;margin-top:16px;font-size:14px;color:var(--light)';
-      errMsg.textContent = result.error || 'Something went wrong. Please call us on 1300 000 000.';
+      errMsg.textContent = result.error || 'Something went wrong. Please call us on (03) 7009 3816.';
       const existing = form.querySelector('.quote-error-msg');
       if (existing) existing.remove();
       errMsg.className = 'quote-error-msg';
@@ -1427,7 +1427,7 @@ async function submitQuote(e) {
   } catch (err) {
     btn.textContent = originalText;
     btn.disabled = false;
-    alert('Could not send your quote. Please call us on 1300 000 000.');
+    alert('Could not send your quote. Please call us on (03) 7009 3816.');
   }
 }
 

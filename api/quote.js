@@ -153,7 +153,7 @@ module.exports = async (req, res) => {
   } catch (err) {
     console.error('Quote submission error:', err);
     return res.status(500).json({
-      error: 'Something went wrong on our end. Please call us on 1300 000 000.',
+      error: 'Something went wrong on our end. Please call us on (03) 7009 3816.',
     });
   }
 };
