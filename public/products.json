@@ -3,7 +3,7 @@
     "sku": "EPC-0511E1",
     "name": "Combi Oven 5 Tray GN1/1",
     "cat": "Atosa · Combi Oven",
-    "rrp": 8300,
+    "rrp": 8950,
     "badge": "",
     "img": "https://atosausa.com/wp-content/uploads/2023/11/0511-1000-by-1000-300x300.jpg",
     "specs": [
@@ -22,7 +22,7 @@
     "sku": "EPC-0711E2",
     "name": "Combi Oven 7 Tray GN1/1",
     "cat": "Atosa · Combi Oven",
-    "rrp": 10500,
+    "rrp": 11150,
     "badge": "Best Seller",
     "img": "https://atosausa.com/wp-content/uploads/2023/11/0711-300x300.png",
     "specs": [
@@ -41,7 +41,7 @@
     "sku": "EPC-1011E2",
     "name": "Combi Oven 10 Tray GN1/1",
     "cat": "Atosa · Combi Oven",
-    "rrp": 13400,
+    "rrp": 14050,
     "badge": "Popular",
     "img": "https://atosausa.com/wp-content/uploads/2023/11/1011-front1000-by-1000-300x300.jpg",
     "specs": [
@@ -60,7 +60,7 @@
     "sku": "EPC-0621E2",
     "name": "Combi Oven 6 Tray GN2/1",
     "cat": "Atosa · Combi Oven",
-    "rrp": 14800,
+    "rrp": 15450,
     "badge": "",
     "img": "https://atosausa.com/wp-content/uploads/2023/11/0621-1000-by-1000-300x300.jpg",
     "specs": [
@@ -79,7 +79,7 @@
     "sku": "EPC-1021E3",
     "name": "Combi Oven 10 Tray GN2/1",
     "cat": "Atosa · Combi Oven",
-    "rrp": 17300,
+    "rrp": 17950,
     "badge": "Top Spec",
     "img": "https://atosausa.com/wp-content/uploads/2023/11/1021-front1000-by-1000-copy-300x300.jpg",
     "specs": [
@@ -542,7 +542,7 @@
     "sku": "ATFS-40",
     "name": "Gas Deep Fryer 3-4 Tube",
     "cat": "CookRite · Deep Fryer",
-    "rrp": null,
+    "rrp": 2294,
     "badge": "",
     "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atfs-40-50-75_1.jpg",
     "specs": [
@@ -558,7 +558,7 @@
     "sku": "ATFS-75",
     "name": "Gas Deep Fryer 5 Tube",
     "cat": "CookRite · Deep Fryer",
-    "rrp": null,
+    "rrp": 3789,
     "badge": "",
     "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atfs-40-50-75_1_3.jpg",
     "specs": [
@@ -574,7 +574,7 @@
     "sku": "AT80G4B-O",
     "name": "4 Burner Gas Range with Oven",
     "cat": "CookRite · Oven Range",
-    "rrp": null,
+    "rrp": 4709,
     "badge": "",
     "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g4b-o.jpg",
     "specs": [
@@ -593,7 +593,7 @@
     "sku": "AT80G6B-O",
     "name": "6 Burner Gas Range with Oven",
     "cat": "CookRite · Oven Range",
-    "rrp": null,
+    "rrp": 5744,
     "badge": "Popular",
     "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g6b-o.jpg",
     "specs": [

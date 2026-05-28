@@ -1274,10 +1274,10 @@
     "brand": ""
   },
   "ATFS-40": {
-    "rrp": null,
-    "cost": null,
-    "sell": null,
-    "margin": null,
+    "rrp": 2294,
+    "cost": 1376.4,
+    "sell": 1491.1,
+    "margin": 114.7,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1288,10 +1288,10 @@
     "brand": "CookRite"
   },
   "ATFS-50": {
-    "rrp": null,
-    "cost": null,
-    "sell": null,
-    "margin": null,
+    "rrp": 3099,
+    "cost": 1859.4,
+    "sell": 2014.35,
+    "margin": 154.95,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1302,10 +1302,10 @@
     "brand": "CookRite"
   },
   "ATFS-75": {
-    "rrp": null,
-    "cost": null,
-    "sell": null,
-    "margin": null,
+    "rrp": 3789,
+    "cost": 2273.4,
+    "sell": 2462.85,
+    "margin": 189.45,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1330,10 +1330,10 @@
     "brand": ""
   },
   "AT80G4B-O": {
-    "rrp": null,
-    "cost": null,
-    "sell": null,
-    "margin": null,
+    "rrp": 4709,
+    "cost": 2825.4,
+    "sell": 3060.85,
+    "margin": 235.45,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1344,10 +1344,10 @@
     "brand": "CookRite"
   },
   "AT80G6B-O": {
-    "rrp": null,
-    "cost": null,
-    "sell": null,
-    "margin": null,
+    "rrp": 5744,
+    "cost": 3446.4,
+    "sell": 3733.6,
+    "margin": 287.2,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1358,10 +1358,10 @@
     "brand": "CookRite"
   },
   "AT80G8B-O": {
-    "rrp": null,
-    "cost": null,
-    "sell": null,
-    "margin": null,
+    "rrp": 8734,
+    "cost": 5240.4,
+    "sell": 5677.1,
+    "margin": 436.7,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1386,10 +1386,10 @@
     "brand": ""
   },
   "EPC-0511E1": {
-    "rrp": 8300,
-    "cost": 4980,
-    "sell": 5395,
-    "margin": 415,
+    "rrp": 8950,
+    "cost": 5370,
+    "sell": 5817.5,
+    "margin": 447.5,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1400,10 +1400,10 @@
     "brand": "Atosa"
   },
   "EPC-0711E2": {
-    "rrp": 10500,
-    "cost": 6300,
-    "sell": 6825,
-    "margin": 525,
+    "rrp": 11150,
+    "cost": 6690,
+    "sell": 7247.5,
+    "margin": 557.5,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1414,10 +1414,10 @@
     "brand": "Atosa"
   },
   "EPC-1011E2": {
-    "rrp": 13400,
-    "cost": 8040,
-    "sell": 8710,
-    "margin": 670,
+    "rrp": 14050,
+    "cost": 8430,
+    "sell": 9132.5,
+    "margin": 702.5,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1428,10 +1428,10 @@
     "brand": "Atosa"
   },
   "EPC-0621E2": {
-    "rrp": 14800,
-    "cost": 8880,
-    "sell": 9620,
-    "margin": 740,
+    "rrp": 15450,
+    "cost": 9270,
+    "sell": 10042.5,
+    "margin": 772.5,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1442,10 +1442,10 @@
     "brand": "Atosa"
   },
   "EPC-1021E3": {
-    "rrp": 17300,
-    "cost": 10380,
-    "sell": 11245,
-    "margin": 865,
+    "rrp": 17950,
+    "cost": 10770,
+    "sell": 11667.5,
+    "margin": 897.5,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
