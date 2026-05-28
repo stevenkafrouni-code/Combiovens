@@ -71,21 +71,9 @@
     "gst": 1752.92,
     "totalIncGst": 19282.12,
     "hasPoaItems": false,
-    "status": "sent",
-    "followUpsSent": [
-      {
-        "day": 2,
-        "sentAt": "2026-05-28T23:54:28.620Z"
-      },
-      {
-        "day": 4,
-        "sentAt": "2026-05-28T23:54:28.620Z"
-      },
-      {
-        "day": 7,
-        "sentAt": "2026-05-28T23:54:28.620Z"
-      }
-    ]
+    "status": "paid",
+    "followUpsSent": [],
+    "paidAt": "2026-05-28T23:59:09.449Z"
   },
   {
     "quoteId": "CBO-260522-7831",
