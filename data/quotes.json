@@ -72,7 +72,20 @@
     "totalIncGst": 19282.12,
     "hasPoaItems": false,
     "status": "sent",
-    "followUpsSent": []
+    "followUpsSent": [
+      {
+        "day": 2,
+        "sentAt": "2026-05-28T23:54:28.620Z"
+      },
+      {
+        "day": 4,
+        "sentAt": "2026-05-28T23:54:28.620Z"
+      },
+      {
+        "day": 7,
+        "sentAt": "2026-05-28T23:54:28.620Z"
+      }
+    ]
   },
   {
     "quoteId": "CBO-260522-7831",
