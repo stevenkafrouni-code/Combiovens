@@ -1,5 +1,509 @@
 {
-  "Upright Storage Fridges & Freezers \u2013 Top Mount Gastronorm (Atosa)": {
+  "1101": {
+    "rrp": 22,
+    "cost": 12.1,
+    "sell": 14.3,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "1102": {
+    "rrp": 17,
+    "cost": 9.35,
+    "sell": 11.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "1103": {
+    "rrp": 17,
+    "cost": 9.35,
+    "sell": 11.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "1104": {
+    "rrp": 12,
+    "cost": 6.6,
+    "sell": 7.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "1106": {
+    "rrp": 10,
+    "cost": 5.5,
+    "sell": 6.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "1123": {
+    "rrp": 22,
+    "cost": 12.1,
+    "sell": 14.3,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "1124": {
+    "rrp": 22,
+    "cost": 12.1,
+    "sell": 14.3,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "11000": {
+    "rrp": 20,
+    "cost": 11,
+    "sell": 13,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "11020": {
+    "rrp": 17,
+    "cost": 9.35,
+    "sell": 11.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "11040": {
+    "rrp": 22,
+    "cost": 12.1,
+    "sell": 14.3,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "11065": {
+    "rrp": 22,
+    "cost": 12.1,
+    "sell": 14.3,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "11100": {
+    "rrp": 29,
+    "cost": 15.95,
+    "sell": 18.85,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "11150": {
+    "rrp": 45,
+    "cost": 24.75,
+    "sell": 29.25,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "11200": {
+    "rrp": 52,
+    "cost": 28.6,
+    "sell": 33.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "12000": {
+    "rrp": 15,
+    "cost": 8.25,
+    "sell": 9.75,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "12020": {
+    "rrp": 10,
+    "cost": 5.5,
+    "sell": 6.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "12040": {
+    "rrp": 17,
+    "cost": 9.35,
+    "sell": 11.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "12065": {
+    "rrp": 17,
+    "cost": 9.35,
+    "sell": 11.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "12100": {
+    "rrp": 17,
+    "cost": 9.35,
+    "sell": 11.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "12150": {
+    "rrp": 29,
+    "cost": 15.95,
+    "sell": 18.85,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "12200": {
+    "rrp": 33,
+    "cost": 18.15,
+    "sell": 21.45,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "13000": {
+    "rrp": 10,
+    "cost": 5.5,
+    "sell": 6.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "13020": {
+    "rrp": 10,
+    "cost": 5.5,
+    "sell": 6.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "13040": {
+    "rrp": 10,
+    "cost": 5.5,
+    "sell": 6.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "13065": {
+    "rrp": 12,
+    "cost": 6.6,
+    "sell": 7.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "13100": {
+    "rrp": 17,
+    "cost": 9.35,
+    "sell": 11.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "13150": {
+    "rrp": 22,
+    "cost": 12.1,
+    "sell": 14.3,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "13200": {
+    "rrp": 29,
+    "cost": 15.95,
+    "sell": 18.85,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "14000": {
+    "rrp": 10,
+    "cost": 5.5,
+    "sell": 6.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "14020": {
+    "rrp": 6,
+    "cost": 3.3,
+    "sell": 3.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "14040": {
+    "rrp": 10,
+    "cost": 5.5,
+    "sell": 6.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "14065": {
+    "rrp": 10,
+    "cost": 5.5,
+    "sell": 6.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "14100": {
+    "rrp": 12,
+    "cost": 6.6,
+    "sell": 7.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "14150": {
+    "rrp": 17,
+    "cost": 9.35,
+    "sell": 11.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "14200": {
+    "rrp": 22,
+    "cost": 12.1,
+    "sell": 14.3,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "16000": {
+    "rrp": 5,
+    "cost": 2.75,
+    "sell": 3.25,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "16065": {
+    "rrp": 10,
+    "cost": 5.5,
+    "sell": 6.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "16100": {
+    "rrp": 10,
+    "cost": 5.5,
+    "sell": 6.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "16150": {
+    "rrp": 17,
+    "cost": 9.35,
+    "sell": 11.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "16200": {
+    "rrp": 17,
+    "cost": 9.35,
+    "sell": 11.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "19000": {
+    "rrp": 5,
+    "cost": 2.75,
+    "sell": 3.25,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "19065": {
+    "rrp": 6,
+    "cost": 3.3,
+    "sell": 3.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "19100": {
+    "rrp": 10,
+    "cost": 5.5,
+    "sell": 6.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "19150": {
+    "rrp": 17,
+    "cost": 9.35,
+    "sell": 11.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "21000": {
+    "rrp": 50,
+    "cost": 27.5,
+    "sell": 32.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "21020": {
+    "rrp": 46,
+    "cost": 25.3,
+    "sell": 29.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "21040": {
+    "rrp": 52,
+    "cost": 28.6,
+    "sell": 33.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "21065": {
+    "rrp": 56,
+    "cost": 30.8,
+    "sell": 36.4,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "21100": {
+    "rrp": 69,
+    "cost": 37.95,
+    "sell": 44.85,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "21150": {
+    "rrp": 86,
+    "cost": 47.3,
+    "sell": 55.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "21200": {
+    "rrp": 102,
+    "cost": 56.1,
+    "sell": 66.3,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "23000": {
+    "rrp": 20,
+    "cost": 11,
+    "sell": 13,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "23020": {
+    "rrp": 17,
+    "cost": 9.35,
+    "sell": 11.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "23040": {
+    "rrp": 17,
+    "cost": 9.35,
+    "sell": 11.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "23065": {
+    "rrp": 17,
+    "cost": 9.35,
+    "sell": 11.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "23100": {
+    "rrp": 22,
+    "cost": 12.1,
+    "sell": 14.3,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "23150": {
+    "rrp": 33,
+    "cost": 18.15,
+    "sell": 21.45,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "23200": {
+    "rrp": 52,
+    "cost": 28.6,
+    "sell": 33.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "24000": {
+    "rrp": 20,
+    "cost": 11,
+    "sell": 13,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "24040": {
+    "rrp": 22,
+    "cost": 12.1,
+    "sell": 14.3,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "24065": {
+    "rrp": 22,
+    "cost": 12.1,
+    "sell": 14.3,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "24100": {
+    "rrp": 29,
+    "cost": 15.95,
+    "sell": 18.85,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "24150": {
+    "rrp": 40,
+    "cost": 22,
+    "sell": 26,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "Upright Storage Fridges & Freezers – Top Mount Gastronorm (Atosa)": {
     "rrp": null,
     "cost": null,
     "sell": null,
@@ -181,7 +685,7 @@
     "type": "Dual Temp",
     "brand": "Atosa"
   },
-  "Gastronorm Display Fridges & Freezers \u2013 Compact (Atosa)": {
+  "Gastronorm Display Fridges & Freezers – Compact (Atosa)": {
     "rrp": null,
     "cost": null,
     "sell": null,
@@ -251,7 +755,7 @@
     "type": "Display Freezer",
     "brand": "Atosa"
   },
-  "Gastronorm Display Fridges & Freezers \u2013 Full Size (Atosa)": {
+  "Gastronorm Display Fridges & Freezers – Full Size (Atosa)": {
     "rrp": null,
     "cost": null,
     "sell": null,
@@ -393,9 +897,9 @@
   },
   "SC-430WD": {
     "rrp": 2420,
-    "cost": 1452.0,
-    "sell": 1573.0,
-    "margin": 121.0,
+    "cost": 1452,
+    "sell": 1573,
+    "margin": 121,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -407,7 +911,7 @@
   },
   "SC-145WD": {
     "rrp": 1690,
-    "cost": 1014.0,
+    "cost": 1014,
     "sell": 1098.5,
     "margin": 84.5,
     "margin_pct": 7.7,
@@ -419,7 +923,7 @@
     "type": "Wine Cooler",
     "brand": "Atosa"
   },
-  "Gastronorm Storage Fridges & Freezers \u2013 Economy Snowman (Atosa)": {
+  "Gastronorm Storage Fridges & Freezers – Economy Snowman (Atosa)": {
     "rrp": null,
     "cost": null,
     "sell": null,
@@ -435,7 +939,7 @@
   },
   "JBF40RSGR": {
     "rrp": 2690,
-    "cost": 1614.0,
+    "cost": 1614,
     "sell": 1748.5,
     "margin": 134.5,
     "margin_pct": 7.7,
@@ -449,7 +953,7 @@
   },
   "JBF40FSGR": {
     "rrp": 3290,
-    "cost": 1974.0,
+    "cost": 1974,
     "sell": 2138.5,
     "margin": 164.5,
     "margin_pct": 7.7,
@@ -463,7 +967,7 @@
   },
   "JBF80RSGR": {
     "rrp": 3990,
-    "cost": 2394.0,
+    "cost": 2394,
     "sell": 2593.5,
     "margin": 199.5,
     "margin_pct": 7.7,
@@ -477,7 +981,7 @@
   },
   "JBF80FSGR": {
     "rrp": 4390,
-    "cost": 2634.0,
+    "cost": 2634,
     "sell": 2853.5,
     "margin": 219.5,
     "margin_pct": 7.7,
@@ -505,7 +1009,7 @@
   },
   "EBF-03": {
     "rrp": 4190,
-    "cost": 2514.0,
+    "cost": 2514,
     "sell": 2723.5,
     "margin": 209.5,
     "margin_pct": 7.7,
@@ -519,7 +1023,7 @@
   },
   "EBF-05": {
     "rrp": 5190,
-    "cost": 3114.0,
+    "cost": 3114,
     "sell": 3373.5,
     "margin": 259.5,
     "margin_pct": 7.7,
@@ -533,7 +1037,7 @@
   },
   "EBF-10": {
     "rrp": 8290,
-    "cost": 4974.0,
+    "cost": 4974,
     "sell": 5388.5,
     "margin": 414.5,
     "margin_pct": 7.7,
@@ -545,7 +1049,7 @@
     "type": "Blast Chiller",
     "brand": "Atosa"
   },
-  "Back Bar Coolers \u2013 Hinged Door (Atosa)": {
+  "Back Bar Coolers – Hinged Door (Atosa)": {
     "rrp": null,
     "cost": null,
     "sell": null,
@@ -561,7 +1065,7 @@
   },
   "BB-138HEC": {
     "rrp": 1265,
-    "cost": 759.0,
+    "cost": 759,
     "sell": 822.25,
     "margin": 63.25,
     "margin_pct": 7.7,
@@ -575,7 +1079,7 @@
   },
   "BB-208HEC": {
     "rrp": 1485,
-    "cost": 891.0,
+    "cost": 891,
     "sell": 965.25,
     "margin": 74.25,
     "margin_pct": 7.7,
@@ -589,7 +1093,7 @@
   },
   "BB-330HEC": {
     "rrp": 1815,
-    "cost": 1089.0,
+    "cost": 1089,
     "sell": 1179.75,
     "margin": 90.75,
     "margin_pct": 7.7,
@@ -601,7 +1105,7 @@
     "type": "Back Bar Cooler",
     "brand": "Atosa"
   },
-  "Back Bar Coolers \u2013 Sliding Door (Atosa)": {
+  "Back Bar Coolers – Sliding Door (Atosa)": {
     "rrp": null,
     "cost": null,
     "sell": null,
@@ -617,7 +1121,7 @@
   },
   "BB-208SEC": {
     "rrp": 1485,
-    "cost": 891.0,
+    "cost": 891,
     "sell": 965.25,
     "margin": 74.25,
     "margin_pct": 7.7,
@@ -631,7 +1135,7 @@
   },
   "BB-330SEC": {
     "rrp": 1815,
-    "cost": 1089.0,
+    "cost": 1089,
     "sell": 1179.75,
     "margin": 90.75,
     "margin_pct": 7.7,
@@ -643,7 +1147,7 @@
     "type": "Back Bar Cooler",
     "brand": "Atosa"
   },
-  "Chest Freezers \u2013 Solid Lid (Atosa)": {
+  "Chest Freezers – Solid Lid (Atosa)": {
     "rrp": null,
     "cost": null,
     "sell": null,
@@ -699,7 +1203,7 @@
     "type": "Chest Freezer",
     "brand": "Atosa"
   },
-  "Chest Freezers \u2013 Glass Lid (Atosa)": {
+  "Chest Freezers – Glass Lid (Atosa)": {
     "rrp": null,
     "cost": null,
     "sell": null,
@@ -1387,9 +1891,9 @@
   },
   "EPC-0511E1": {
     "rrp": 8300,
-    "cost": 4980.0,
-    "sell": 5395.0,
-    "margin": 415.0,
+    "cost": 4980,
+    "sell": 5395,
+    "margin": 415,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1401,9 +1905,9 @@
   },
   "EPC-0711E2": {
     "rrp": 10500,
-    "cost": 6300.0,
-    "sell": 6825.0,
-    "margin": 525.0,
+    "cost": 6300,
+    "sell": 6825,
+    "margin": 525,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1415,9 +1919,9 @@
   },
   "EPC-1011E2": {
     "rrp": 13400,
-    "cost": 8040.0,
-    "sell": 8710.0,
-    "margin": 670.0,
+    "cost": 8040,
+    "sell": 8710,
+    "margin": 670,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1429,9 +1933,9 @@
   },
   "EPC-0621E2": {
     "rrp": 14800,
-    "cost": 8880.0,
-    "sell": 9620.0,
-    "margin": 740.0,
+    "cost": 8880,
+    "sell": 9620,
+    "margin": 740,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1443,9 +1947,9 @@
   },
   "EPC-1021E3": {
     "rrp": 17300,
-    "cost": 10380.0,
-    "sell": 11245.0,
-    "margin": 865.0,
+    "cost": 10380,
+    "sell": 11245,
+    "margin": 865,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1471,9 +1975,9 @@
   },
   "JA-1DB-N": {
     "rrp": 3980,
-    "cost": 2388.0,
-    "sell": 2587.0,
-    "margin": 199.0,
+    "cost": 2388,
+    "sell": 2587,
+    "margin": 199,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1485,9 +1989,9 @@
   },
   "JA-1DB-L": {
     "rrp": 3980,
-    "cost": 2388.0,
-    "sell": 2587.0,
-    "margin": 199.0,
+    "cost": 2388,
+    "sell": 2587,
+    "margin": 199,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1499,9 +2003,9 @@
   },
   "JA-1CB-N": {
     "rrp": 3980,
-    "cost": 2388.0,
-    "sell": 2587.0,
-    "margin": 199.0,
+    "cost": 2388,
+    "sell": 2587,
+    "margin": 199,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1513,9 +2017,9 @@
   },
   "JA-1CB-L": {
     "rrp": 3980,
-    "cost": 2388.0,
-    "sell": 2587.0,
-    "margin": 199.0,
+    "cost": 2388,
+    "sell": 2587,
+    "margin": 199,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1527,9 +2031,9 @@
   },
   "JA-2DB-N": {
     "rrp": 6280,
-    "cost": 3768.0,
-    "sell": 4082.0,
-    "margin": 314.0,
+    "cost": 3768,
+    "sell": 4082,
+    "margin": 314,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1541,9 +2045,9 @@
   },
   "JA-2DB-L": {
     "rrp": 6280,
-    "cost": 3768.0,
-    "sell": 4082.0,
-    "margin": 314.0,
+    "cost": 3768,
+    "sell": 4082,
+    "margin": 314,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1555,9 +2059,9 @@
   },
   "JA-2CB-N": {
     "rrp": 6280,
-    "cost": 3768.0,
-    "sell": 4082.0,
-    "margin": 314.0,
+    "cost": 3768,
+    "sell": 4082,
+    "margin": 314,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1569,9 +2073,9 @@
   },
   "JA-2CB-L": {
     "rrp": 6280,
-    "cost": 3768.0,
-    "sell": 4082.0,
-    "margin": 314.0,
+    "cost": 3768,
+    "sell": 4082,
+    "margin": 314,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1583,9 +2087,9 @@
   },
   "JA-3DB-N": {
     "rrp": 8280,
-    "cost": 4968.0,
-    "sell": 5382.0,
-    "margin": 414.0,
+    "cost": 4968,
+    "sell": 5382,
+    "margin": 414,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1597,9 +2101,9 @@
   },
   "JA-3DB-L": {
     "rrp": 8280,
-    "cost": 4968.0,
-    "sell": 5382.0,
-    "margin": 414.0,
+    "cost": 4968,
+    "sell": 5382,
+    "margin": 414,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1611,9 +2115,9 @@
   },
   "JA-3CB-N": {
     "rrp": 8280,
-    "cost": 4968.0,
-    "sell": 5382.0,
-    "margin": 414.0,
+    "cost": 4968,
+    "sell": 5382,
+    "margin": 414,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1625,9 +2129,9 @@
   },
   "JA-3CB-L": {
     "rrp": 8280,
-    "cost": 4968.0,
-    "sell": 5382.0,
-    "margin": 414.0,
+    "cost": 4968,
+    "sell": 5382,
+    "margin": 414,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1653,9 +2157,9 @@
   },
   "JA-NC-N": {
     "rrp": 5880,
-    "cost": 3528.0,
-    "sell": 3822.0,
-    "margin": 294.0,
+    "cost": 3528,
+    "sell": 3822,
+    "margin": 294,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1667,9 +2171,9 @@
   },
   "JA-NC-L": {
     "rrp": 5880,
-    "cost": 3528.0,
-    "sell": 3822.0,
-    "margin": 294.0,
+    "cost": 3528,
+    "sell": 3822,
+    "margin": 294,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1695,9 +2199,9 @@
   },
   "JA-SPB-N": {
     "rrp": 4380,
-    "cost": 2628.0,
-    "sell": 2847.0,
-    "margin": 219.0,
+    "cost": 2628,
+    "sell": 2847,
+    "margin": 219,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1709,9 +2213,9 @@
   },
   "JA-SPB-L": {
     "rrp": 4380,
-    "cost": 2628.0,
-    "sell": 2847.0,
-    "margin": 219.0,
+    "cost": 2628,
+    "sell": 2847,
+    "margin": 219,
     "margin_pct": 7.7,
     "source": "simco",
     "cost_basis": "40% off RRP",
@@ -1721,7 +2225,7 @@
     "type": "Stockpot Boiler",
     "brand": "Jasper"
   },
-  "MixRite Premium Stainless Steel Benches \u2013 Flat Top 600mm Deep": {
+  "MixRite Premium Stainless Steel Benches – Flat Top 600mm Deep": {
     "rrp": null,
     "cost": null,
     "sell": null,
@@ -1735,105 +2239,7 @@
     "type": "",
     "brand": ""
   },
-  "WTS606": {
-    "rrp": 443,
-    "cost": 265.8,
-    "sell": 287.95,
-    "margin": 22.15,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W600xD600xH900",
-    "type": "Stainless Bench",
-    "brand": "MixRite"
-  },
-  "WTS609": {
-    "rrp": 512,
-    "cost": 307.2,
-    "sell": 332.8,
-    "margin": 25.6,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W900xD600xH900",
-    "type": "Stainless Bench",
-    "brand": "MixRite"
-  },
-  "WTS612": {
-    "rrp": 627,
-    "cost": 376.2,
-    "sell": 407.55,
-    "margin": 31.35,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W1200xD600xH900",
-    "type": "Stainless Bench",
-    "brand": "MixRite"
-  },
-  "WTS615": {
-    "rrp": 719,
-    "cost": 431.4,
-    "sell": 467.35,
-    "margin": 35.95,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W1500xD600xH900",
-    "type": "Stainless Bench",
-    "brand": "MixRite"
-  },
-  "WTS618": {
-    "rrp": 822,
-    "cost": 493.2,
-    "sell": 534.3,
-    "margin": 41.1,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W1800xD600xH900",
-    "type": "Stainless Bench",
-    "brand": "MixRite"
-  },
-  "WTS621": {
-    "rrp": 995,
-    "cost": 597.0,
-    "sell": 646.75,
-    "margin": 49.75,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W2100xD600xH900",
-    "type": "Stainless Bench",
-    "brand": "MixRite"
-  },
-  "WTS624": {
-    "rrp": 1110,
-    "cost": 666.0,
-    "sell": 721.5,
-    "margin": 55.5,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W2400xD600xH900",
-    "type": "Stainless Bench",
-    "brand": "MixRite"
-  },
-  "MixRite Premium Stainless Steel Benches \u2013 Flat Top 700mm Deep": {
+  "MixRite Premium Stainless Steel Benches – Flat Top 700mm Deep": {
     "rrp": null,
     "cost": null,
     "sell": null,
@@ -1847,105 +2253,7 @@
     "type": "",
     "brand": ""
   },
-  "WTS706": {
-    "rrp": 466,
-    "cost": 279.6,
-    "sell": 302.9,
-    "margin": 23.3,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W600xD700xH900",
-    "type": "Stainless Bench",
-    "brand": "MixRite"
-  },
-  "WTS709": {
-    "rrp": 546,
-    "cost": 327.6,
-    "sell": 354.9,
-    "margin": 27.3,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W900xD700xH900",
-    "type": "Stainless Bench",
-    "brand": "MixRite"
-  },
-  "WTS712": {
-    "rrp": 638,
-    "cost": 382.8,
-    "sell": 414.7,
-    "margin": 31.9,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W1200xD700xH900",
-    "type": "Stainless Bench",
-    "brand": "MixRite"
-  },
-  "WTS715": {
-    "rrp": 753,
-    "cost": 451.8,
-    "sell": 489.45,
-    "margin": 37.65,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W1500xD700xH900",
-    "type": "Stainless Bench",
-    "brand": "MixRite"
-  },
-  "WTS718": {
-    "rrp": 857,
-    "cost": 514.2,
-    "sell": 557.05,
-    "margin": 42.85,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W1800xD700xH900",
-    "type": "Stainless Bench",
-    "brand": "MixRite"
-  },
-  "WTS721": {
-    "rrp": 1041,
-    "cost": 624.6,
-    "sell": 676.65,
-    "margin": 52.05,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W2100xD700xH900",
-    "type": "Stainless Bench",
-    "brand": "MixRite"
-  },
-  "WTS724": {
-    "rrp": 1156,
-    "cost": 693.6,
-    "sell": 751.4,
-    "margin": 57.8,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W2400xD700xH900",
-    "type": "Stainless Bench",
-    "brand": "MixRite"
-  },
-  "MixRite Stainless Benches \u2013 Splashback 600mm Deep": {
+  "MixRite Stainless Benches – Splashback 600mm Deep": {
     "rrp": null,
     "cost": null,
     "sell": null,
@@ -1959,105 +2267,7 @@
     "type": "",
     "brand": ""
   },
-  "WTS6006B": {
-    "rrp": 500,
-    "cost": 300.0,
-    "sell": 325.0,
-    "margin": 25.0,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W600xD600xH900",
-    "type": "Stainless Bench Splashback",
-    "brand": "MixRite"
-  },
-  "WTS6009B": {
-    "rrp": 558,
-    "cost": 334.8,
-    "sell": 362.7,
-    "margin": 27.9,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W900xD600xH900",
-    "type": "Stainless Bench Splashback",
-    "brand": "MixRite"
-  },
-  "WTS6012B": {
-    "rrp": 650,
-    "cost": 390.0,
-    "sell": 422.5,
-    "margin": 32.5,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W1200xD600xH900",
-    "type": "Stainless Bench Splashback",
-    "brand": "MixRite"
-  },
-  "WTS6015B": {
-    "rrp": 776,
-    "cost": 465.6,
-    "sell": 504.4,
-    "margin": 38.8,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W1500xD600xH900",
-    "type": "Stainless Bench Splashback",
-    "brand": "MixRite"
-  },
-  "WTS6018B": {
-    "rrp": 857,
-    "cost": 514.2,
-    "sell": 557.05,
-    "margin": 42.85,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W1800xD600xH900",
-    "type": "Stainless Bench Splashback",
-    "brand": "MixRite"
-  },
-  "WTS6021B": {
-    "rrp": 1041,
-    "cost": 624.6,
-    "sell": 676.65,
-    "margin": 52.05,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W2100xD600xH900",
-    "type": "Stainless Bench Splashback",
-    "brand": "MixRite"
-  },
-  "WTS6024B": {
-    "rrp": 1156,
-    "cost": 693.6,
-    "sell": 751.4,
-    "margin": 57.8,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W2400xD600xH900",
-    "type": "Stainless Bench Splashback",
-    "brand": "MixRite"
-  },
-  "MixRite Single Sink Benches \u2013 600mm Deep": {
+  "MixRite Single Sink Benches – 600mm Deep": {
     "rrp": null,
     "cost": null,
     "sell": null,
@@ -2071,105 +2281,7 @@
     "type": "",
     "brand": ""
   },
-  "SS1606C": {
-    "rrp": 834,
-    "cost": 500.4,
-    "sell": 542.1,
-    "margin": 41.7,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W600xD600xH900",
-    "type": "Sink Bench",
-    "brand": "MixRite"
-  },
-  "SS1609C": {
-    "rrp": 960,
-    "cost": 576.0,
-    "sell": 624.0,
-    "margin": 48.0,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W900xD600xH900",
-    "type": "Sink Bench",
-    "brand": "MixRite"
-  },
-  "SS1612C/L/R": {
-    "rrp": 937,
-    "cost": 562.2,
-    "sell": 609.05,
-    "margin": 46.85,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W1200xD600xH900",
-    "type": "Sink Bench",
-    "brand": "MixRite"
-  },
-  "SS1615C/L/R": {
-    "rrp": 1167,
-    "cost": 700.2,
-    "sell": 758.55,
-    "margin": 58.35,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W1500xD600xH900",
-    "type": "Sink Bench",
-    "brand": "MixRite"
-  },
-  "SS1618C/L/R": {
-    "rrp": 1236,
-    "cost": 741.6,
-    "sell": 803.4,
-    "margin": 61.8,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W1800xD600xH900",
-    "type": "Sink Bench",
-    "brand": "MixRite"
-  },
-  "SS1621C/L/R": {
-    "rrp": 1386,
-    "cost": 831.6,
-    "sell": 900.9,
-    "margin": 69.3,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W2100xD600xH900",
-    "type": "Sink Bench",
-    "brand": "MixRite"
-  },
-  "SS1624C/L/R": {
-    "rrp": 1524,
-    "cost": 914.4,
-    "sell": 990.6,
-    "margin": 76.2,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W2400xD600xH900",
-    "type": "Sink Bench",
-    "brand": "MixRite"
-  },
-  "MixRite Double Sink Benches \u2013 600mm Deep": {
+  "MixRite Double Sink Benches – 600mm Deep": {
     "rrp": null,
     "cost": null,
     "sell": null,
@@ -2182,76 +2294,6 @@
     "dims": "",
     "type": "",
     "brand": ""
-  },
-  "SS2612C": {
-    "rrp": 1103,
-    "cost": 661.8,
-    "sell": 716.95,
-    "margin": 55.15,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W1200xD600xH900",
-    "type": "Double Sink Bench",
-    "brand": "MixRite"
-  },
-  "SS2615C": {
-    "rrp": 1190,
-    "cost": 714.0,
-    "sell": 773.5,
-    "margin": 59.5,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W1500xD600xH900",
-    "type": "Double Sink Bench",
-    "brand": "MixRite"
-  },
-  "SS2618L/R/C": {
-    "rrp": 1386,
-    "cost": 831.6,
-    "sell": 900.9,
-    "margin": 69.3,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W1800xD600xH900",
-    "type": "Double Sink Bench",
-    "brand": "MixRite"
-  },
-  "SS2621L/R/C": {
-    "rrp": 1466,
-    "cost": 879.6,
-    "sell": 952.9,
-    "margin": 73.3,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W2100xD600xH900",
-    "type": "Double Sink Bench",
-    "brand": "MixRite"
-  },
-  "SS2624L/R/C": {
-    "rrp": 1593,
-    "cost": 955.8,
-    "sell": 1035.45,
-    "margin": 79.65,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W2400xD600xH900",
-    "type": "Double Sink Bench",
-    "brand": "MixRite"
   },
   "MixRite Wall Shelves": {
     "rrp": null,
@@ -2267,203 +2309,7 @@
     "type": "",
     "brand": ""
   },
-  "SWS06": {
-    "rrp": 155,
-    "cost": 93.0,
-    "sell": 100.75,
-    "margin": 7.75,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W600xD300xH255",
-    "type": "Wall Shelf",
-    "brand": "MixRite"
-  },
-  "SWS09": {
-    "rrp": 178,
-    "cost": 106.8,
-    "sell": 115.7,
-    "margin": 8.9,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W900xD300xH255",
-    "type": "Wall Shelf",
-    "brand": "MixRite"
-  },
-  "SWS12": {
-    "rrp": 224,
-    "cost": 134.4,
-    "sell": 145.6,
-    "margin": 11.2,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W1200xD300xH255",
-    "type": "Wall Shelf",
-    "brand": "MixRite"
-  },
-  "SWS15": {
-    "rrp": 259,
-    "cost": 155.4,
-    "sell": 168.35,
-    "margin": 12.95,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W1500xD300xH255",
-    "type": "Wall Shelf",
-    "brand": "MixRite"
-  },
-  "SWS18": {
-    "rrp": 293,
-    "cost": 175.8,
-    "sell": 190.45,
-    "margin": 14.65,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W1800xD300xH255",
-    "type": "Wall Shelf",
-    "brand": "MixRite"
-  },
-  "SWS21": {
-    "rrp": 351,
-    "cost": 210.6,
-    "sell": 228.15,
-    "margin": 17.55,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W2100xD300xH255",
-    "type": "Wall Shelf",
-    "brand": "MixRite"
-  },
-  "SWS24": {
-    "rrp": 385,
-    "cost": 231.0,
-    "sell": 250.25,
-    "margin": 19.25,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W2400xD300xH255",
-    "type": "Wall Shelf",
-    "brand": "MixRite"
-  },
-  "PWS06": {
-    "rrp": 155,
-    "cost": 93.0,
-    "sell": 100.75,
-    "margin": 7.75,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W600xD300xH255",
-    "type": "Pipe Wall Shelf",
-    "brand": "MixRite"
-  },
-  "PWS09": {
-    "rrp": 190,
-    "cost": 114.0,
-    "sell": 123.5,
-    "margin": 9.5,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W900xD300xH255",
-    "type": "Pipe Wall Shelf",
-    "brand": "MixRite"
-  },
-  "PWS12": {
-    "rrp": 213,
-    "cost": 127.8,
-    "sell": 138.45,
-    "margin": 10.65,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W1200xD300xH255",
-    "type": "Pipe Wall Shelf",
-    "brand": "MixRite"
-  },
-  "PWS15": {
-    "rrp": 236,
-    "cost": 141.6,
-    "sell": 153.4,
-    "margin": 11.8,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W1500xD300xH255",
-    "type": "Pipe Wall Shelf",
-    "brand": "MixRite"
-  },
-  "PWS18": {
-    "rrp": 282,
-    "cost": 169.2,
-    "sell": 183.3,
-    "margin": 14.1,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W1800xD300xH255",
-    "type": "Pipe Wall Shelf",
-    "brand": "MixRite"
-  },
-  "PWS21": {
-    "rrp": 339,
-    "cost": 203.4,
-    "sell": 220.35,
-    "margin": 16.95,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W2100xD300xH255",
-    "type": "Pipe Wall Shelf",
-    "brand": "MixRite"
-  },
-  "PWS24": {
-    "rrp": 374,
-    "cost": 224.4,
-    "sell": 243.1,
-    "margin": 18.7,
-    "margin_pct": 7.7,
-    "source": "simco",
-    "cost_basis": "40% off RRP",
-    "sell_basis": "35% off RRP",
-    "capacity": "",
-    "dims": "W2400xD300xH255",
-    "type": "Pipe Wall Shelf",
-    "brand": "MixRite"
-  },
-  "Simco Hood \u2013 Exhaust Canopies": {
+  "Simco Hood – Exhaust Canopies": {
     "rrp": null,
     "cost": null,
     "sell": null,
@@ -2479,7 +2325,7 @@
   },
   "DH1500-750D": {
     "rrp": 16250,
-    "cost": 9750.0,
+    "cost": 9750,
     "sell": 10562.5,
     "margin": 812.5,
     "margin_pct": 7.7,
@@ -2493,7 +2339,7 @@
   },
   "DH1500-850D": {
     "rrp": 16250,
-    "cost": 9750.0,
+    "cost": 9750,
     "sell": 10562.5,
     "margin": 812.5,
     "margin_pct": 7.7,
@@ -2507,7 +2353,7 @@
   },
   "DH1800-750D": {
     "rrp": 18250,
-    "cost": 10950.0,
+    "cost": 10950,
     "sell": 11862.5,
     "margin": 912.5,
     "margin_pct": 7.7,
@@ -2521,7 +2367,7 @@
   },
   "DH1800-850D": {
     "rrp": 18250,
-    "cost": 10950.0,
+    "cost": 10950,
     "sell": 11862.5,
     "margin": 912.5,
     "margin_pct": 7.7,
@@ -2534,7 +2380,7 @@
     "brand": "Simco Hood"
   },
   "C400": {
-    "rrp": 4492.0,
+    "rrp": 4492,
     "cost": null,
     "sell": null,
     "margin": null,
@@ -2546,7 +2392,7 @@
     "poa": true
   },
   "C500": {
-    "rrp": 6850.0,
+    "rrp": 6850,
     "cost": null,
     "sell": null,
     "margin": null,
@@ -2594,7 +2440,7 @@
     "poa": true
   },
   "WH-UC-S": {
-    "rrp": 10720.0,
+    "rrp": 10720,
     "cost": null,
     "sell": null,
     "margin": null,
@@ -2606,7 +2452,7 @@
     "poa": true
   },
   "WH-UC-M": {
-    "rrp": 11770.0,
+    "rrp": 11770,
     "cost": null,
     "sell": null,
     "margin": null,
@@ -2618,7 +2464,7 @@
     "poa": true
   },
   "WH-UC-L": {
-    "rrp": 12853.0,
+    "rrp": 12853,
     "cost": null,
     "sell": null,
     "margin": null,
@@ -2630,7 +2476,7 @@
     "poa": true
   },
   "WH-UC-XL": {
-    "rrp": 15085.0,
+    "rrp": 15085,
     "cost": null,
     "sell": null,
     "margin": null,
@@ -2642,7 +2488,7 @@
     "poa": true
   },
   "WH-UC-S-EXI": {
-    "rrp": 13620.0,
+    "rrp": 13620,
     "cost": null,
     "sell": null,
     "margin": null,
@@ -2654,7 +2500,7 @@
     "poa": true
   },
   "WH-UC-M-EXI": {
-    "rrp": 16127.0,
+    "rrp": 16127,
     "cost": null,
     "sell": null,
     "margin": null,
@@ -2666,7 +2512,7 @@
     "poa": true
   },
   "WH-PT-M": {
-    "rrp": 24553.0,
+    "rrp": 24553,
     "cost": null,
     "sell": null,
     "margin": null,
@@ -2678,7 +2524,7 @@
     "poa": true
   },
   "WH-PT-L": {
-    "rrp": 29515.0,
+    "rrp": 29515,
     "cost": null,
     "sell": null,
     "margin": null,
@@ -2690,7 +2536,7 @@
     "poa": true
   },
   "WH-PT-XL": {
-    "rrp": 30422.0,
+    "rrp": 30422,
     "cost": null,
     "sell": null,
     "margin": null,
@@ -2702,7 +2548,7 @@
     "poa": true
   },
   "WH-GS630": {
-    "rrp": 20007.0,
+    "rrp": 20007,
     "cost": null,
     "sell": null,
     "margin": null,
@@ -2714,7 +2560,7 @@
     "poa": true
   },
   "WH-UF-XL": {
-    "rrp": 34431.0,
+    "rrp": 34431,
     "cost": null,
     "sell": null,
     "margin": null,
@@ -2724,5 +2570,1909 @@
     "sell_basis": "POA",
     "brand": "Winterhalter",
     "poa": true
+  },
+  "AT80012": {
+    "rrp": 569,
+    "cost": 312.95,
+    "sell": 369.85,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P12020": {
+    "rrp": 20,
+    "cost": 11,
+    "sell": 13,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P23200": {
+    "rrp": 50,
+    "cost": 27.5,
+    "sell": 32.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P23150": {
+    "rrp": 35,
+    "cost": 19.25,
+    "sell": 22.75,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P23065": {
+    "rrp": 20,
+    "cost": 11,
+    "sell": 13,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P23040": {
+    "rrp": 20,
+    "cost": 11,
+    "sell": 13,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P23020": {
+    "rrp": 20,
+    "cost": 11,
+    "sell": 13,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P11200": {
+    "rrp": 55,
+    "cost": 30.25,
+    "sell": 35.75,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P11150": {
+    "rrp": 50,
+    "cost": 27.5,
+    "sell": 32.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P11100": {
+    "rrp": 30,
+    "cost": 16.5,
+    "sell": 19.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P11065": {
+    "rrp": 30,
+    "cost": 16.5,
+    "sell": 19.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P11040": {
+    "rrp": 30,
+    "cost": 16.5,
+    "sell": 19.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P11020": {
+    "rrp": 20,
+    "cost": 11,
+    "sell": 13,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P21200": {
+    "rrp": 105,
+    "cost": 57.75,
+    "sell": 68.25,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P21150": {
+    "rrp": 85,
+    "cost": 46.75,
+    "sell": 55.25,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P21100": {
+    "rrp": 75,
+    "cost": 41.25,
+    "sell": 48.75,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P21065": {
+    "rrp": 60,
+    "cost": 33,
+    "sell": 39,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "AT761L63-1": {
+    "rrp": 132,
+    "cost": 72.6,
+    "sell": 85.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "AT51363": {
+    "rrp": 431,
+    "cost": 237.05,
+    "sell": 280.15,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "AT61363": {
+    "rrp": 431,
+    "cost": 237.05,
+    "sell": 280.15,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "AT90133": {
+    "rrp": 362,
+    "cost": 199.1,
+    "sell": 235.3,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "AT90512": {
+    "rrp": 259,
+    "cost": 142.45,
+    "sell": 168.35,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "WTS606": {
+    "rrp": 443,
+    "cost": 243.65,
+    "sell": 287.95,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS609": {
+    "rrp": 512,
+    "cost": 281.6,
+    "sell": 332.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS612": {
+    "rrp": 627,
+    "cost": 344.85,
+    "sell": 407.55,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS615": {
+    "rrp": 719,
+    "cost": 395.45,
+    "sell": 467.35,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS618": {
+    "rrp": 822,
+    "cost": 452.1,
+    "sell": 534.3,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS621": {
+    "rrp": 995,
+    "cost": 547.25,
+    "sell": 646.75,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS624": {
+    "rrp": 1110,
+    "cost": 610.5,
+    "sell": 721.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1606C": {
+    "rrp": 834,
+    "cost": 458.7,
+    "sell": 542.1,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1609C": {
+    "rrp": 960,
+    "cost": 528,
+    "sell": 624,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1612C": {
+    "rrp": 937,
+    "cost": 515.35,
+    "sell": 609.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1615C": {
+    "rrp": 1167,
+    "cost": 641.85,
+    "sell": 758.55,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1621C": {
+    "rrp": 1386,
+    "cost": 762.3,
+    "sell": 900.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1624C": {
+    "rrp": 1524,
+    "cost": 838.2,
+    "sell": 990.6,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS2612C": {
+    "rrp": 1103,
+    "cost": 606.65,
+    "sell": 716.95,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS2615C": {
+    "rrp": 1190,
+    "cost": 654.5,
+    "sell": 773.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS2618C": {
+    "rrp": 1386,
+    "cost": 762.3,
+    "sell": 900.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS2621C": {
+    "rrp": 1466,
+    "cost": 806.3,
+    "sell": 952.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS2624C": {
+    "rrp": 1593,
+    "cost": 876.15,
+    "sell": 1035.45,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS606B": {
+    "rrp": 500,
+    "cost": 275,
+    "sell": 325,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS609B": {
+    "rrp": 558,
+    "cost": 306.9,
+    "sell": 362.7,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS612B": {
+    "rrp": 650,
+    "cost": 357.5,
+    "sell": 422.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS615B": {
+    "rrp": 776,
+    "cost": 426.8,
+    "sell": 504.4,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS618B": {
+    "rrp": 857,
+    "cost": 471.35,
+    "sell": 557.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS621B": {
+    "rrp": 1041,
+    "cost": 572.55,
+    "sell": 676.65,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS624B": {
+    "rrp": 1156,
+    "cost": 635.8,
+    "sell": 751.4,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SWS06": {
+    "rrp": 155,
+    "cost": 85.25,
+    "sell": 100.75,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SWS09": {
+    "rrp": 178,
+    "cost": 97.9,
+    "sell": 115.7,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SWS12": {
+    "rrp": 224,
+    "cost": 123.2,
+    "sell": 145.6,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SWS15": {
+    "rrp": 259,
+    "cost": 142.45,
+    "sell": 168.35,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SWS18": {
+    "rrp": 293,
+    "cost": 161.15,
+    "sell": 190.45,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SWS21": {
+    "rrp": 351,
+    "cost": 193.05,
+    "sell": 228.15,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SWS24": {
+    "rrp": 385,
+    "cost": 211.75,
+    "sell": 250.25,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "PWS06": {
+    "rrp": 155,
+    "cost": 85.25,
+    "sell": 100.75,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "PWS09": {
+    "rrp": 190,
+    "cost": 104.5,
+    "sell": 123.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "PWS12": {
+    "rrp": 213,
+    "cost": 117.15,
+    "sell": 138.45,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "PWS15": {
+    "rrp": 236,
+    "cost": 129.8,
+    "sell": 153.4,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "PWS18": {
+    "rrp": 282,
+    "cost": 155.1,
+    "sell": 183.3,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "PWS21": {
+    "rrp": 339,
+    "cost": 186.45,
+    "sell": 220.35,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "PWS24": {
+    "rrp": 374,
+    "cost": 205.7,
+    "sell": 243.1,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SOS109": {
+    "rrp": 259,
+    "cost": 142.45,
+    "sell": 168.35,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SOS112": {
+    "rrp": 305,
+    "cost": 167.75,
+    "sell": 198.25,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SOS115": {
+    "rrp": 362,
+    "cost": 199.1,
+    "sell": 235.3,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SOS118": {
+    "rrp": 374,
+    "cost": 205.7,
+    "sell": 243.1,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SOS121": {
+    "rrp": 477,
+    "cost": 262.35,
+    "sell": 310.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SOS209": {
+    "rrp": 408,
+    "cost": 224.4,
+    "sell": 265.2,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SOS212": {
+    "rrp": 466,
+    "cost": 256.3,
+    "sell": 302.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SOS215": {
+    "rrp": 512,
+    "cost": 281.6,
+    "sell": 332.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SOS218": {
+    "rrp": 604,
+    "cost": 332.2,
+    "sell": 392.6,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SOS221": {
+    "rrp": 753,
+    "cost": 414.15,
+    "sell": 489.45,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS706": {
+    "rrp": 466,
+    "cost": 256.3,
+    "sell": 302.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS709": {
+    "rrp": 546,
+    "cost": 300.3,
+    "sell": 354.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS712": {
+    "rrp": 638,
+    "cost": 350.9,
+    "sell": 414.7,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS715": {
+    "rrp": 753,
+    "cost": 414.15,
+    "sell": 489.45,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS718": {
+    "rrp": 857,
+    "cost": 471.35,
+    "sell": 557.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS721": {
+    "rrp": 1041,
+    "cost": 572.55,
+    "sell": 676.65,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS724": {
+    "rrp": 1156,
+    "cost": 635.8,
+    "sell": 751.4,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTCS6B": {
+    "rrp": 638,
+    "cost": 350.9,
+    "sell": 414.7,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTCS7B": {
+    "rrp": 696,
+    "cost": 382.8,
+    "sell": 452.4,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS706B": {
+    "rrp": 500,
+    "cost": 275,
+    "sell": 325,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS709B": {
+    "rrp": 604,
+    "cost": 332.2,
+    "sell": 392.6,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS712B": {
+    "rrp": 673,
+    "cost": 370.15,
+    "sell": 437.45,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS715B": {
+    "rrp": 788,
+    "cost": 433.4,
+    "sell": 512.2,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS718B": {
+    "rrp": 903,
+    "cost": 496.65,
+    "sell": 586.95,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS721B": {
+    "rrp": 1064,
+    "cost": 585.2,
+    "sell": 691.6,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS724B": {
+    "rrp": 1190,
+    "cost": 654.5,
+    "sell": 773.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1706C": {
+    "rrp": 880,
+    "cost": 484,
+    "sell": 572,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1709C": {
+    "rrp": 972,
+    "cost": 534.6,
+    "sell": 631.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1712C": {
+    "rrp": 1225,
+    "cost": 673.75,
+    "sell": 796.25,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1715C": {
+    "rrp": 1236,
+    "cost": 679.8,
+    "sell": 803.4,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1718C": {
+    "rrp": 1374,
+    "cost": 755.7,
+    "sell": 893.1,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1721C": {
+    "rrp": 1524,
+    "cost": 838.2,
+    "sell": 990.6,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1724C": {
+    "rrp": 1754,
+    "cost": 964.7,
+    "sell": 1140.1,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS2712C": {
+    "rrp": 1212,
+    "cost": 666.6,
+    "sell": 787.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS2715C": {
+    "rrp": 1432,
+    "cost": 787.6,
+    "sell": 930.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS2718C": {
+    "rrp": 1512,
+    "cost": 831.6,
+    "sell": 982.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS2721C": {
+    "rrp": 1938,
+    "cost": 1065.9,
+    "sell": 1259.7,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS2724C": {
+    "rrp": 2225,
+    "cost": 1223.75,
+    "sell": 1446.25,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTSU606": {
+    "rrp": 132,
+    "cost": 72.6,
+    "sell": 85.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTSU609": {
+    "rrp": 167,
+    "cost": 91.85,
+    "sell": 108.55,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTSU612": {
+    "rrp": 201,
+    "cost": 110.55,
+    "sell": 130.65,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTSU615": {
+    "rrp": 236,
+    "cost": 129.8,
+    "sell": 153.4,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTSU618": {
+    "rrp": 259,
+    "cost": 142.45,
+    "sell": 168.35,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTSU621": {
+    "rrp": 293,
+    "cost": 161.15,
+    "sell": 190.45,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTSU624": {
+    "rrp": 339,
+    "cost": 186.45,
+    "sell": 220.35,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTSU706": {
+    "rrp": 190,
+    "cost": 104.5,
+    "sell": 123.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTSU709": {
+    "rrp": 213,
+    "cost": 117.15,
+    "sell": 138.45,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTSU712": {
+    "rrp": 224,
+    "cost": 123.2,
+    "sell": 145.6,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTSU715": {
+    "rrp": 282,
+    "cost": 155.1,
+    "sell": 183.3,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTSU718": {
+    "rrp": 305,
+    "cost": 167.75,
+    "sell": 198.25,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTSU721": {
+    "rrp": 339,
+    "cost": 186.45,
+    "sell": 220.35,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTSU724": {
+    "rrp": 374,
+    "cost": 205.7,
+    "sell": 243.1,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSU606": {
+    "rrp": 155,
+    "cost": 85.25,
+    "sell": 100.75,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSU609": {
+    "rrp": 178,
+    "cost": 97.9,
+    "sell": 115.7,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSU612": {
+    "rrp": 213,
+    "cost": 117.15,
+    "sell": 138.45,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSU615": {
+    "rrp": 247,
+    "cost": 135.85,
+    "sell": 160.55,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSU618": {
+    "rrp": 259,
+    "cost": 142.45,
+    "sell": 168.35,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSU621": {
+    "rrp": 305,
+    "cost": 167.75,
+    "sell": 198.25,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSU624": {
+    "rrp": 351,
+    "cost": 193.05,
+    "sell": 228.15,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSU706": {
+    "rrp": 201,
+    "cost": 110.55,
+    "sell": 130.65,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSU709": {
+    "rrp": 224,
+    "cost": 123.2,
+    "sell": 145.6,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSU712": {
+    "rrp": 247,
+    "cost": 135.85,
+    "sell": 160.55,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSU715": {
+    "rrp": 293,
+    "cost": 161.15,
+    "sell": 190.45,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSU718": {
+    "rrp": 328,
+    "cost": 180.4,
+    "sell": 213.2,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSU721": {
+    "rrp": 351,
+    "cost": 193.05,
+    "sell": 228.15,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSU724": {
+    "rrp": 385,
+    "cost": 211.75,
+    "sell": 250.25,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSLB606": {
+    "rrp": 109,
+    "cost": 59.95,
+    "sell": 70.85,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSLB609": {
+    "rrp": 121,
+    "cost": 66.55,
+    "sell": 78.65,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSLB612": {
+    "rrp": 121,
+    "cost": 66.55,
+    "sell": 78.65,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSLB615": {
+    "rrp": 121,
+    "cost": 66.55,
+    "sell": 78.65,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSLB618": {
+    "rrp": 132,
+    "cost": 72.6,
+    "sell": 85.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSLB621": {
+    "rrp": 132,
+    "cost": 72.6,
+    "sell": 85.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSLB624": {
+    "rrp": 155,
+    "cost": 85.25,
+    "sell": 100.75,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSLB706": {
+    "rrp": 109,
+    "cost": 59.95,
+    "sell": 70.85,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSLB709": {
+    "rrp": 121,
+    "cost": 66.55,
+    "sell": 78.65,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSLB712": {
+    "rrp": 121,
+    "cost": 66.55,
+    "sell": 78.65,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSLB715": {
+    "rrp": 121,
+    "cost": 66.55,
+    "sell": 78.65,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSLB718": {
+    "rrp": 132,
+    "cost": 72.6,
+    "sell": 85.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSLB721": {
+    "rrp": 132,
+    "cost": 72.6,
+    "sell": 85.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SSLB724": {
+    "rrp": 155,
+    "cost": 85.25,
+    "sell": 100.75,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "LEG WITH CASTER": {
+    "rrp": 56,
+    "cost": 30.8,
+    "sell": 36.4,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "LEG WITH DISK FEET": {
+    "rrp": 59,
+    "cost": 32.45,
+    "sell": 38.35,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "P21020": {
+    "rrp": 50,
+    "cost": 27.5,
+    "sell": 32.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P21040": {
+    "rrp": 55,
+    "cost": 30.25,
+    "sell": 35.75,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P23100": {
+    "rrp": 30,
+    "cost": 16.5,
+    "sell": 19.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P12040": {
+    "rrp": 20,
+    "cost": 11,
+    "sell": 13,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P12065": {
+    "rrp": 20,
+    "cost": 11,
+    "sell": 13,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P12100": {
+    "rrp": 20,
+    "cost": 11,
+    "sell": 13,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P12150": {
+    "rrp": 30,
+    "cost": 16.5,
+    "sell": 19.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P12200": {
+    "rrp": 35,
+    "cost": 19.25,
+    "sell": 22.75,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P13020": {
+    "rrp": 10,
+    "cost": 5.5,
+    "sell": 6.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P13040": {
+    "rrp": 20,
+    "cost": 11,
+    "sell": 13,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P13065": {
+    "rrp": 20,
+    "cost": 11,
+    "sell": 13,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P13100": {
+    "rrp": 20,
+    "cost": 11,
+    "sell": 13,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P13150": {
+    "rrp": 30,
+    "cost": 16.5,
+    "sell": 19.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P13200": {
+    "rrp": 30,
+    "cost": 16.5,
+    "sell": 19.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P21000": {
+    "rrp": 52,
+    "cost": 28.6,
+    "sell": 33.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P11000": {
+    "rrp": 22,
+    "cost": 12.1,
+    "sell": 14.3,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P12000": {
+    "rrp": 12,
+    "cost": 6.6,
+    "sell": 7.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P23000": {
+    "rrp": 17,
+    "cost": 9.35,
+    "sell": 11.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P13000": {
+    "rrp": 10,
+    "cost": 5.5,
+    "sell": 6.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P14000": {
+    "rrp": 10,
+    "cost": 5.5,
+    "sell": 6.5,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P16000": {
+    "rrp": 6,
+    "cost": 3.3,
+    "sell": 3.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P19000": {
+    "rrp": 6,
+    "cost": 3.3,
+    "sell": 3.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "P24000": {
+    "rrp": 17,
+    "cost": 9.35,
+    "sell": 11.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "SC11000A": {
+    "rrp": 68,
+    "cost": 37.4,
+    "sell": 44.2,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "SC23000A": {
+    "rrp": 52,
+    "cost": 28.6,
+    "sell": 33.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "SC12000A": {
+    "rrp": 35,
+    "cost": 19.25,
+    "sell": 22.75,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "SC13000A": {
+    "rrp": 29,
+    "cost": 15.95,
+    "sell": 18.85,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "SC14000A": {
+    "rrp": 22,
+    "cost": 12.1,
+    "sell": 14.3,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "SC16000A": {
+    "rrp": 17,
+    "cost": 9.35,
+    "sell": 11.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "R11010": {
+    "rrp": 40,
+    "cost": 22,
+    "sell": 26,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "R12010": {
+    "rrp": 33,
+    "cost": 18.15,
+    "sell": 21.45,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "R23010": {
+    "rrp": 33,
+    "cost": 18.15,
+    "sell": 21.45,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Benchtop"
+  },
+  "SS1612L": {
+    "rrp": 937,
+    "cost": 515.35,
+    "sell": 609.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1612R": {
+    "rrp": 937,
+    "cost": 515.35,
+    "sell": 609.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1615L": {
+    "rrp": 1167,
+    "cost": 641.85,
+    "sell": 758.55,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1615R": {
+    "rrp": 1167,
+    "cost": 641.85,
+    "sell": 758.55,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1618R": {
+    "rrp": 1236,
+    "cost": 679.8,
+    "sell": 803.4,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1621L": {
+    "rrp": 1386,
+    "cost": 762.3,
+    "sell": 900.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1621R": {
+    "rrp": 1386,
+    "cost": 762.3,
+    "sell": 900.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1624L": {
+    "rrp": 1524,
+    "cost": 838.2,
+    "sell": 990.6,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1624R": {
+    "rrp": 1524,
+    "cost": 838.2,
+    "sell": 990.6,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1712R": {
+    "rrp": 1225,
+    "cost": 673.75,
+    "sell": 796.25,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1712L": {
+    "rrp": 1225,
+    "cost": 673.75,
+    "sell": 796.25,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1715R": {
+    "rrp": 1236,
+    "cost": 679.8,
+    "sell": 803.4,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1715L": {
+    "rrp": 1236,
+    "cost": 679.8,
+    "sell": 803.4,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1718L": {
+    "rrp": 1374,
+    "cost": 755.7,
+    "sell": 893.1,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1718R": {
+    "rrp": 1374,
+    "cost": 755.7,
+    "sell": 893.1,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1721L": {
+    "rrp": 1524,
+    "cost": 838.2,
+    "sell": 990.6,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1721R": {
+    "rrp": 1524,
+    "cost": 838.2,
+    "sell": 990.6,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1724L": {
+    "rrp": 1754,
+    "cost": 964.7,
+    "sell": 1140.1,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS1724R": {
+    "rrp": 1754,
+    "cost": 964.7,
+    "sell": 1140.1,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS2618L": {
+    "rrp": 1386,
+    "cost": 762.3,
+    "sell": 900.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS2618R": {
+    "rrp": 1386,
+    "cost": 762.3,
+    "sell": 900.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS2621L": {
+    "rrp": 1466,
+    "cost": 806.3,
+    "sell": 952.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS2621R": {
+    "rrp": 1466,
+    "cost": 806.3,
+    "sell": 952.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS2624L": {
+    "rrp": 1593,
+    "cost": 876.15,
+    "sell": 1035.45,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS2624R": {
+    "rrp": 1593,
+    "cost": 876.15,
+    "sell": 1035.45,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS2718L": {
+    "rrp": 1512,
+    "cost": 831.6,
+    "sell": 982.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS2718R": {
+    "rrp": 1512,
+    "cost": 831.6,
+    "sell": 982.8,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS2721L": {
+    "rrp": 1938,
+    "cost": 1065.9,
+    "sell": 1259.7,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS2721R": {
+    "rrp": 1938,
+    "cost": 1065.9,
+    "sell": 1259.7,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS2724L": {
+    "rrp": 2225,
+    "cost": 1223.75,
+    "sell": 1446.25,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "SS2724R": {
+    "rrp": 2225,
+    "cost": 1223.75,
+    "sell": 1446.25,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WST6060L": {
+    "rrp": 529,
+    "cost": 290.95,
+    "sell": 343.85,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WST6120L": {
+    "rrp": 799,
+    "cost": 439.45,
+    "sell": 519.35,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WST7060L": {
+    "rrp": 529,
+    "cost": 290.95,
+    "sell": 343.85,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WST7120L": {
+    "rrp": 799,
+    "cost": 439.45,
+    "sell": 519.35,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WSS16120L": {
+    "rrp": 926,
+    "cost": 509.3,
+    "sell": 601.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WSS16120R": {
+    "rrp": 926,
+    "cost": 509.3,
+    "sell": 601.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WSS17120R": {
+    "rrp": 1011,
+    "cost": 556.05,
+    "sell": 657.15,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WSS17120L": {
+    "rrp": 1011,
+    "cost": 556.05,
+    "sell": 657.15,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WSS26165L": {
+    "rrp": 1386,
+    "cost": 762.3,
+    "sell": 900.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WSS26165R": {
+    "rrp": 1386,
+    "cost": 762.3,
+    "sell": 900.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WSS27165L": {
+    "rrp": 1616,
+    "cost": 888.8,
+    "sell": 1050.4,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WSS27165R": {
+    "rrp": 1616,
+    "cost": 888.8,
+    "sell": 1050.4,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WST6060R": {
+    "rrp": 529,
+    "cost": 290.95,
+    "sell": 343.85,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WST6120R": {
+    "rrp": 799,
+    "cost": 439.45,
+    "sell": 519.35,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WST7060R": {
+    "rrp": 529,
+    "cost": 290.95,
+    "sell": 343.85,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WST7120R": {
+    "rrp": 799,
+    "cost": 439.45,
+    "sell": 519.35,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "ATSEC-12": {
+    "rrp": 339,
+    "cost": 186.45,
+    "sell": 220.35,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Gas Cooking"
+  },
+  "ATSEC-24": {
+    "rrp": 397,
+    "cost": 218.35,
+    "sell": 258.05,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Gas Cooking"
+  },
+  "ATSEC-36": {
+    "rrp": 466,
+    "cost": 256.3,
+    "sell": 302.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Gas Cooking"
+  },
+  "WAT6120R": {
+    "rrp": 723,
+    "cost": 397.65,
+    "sell": 469.95,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WAT6120L": {
+    "rrp": 629,
+    "cost": 345.95,
+    "sell": 408.85,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WAT7120R": {
+    "rrp": 723,
+    "cost": 397.65,
+    "sell": 469.95,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WAT7120L": {
+    "rrp": 723,
+    "cost": 397.65,
+    "sell": 469.95,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WSS16165L": {
+    "rrp": 926,
+    "cost": 509.3,
+    "sell": 601.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WSS16165R": {
+    "rrp": 926,
+    "cost": 509.3,
+    "sell": 601.9,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WSS17165L": {
+    "rrp": 1011,
+    "cost": 556.05,
+    "sell": 657.15,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WSS17165R": {
+    "rrp": 1011,
+    "cost": 556.05,
+    "sell": 657.15,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "ATSEC-300": {
+    "rrp": 408,
+    "cost": 224.4,
+    "sell": 265.2,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Gas Cooking"
+  },
+  "ATSEC-600": {
+    "rrp": 454,
+    "cost": 249.7,
+    "sell": 295.1,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Gas Cooking"
+  },
+  "ATSEC-900": {
+    "rrp": 523,
+    "cost": 287.65,
+    "sell": 339.95,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Gas Cooking"
+  },
+  "WTS703B": {
+    "rrp": 279,
+    "cost": 153.45,
+    "sell": 181.35,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
+  },
+  "WTS745B": {
+    "rrp": 339,
+    "cost": 186.45,
+    "sell": 220.35,
+    "margin": 0.35,
+    "brand": "MixRite",
+    "cat": "MixRite Stainless Steel"
   }
 }
