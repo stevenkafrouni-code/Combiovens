@@ -233,5 +233,65 @@
     "totalIncGst": 2952.24,
     "hasPoaItems": true,
     "status": "sent"
+  },
+  {
+    "quoteId": "CBO-260528-7806",
+    "timestamp": "2026-05-28T22:47:42.577Z",
+    "name": "Steven",
+    "businessName": "100",
+    "email": "steven@misspickle.com.au",
+    "phone": "0410776713",
+    "postcode": "3977",
+    "address": "11 Powerscout Retreat",
+    "suburb": "Cranbourne",
+    "state": "VIC",
+    "notes": "",
+    "deliveryNotes": "",
+    "deliveryAccess": {
+      "groundFloor": true,
+      "stairs": false,
+      "dock": false,
+      "tailLift": false
+    },
+    "items": [
+      {
+        "sku": "EPC-0511E1",
+        "desc": "Combi Oven 5 Tray GN1/1",
+        "qty": 1
+      },
+      {
+        "sku": "WH-PT-XL",
+        "desc": "PT-XL Pass Through Dishwasher / Utensil Washer",
+        "qty": 1
+      },
+      {
+        "sku": "WH-UC-S-EXI",
+        "desc": "UC-S Excellence-i Polish-Free Undercounter",
+        "qty": 1
+      },
+      {
+        "sku": "WH-UC-M",
+        "desc": "UC-M Undercounter",
+        "qty": 1
+      },
+      {
+        "sku": "C400",
+        "desc": "C400 Undercounter",
+        "qty": 1
+      },
+      {
+        "sku": "BB-208HEC",
+        "desc": "2 Door Back Bar Cooler 208L",
+        "qty": 1
+      }
+    ],
+    "referralCode": "",
+    "subtotal": 52010.75,
+    "discount": 0,
+    "total": 52010.75,
+    "gst": 5201.08,
+    "totalIncGst": 57211.83,
+    "hasPoaItems": false,
+    "status": "sent"
   }
 ]
