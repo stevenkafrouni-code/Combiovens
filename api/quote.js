@@ -3,10 +3,11 @@
 // Full quote submission flow with proper pricing, validation and approval routing
 
 const { buildQuoteLines, applyReferralDiscount, buildMarginSummary } = require('../lib/products');
-const { validateCode }   = require('../lib/referral');
-const { validateQuote }  = require('../lib/claude');
-const { appendToFile }   = require('../lib/storage');
+const { validateCode }          = require('../lib/referral');
+const { validateQuote }         = require('../lib/claude');
+const { appendToFile }          = require('../lib/storage');
 const { sendQuoteToCustomer }   = require('../lib/email');
+const { enrichLinesWithStock }  = require('../lib/stock');
 
 function generateQuoteId() {
   const now  = new Date();
@@ -61,15 +62,18 @@ module.exports = async (req, res) => {
     }
 
     // ── Build and price quote lines ───────────────────────────────────────────
-    const { lines, subtotal, costTotal, totalMargin, hasPoaItems, gst, totalIncGst } =
+    const { lines: rawLines, subtotal, costTotal, totalMargin, hasPoaItems, gst, totalIncGst } =
       buildQuoteLines(items.map(i => ({ sku: i.sku.trim().toUpperCase(), qty: parseInt(i.qty) })));
 
-    const unknownSkus = lines.filter(l => l.error);
+    const unknownSkus = rawLines.filter(l => l.error);
     if (unknownSkus.length) {
       return res.status(400).json({
         error: `Unknown SKUs: ${unknownSkus.map(l => l.sku).join(', ')}. Please check and resubmit.`,
       });
     }
+
+    // ── Enrich lines with stock availability ─────────────────────────────────
+    const lines = await enrichLinesWithStock(rawLines).catch(() => rawLines);
 
     // ── Validate referral code ────────────────────────────────────────────────
     let discount    = 0;
