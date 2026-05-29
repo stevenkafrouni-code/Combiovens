@@ -76,5 +76,23 @@
       "dock": false,
       "tailLift": false
     }
+  },
+  {
+    "name": "Andrew",
+    "businessName": "Grounded",
+    "email": "andrew.badre@gmail.com",
+    "phone": "0423074382",
+    "postcode": "3802",
+    "address": "",
+    "suburb": "Endeavour Hills",
+    "state": "VIC",
+    "notes": "",
+    "deliveryNotes": "",
+    "deliveryAccess": {
+      "groundFloor": true,
+      "stairs": false,
+      "dock": false,
+      "tailLift": false
+    }
   }
 ]
