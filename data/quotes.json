@@ -297,5 +297,50 @@
     "totalIncGst": 57211.83,
     "hasPoaItems": false,
     "status": "sent"
+  },
+  {
+    "quoteId": "CBO-260529-8620",
+    "timestamp": "2026-05-29T23:54:16.696Z",
+    "name": "Andrew",
+    "businessName": "Grounded",
+    "email": "andrew.badre@gmail.com",
+    "phone": "0423074382",
+    "postcode": "3802",
+    "address": "",
+    "suburb": "Endeavour Hills",
+    "state": "VIC",
+    "notes": "",
+    "deliveryNotes": "",
+    "deliveryAccess": {
+      "groundFloor": true,
+      "stairs": false,
+      "dock": false,
+      "tailLift": false
+    },
+    "items": [
+      {
+        "sku": "EPC-1021E3",
+        "desc": "Combi Oven 10 Tray GN2/1",
+        "qty": 1
+      },
+      {
+        "sku": "BB-208HEC",
+        "desc": "2 Door Back Bar Cooler 208L",
+        "qty": 1
+      },
+      {
+        "sku": "JBF80RSGR",
+        "desc": "Snowman Double Door Storage Refrigerator 860L",
+        "qty": 1
+      }
+    ],
+    "referralCode": "",
+    "subtotal": 15226.25,
+    "discount": 0,
+    "total": 15226.25,
+    "gst": 1522.63,
+    "totalIncGst": 16748.88,
+    "hasPoaItems": false,
+    "status": "sent"
   }
 ]
