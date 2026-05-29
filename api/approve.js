@@ -3,7 +3,7 @@ const { buildQuoteLines, buildStripeLineItems } = require('../lib/products');
 const { updateQuote } = require('../lib/storage');
 const { sendQuoteToCustomer } = require('../lib/email');
 
-const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || 'combiovens2026';
+const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || '';
 
 module.exports = async (req, res) => {
   const { quoteId, pw, data } = req.query;
