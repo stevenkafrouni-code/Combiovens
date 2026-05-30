@@ -94,5 +94,23 @@
       "dock": false,
       "tailLift": false
     }
+  },
+  {
+    "name": "Arch",
+    "businessName": "Miss PIckle",
+    "email": "arthur@misspickle.com.au",
+    "phone": "0403040343",
+    "postcode": "3000",
+    "address": "123",
+    "suburb": "12233",
+    "state": "VIC",
+    "notes": "don't be gay",
+    "deliveryNotes": "",
+    "deliveryAccess": {
+      "groundFloor": true,
+      "stairs": false,
+      "dock": false,
+      "tailLift": false
+    }
   }
 ]
