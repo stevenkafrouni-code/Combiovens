@@ -342,5 +342,45 @@
     "totalIncGst": 16748.88,
     "hasPoaItems": false,
     "status": "sent"
+  },
+  {
+    "quoteId": "CBO-260530-7753",
+    "timestamp": "2026-05-30T07:31:56.468Z",
+    "name": "Arch",
+    "businessName": "Miss PIckle",
+    "email": "arthur@misspickle.com.au",
+    "phone": "0403040343",
+    "postcode": "3000",
+    "address": "123",
+    "suburb": "12233",
+    "state": "VIC",
+    "notes": "don't be gay",
+    "deliveryNotes": "",
+    "deliveryAccess": {
+      "groundFloor": true,
+      "stairs": false,
+      "dock": false,
+      "tailLift": false
+    },
+    "items": [
+      {
+        "sku": "EPC-1011E2",
+        "desc": "Combi Oven 10 Tray GN1/1",
+        "qty": 1
+      },
+      {
+        "sku": "AT80G6B-O",
+        "desc": "6 Burner Gas Range with Oven",
+        "qty": 1
+      }
+    ],
+    "referralCode": "",
+    "subtotal": 12866.1,
+    "discount": 0,
+    "total": 12866.1,
+    "gst": 1286.61,
+    "totalIncGst": 14152.71,
+    "hasPoaItems": false,
+    "status": "sent"
   }
 ]
