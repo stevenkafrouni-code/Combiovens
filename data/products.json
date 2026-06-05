@@ -3307,5 +3307,4723 @@
     "capacity": "",
     "type": "Oven Range",
     "img": "https://simcogroup.com.au/pub/media/catalog/product/cache/729bdecfe47ff75bbf389e069152dc48/a/t/at80g4b-o-lp-ng_at80g6b-o-lp-ng_at80g8b-o-lp-ng.jpg"
+  },
+  {
+    "sku": "DF097D",
+    "name": "Upright Round Cake Showcase 900 Mm Fridge",
+    "cat": "Display Fridge",
+    "rrp": 4893.0,
+    "dims": "W900xD750xH1350",
+    "capacity": "290L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image073.jpg",
+    "specs": [
+      "900mm Wide",
+      "290L",
+      "W900xD750xH1350"
+    ]
+  },
+  {
+    "sku": "DF097F",
+    "name": "Upright Square Cake Showcase 900 Mm Fridge",
+    "cat": "Display Fridge",
+    "rrp": 4704.0,
+    "dims": "W900xD742xH1200",
+    "capacity": "290L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image074_1.jpg",
+    "specs": [
+      "900mm Wide",
+      "290L",
+      "W900xD742xH1200"
+    ]
+  },
+  {
+    "sku": "DF127D",
+    "name": "Upright Round Cake Showcase 1200 Mm Fridge",
+    "cat": "Display Fridge",
+    "rrp": 5818.0,
+    "dims": "W1200xD750xH1350",
+    "capacity": "400L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image073_1.jpg",
+    "specs": [
+      "1200mm Wide",
+      "400L",
+      "W1200xD750xH1350"
+    ]
+  },
+  {
+    "sku": "DF127F",
+    "name": "Upright Square Cake Showcase 1200 Mm Fridge",
+    "cat": "Display Fridge",
+    "rrp": 5049.0,
+    "dims": "W1200xD742xH1200",
+    "capacity": "395L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image074_1_1.jpg",
+    "specs": [
+      "1200mm Wide",
+      "395L",
+      "W1200xD742xH1200"
+    ]
+  },
+  {
+    "sku": "DF157D",
+    "name": "Upright Round Cake Showcase 1500 Mm Fridge",
+    "cat": "Display Fridge",
+    "rrp": 6611.0,
+    "dims": "W1500xD750xH1350",
+    "capacity": "520L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image073_2.jpg",
+    "specs": [
+      "1500mm Wide",
+      "520L",
+      "W1500xD750xH1350"
+    ]
+  },
+  {
+    "sku": "DF157F",
+    "name": "Upright Square Cake Showcase 1500 Mm Fridge",
+    "cat": "Display Fridge",
+    "rrp": 6084.0,
+    "dims": "W1500xD742xH1200",
+    "capacity": "497L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image074_2.jpg",
+    "specs": [
+      "1500mm Wide",
+      "497L",
+      "W1500xD742xH1200"
+    ]
+  },
+  {
+    "sku": "DF177D",
+    "name": "Upright Round Cake Showcase 1700 Mm Fridge",
+    "cat": "Display Fridge",
+    "rrp": 7343.0,
+    "dims": "W1700xD750xH1350",
+    "capacity": "600L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image073_3.jpg",
+    "specs": [
+      "1700mm Wide",
+      "600L",
+      "W1700xD750xH1350"
+    ]
+  },
+  {
+    "sku": "DF177F",
+    "name": "Upright Square Cake Showcase 1700 Mm Fridge",
+    "cat": "Display Fridge",
+    "rrp": 6199.0,
+    "dims": "W1700xD742xH1200",
+    "capacity": "570L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image074_3.jpg",
+    "specs": [
+      "1700mm Wide",
+      "570L",
+      "W1700xD742xH1200"
+    ]
+  },
+  {
+    "sku": "EPF3442",
+    "name": "Underbench Four Door Cooling Fridge Table 2230 Mm",
+    "cat": "Underbench Fridge",
+    "rrp": 4244,
+    "dims": "W2230xD700xH838",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/p/epf3442_epf3482-1.jpg",
+    "specs": [
+      "2230mm Wide",
+      "W2230xD700xH838"
+    ]
+  },
+  {
+    "sku": "EPF3462",
+    "name": "Underbench Two Door Freezer Table 1360 Mm",
+    "cat": "Underbench Fridge",
+    "rrp": 3784,
+    "dims": "W1360xD700xH838",
+    "capacity": "280 L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/p/epf3422_epf3462_1.jpg",
+    "specs": [
+      "1360mm Wide",
+      "280 L",
+      "W1360xD700xH838"
+    ]
+  },
+  {
+    "sku": "EPF3472",
+    "name": "Underbench Three Door Freezer Table 1795 Mm",
+    "cat": "Underbench Fridge",
+    "rrp": 4244,
+    "dims": "W1795xD700xH838",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/p/epf3432_epf3472_1_1.jpg",
+    "specs": [
+      "1795mm Wide",
+      "W1795xD700xH838"
+    ]
+  },
+  {
+    "sku": "EPF3480",
+    "name": "2 Door Pizza Table Fridge With Drawers 2010 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 5394.0,
+    "dims": "W2010xD800xH1000",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/3/4/3480.jpg",
+    "specs": [
+      "2010mm Wide",
+      "W2010xD800xH1000"
+    ]
+  },
+  {
+    "sku": "EPF3482",
+    "name": "Underbench Four Door Freezer Table 2230 Mm",
+    "cat": "Underbench Fridge",
+    "rrp": 5509,
+    "dims": "W2230xD700xH838",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/p/epf3442_epf3482-1_1.jpg",
+    "specs": [
+      "2230mm Wide",
+      "W2230xD700xH838"
+    ]
+  },
+  {
+    "sku": "EPF3485",
+    "name": "3 Door Pizza Table Fridge 2010 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 4704.0,
+    "dims": "W2010xD800xH1000",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image025.jpg",
+    "specs": [
+      "2010mm Wide",
+      "W2010xD800xH1000"
+    ]
+  },
+  {
+    "sku": "EPF3490",
+    "name": "1 Door Pizza Table Fridge With Drawers 1510 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 4129.0,
+    "dims": "W1510xD800xH1000",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/5/e5f9d8d65fea67e63d8519ed409dd482.jpg",
+    "specs": [
+      "1510mm Wide",
+      "W1510xD800xH1000"
+    ]
+  },
+  {
+    "sku": "EPF3495",
+    "name": "2 Door Pizza Table Fridge 1510 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 3899.0,
+    "dims": "W1510xD800xH1000",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image026_1.jpg",
+    "specs": [
+      "1510mm Wide",
+      "W1510xD800xH1000"
+    ]
+  },
+  {
+    "sku": "EPF3721",
+    "name": "Glass 2 Door Cooling Fridge Table 1360 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 3324.0,
+    "dims": "W1360xD700xH838",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/p/epf3721.jpg",
+    "specs": [
+      "1360mm Wide",
+      "W1360xD700xH838"
+    ]
+  },
+  {
+    "sku": "EPF3731",
+    "name": "Glass Three Door Cooling Fridge Table 1795 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 3784.0,
+    "dims": "W1795xD700xH838",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/p/epf3731.jpg",
+    "specs": [
+      "1795mm Wide",
+      "W1795xD700xH838"
+    ]
+  },
+  {
+    "sku": "EPF3741",
+    "name": "Glass Four Door Cooling Fridge Table 2230 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 4704.0,
+    "dims": "W2230xD700xH838",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/p/epf3741.jpg",
+    "specs": [
+      "2230mm Wide",
+      "W2230xD700xH838"
+    ]
+  },
+  {
+    "sku": "ESL3800",
+    "name": "2 Doors Sliding Lid Saladette Fridge Size 900 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 1944.0,
+    "dims": "W900xD700xH950",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/c/a/caadf630ca0a6ebbbc2773e10384269b.jpg",
+    "specs": [
+      "900mm Wide",
+      "W900xD700xH950"
+    ]
+  },
+  {
+    "sku": "ESL3831",
+    "name": "2 Doors Pizzatable Marble Top Saladette Fridge 900 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 2289.0,
+    "dims": "W900xD700xH1157",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/8/c/8c5451259233d66928ce94c57c70390e.jpg",
+    "specs": [
+      "900mm Wide",
+      "W900xD700xH1157"
+    ]
+  },
+  {
+    "sku": "ESL3832",
+    "name": "2 Doors Open Top Saladette Fridge W900 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 2289.0,
+    "dims": "W900xD700xH1105",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/2/9/2958f71cf2191f6f310bd4ad131e2e89.jpg",
+    "specs": [
+      "900mm Wide",
+      "W900xD700xH1105"
+    ]
+  },
+  {
+    "sku": "ESL3850",
+    "name": "3 Doors Sliding Lid Saladette Fridge 1365 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 2864.0,
+    "dims": "W1365xD700xH950",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/b/f/bf979fdffaa5a2d7db6c3a44665407bf.png",
+    "specs": [
+      "1365mm Wide",
+      "W1365xD700xH950"
+    ]
+  },
+  {
+    "sku": "ESL3851",
+    "name": "3 Doors Table Saladette Fridge 1365 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 2864.0,
+    "dims": "W1365xD700xH943",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/c/f/cf09de322c5989e6edf4d323f53f75ac.jpg",
+    "specs": [
+      "1365mm Wide",
+      "W1365xD700xH943"
+    ]
+  },
+  {
+    "sku": "ESL3852",
+    "name": "3 Doors Pizza Table Fridge 1365 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 3209.0,
+    "dims": "W1365xD700xH1087",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/6/3/6312669757a443342b6421832ddb5db0.png",
+    "specs": [
+      "1365mm Wide",
+      "W1365xD700xH1087"
+    ]
+  },
+  {
+    "sku": "ESL3853",
+    "name": "3 Doors Open Top Saladette Fridge 1365 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 3294.0,
+    "dims": "W1365xD700xH1105",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/5/5/557d1531779a410105598ba427942f1c.png",
+    "specs": [
+      "1365mm Wide",
+      "W1365xD700xH1105"
+    ]
+  },
+  {
+    "sku": "ESL3864",
+    "name": "3 Doors Pizzatable Saladette Fridge 1365 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 3209.0,
+    "dims": "W1365xD700xH1168",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/1/4/143ba52a913adf3468b7b2ea0365260a.jpg",
+    "specs": [
+      "1365mm Wide",
+      "W1365xD700xH1168"
+    ]
+  },
+  {
+    "sku": "MBF8003",
+    "name": "Top Mounted 3 Door Freezer 1976 Mm",
+    "cat": "Upright Freezer",
+    "rrp": 8269,
+    "dims": "W1976xD800xH2075",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/_/-/_-2-750x900.jpg",
+    "specs": [
+      "1976mm Wide",
+      "W1976xD800xH2075"
+    ]
+  },
+  {
+    "sku": "MBF8006",
+    "name": "Top Mounted 3 Door Refrigerator 1976 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 7119,
+    "dims": "W1976xD800xH2075",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/2/-/2-750x900.jpg",
+    "specs": [
+      "1976mm Wide",
+      "W1976xD800xH2075"
+    ]
+  },
+  {
+    "sku": "MCF8601",
+    "name": "Top Mounted 1 Door Freezer Showcase 730 Mm",
+    "cat": "Upright Freezer",
+    "rrp": 5509,
+    "dims": "W730xD805xH2075",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image045_2.jpg",
+    "specs": [
+      "730mm Wide",
+      "W730xD805xH2075"
+    ]
+  },
+  {
+    "sku": "MCF8602",
+    "name": "Top Mounted 2 Door Freezer Showcase 1314 Mm",
+    "cat": "Upright Freezer",
+    "rrp": 7349,
+    "dims": "W1314xD805xH2075",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image046_1.jpg",
+    "specs": [
+      "1314mm Wide",
+      "W1314xD805xH2075"
+    ]
+  },
+  {
+    "sku": "MCF8604",
+    "name": "Top Mounted 1 Door Fridge Showcase 730 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 4014,
+    "dims": "W730xD805xH2075",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/d/2/d28a65b652ab9ac50d807175a545e9ae.jpg",
+    "specs": [
+      "730mm Wide",
+      "W730xD805xH2075"
+    ]
+  },
+  {
+    "sku": "MPF8203",
+    "name": "3 Door Pizza Prep Table Fridge 2362 Mm",
+    "cat": "Pizza Prep",
+    "rrp": 7349.0,
+    "dims": "W2362xD840xH1035",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/8/2/8203-750x900_1.jpg",
+    "specs": [
+      "2362mm Wide",
+      "W2362xD840xH1035"
+    ]
+  },
+  {
+    "sku": "MSF8304",
+    "name": "3 Door Sandwich Prep Table Fridge1846 Mm",
+    "cat": "Sandwich Prep",
+    "rrp": 5394.0,
+    "dims": "W1846xD762xH1124",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image054_1.jpg",
+    "specs": [
+      "1846mm Wide",
+      "W1846xD762xH1124"
+    ]
+  },
+  {
+    "sku": "TF120L",
+    "name": "Countertop Square Cake Showcase 700 Mm Fridge",
+    "cat": "Display Fridge",
+    "rrp": 1944.0,
+    "dims": "W700xD560xH670",
+    "capacity": "120L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/b/_/b_6.jpg",
+    "specs": [
+      "700mm Wide",
+      "120L",
+      "W700xD560xH670"
+    ]
+  },
+  {
+    "sku": "TF160L",
+    "name": "Countertop Square Cake Showcase 900 Mm Fridge",
+    "cat": "Display Fridge",
+    "rrp": 2059.0,
+    "dims": "W900xD560xH670",
+    "capacity": "160L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/b/_/b_7.jpg",
+    "specs": [
+      "900mm Wide",
+      "160L",
+      "W900xD560xH670"
+    ]
+  },
+  {
+    "sku": "TY110L",
+    "name": "Countertop Round Case Showcase 700 Mm Fridge",
+    "cat": "Upright Fridge",
+    "rrp": 1714.0,
+    "dims": "W700xD560xH670",
+    "capacity": "110L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/b/_/b_4.jpg",
+    "specs": [
+      "700mm Wide",
+      "110L",
+      "W700xD560xH670"
+    ]
+  },
+  {
+    "sku": "TY130L",
+    "name": "Countertop Round Cake Showcase 900 Mm Fridge",
+    "cat": "Display Fridge",
+    "rrp": 1944.0,
+    "dims": "W900xD560xH670",
+    "capacity": "130L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/b/_/b_5_1.jpg",
+    "specs": [
+      "900mm Wide",
+      "130L",
+      "W900xD560xH670"
+    ]
+  },
+  {
+    "sku": "YPF9020",
+    "name": "Undercounter Fridge 1200 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 3094,
+    "dims": "W1200xD600xH838",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image075.jpg",
+    "specs": [
+      "1200mm Wide",
+      "W1200xD600xH838"
+    ]
+  },
+  {
+    "sku": "YPF9025",
+    "name": "Undercounter Freezer 1200 Mm",
+    "cat": "Upright Freezer",
+    "rrp": 3554,
+    "dims": "W1200xD600xH838",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image075_3.jpg",
+    "specs": [
+      "1200mm Wide",
+      "W1200xD600xH838"
+    ]
+  },
+  {
+    "sku": "YPF9030",
+    "name": "Undercounter Fridge 1500 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 3324,
+    "dims": "W1500xD600xH838",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image075_2.jpg",
+    "specs": [
+      "1500mm Wide",
+      "W1500xD600xH838"
+    ]
+  },
+  {
+    "sku": "YPF9035",
+    "name": "Undercounter Freezer 1500 Mm",
+    "cat": "Upright Freezer",
+    "rrp": 3899,
+    "dims": "W1500xD600xH838",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image075_1.jpg",
+    "specs": [
+      "1500mm Wide",
+      "W1500xD600xH838"
+    ]
+  },
+  {
+    "sku": "YPF9040",
+    "name": "Undercounter Fridge 1800 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 3439,
+    "dims": "W1800xD600xH838",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image076.jpg",
+    "specs": [
+      "1800mm Wide",
+      "W1800xD600xH838"
+    ]
+  },
+  {
+    "sku": "YPF9045",
+    "name": "Undercounter Freezer 1800 Mm",
+    "cat": "Upright Freezer",
+    "rrp": 4014,
+    "dims": "W1800xD600xH838",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image076_1.jpg",
+    "specs": [
+      "1800mm Wide",
+      "W1800xD600xH838"
+    ]
+  },
+  {
+    "sku": "PPMA-10",
+    "name": "Heavy Duty Planetary Mixer 10l | Preppal",
+    "cat": "Food Prep",
+    "rrp": 2011.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/p/l/planatary_10l_1.jpg"
+  },
+  {
+    "sku": "PPMA-20",
+    "name": "Heavy Duty Planetary Mixer 20l | Preppal",
+    "cat": "Food Prep",
+    "rrp": 2644.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/p/p/ppma-20.jpg"
+  },
+  {
+    "sku": "PPMA-30",
+    "name": "Heavy Duty Planetary Mixer 30l | Preppal",
+    "cat": "Food Prep",
+    "rrp": 4541.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image061.jpg"
+  },
+  {
+    "sku": "AT51588",
+    "name": "Soup Kettle 360-x-355 | Mixrite",
+    "cat": "Benchtop Equipment",
+    "rrp": 201.0,
+    "dims": "W360xD355xH380",
+    "capacity": "10L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at51588.jpg",
+    "specs": [
+      "360mm Wide",
+      "10L",
+      "W360xD355xH380"
+    ]
+  },
+  {
+    "sku": "8710",
+    "name": "Bain Marie With Mechanical Controller and Drain 580x340x245 | Cookrite",
+    "cat": "Benchtop Equipment",
+    "rrp": 374.0,
+    "dims": "W580xD340xH245",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/8/7/8710_1_.jpg",
+    "specs": [
+      "580mm Wide",
+      "W580xD340xH245"
+    ]
+  },
+  {
+    "sku": "8700",
+    "name": "Bain Marie With Mechanical Controller 580x340x245 Cookrite",
+    "cat": "Benchtop Equipment",
+    "rrp": 259.0,
+    "dims": "W580xD340xH245",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/8/7/8700.jpg",
+    "specs": [
+      "580mm Wide",
+      "W580xD340xH245"
+    ]
+  },
+  {
+    "sku": "ATFS-75-LPG",
+    "name": "5 Tubes Gas Deep Fryer W535 X D765 X H1128 | Cookrite 2",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3789.0,
+    "dims": "W535xD765xH1128",
+    "capacity": "140 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atfs-40-50-75_1_2.jpg",
+    "specs": [
+      "535mm Wide",
+      "140 Mj/h",
+      "W535xD765xH1128"
+    ]
+  },
+  {
+    "sku": "ATFS-50-LPG",
+    "name": "4 Tubes Gas Deep Fryer W395 X D765 X H1128 | Cookrite 2",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3099.0,
+    "dims": "W395xD765xH1128",
+    "capacity": "112 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atfs-40-50-75_1_1.jpg",
+    "specs": [
+      "395mm Wide",
+      "112 Mj/h",
+      "W395xD765xH1128"
+    ]
+  },
+  {
+    "sku": "ATFS-40-LPG",
+    "name": "3 Tubes Gas Deep Fryer W395 X D765 X H1128 Lpg | Cookrite",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2294.0,
+    "dims": "W395xD765xH1128",
+    "capacity": "84 MJ/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atfs-40-50-75.jpg",
+    "specs": [
+      "395mm Wide",
+      "84 MJ/h",
+      "W395xD765xH1128"
+    ]
+  },
+  {
+    "sku": "ATSE-2848",
+    "name": "Stainless Steel Stand W1250x D740 X H180 | Cookrite",
+    "cat": "Stainless Steel (MixRite)",
+    "rrp": 546,
+    "dims": "W1225xD711xH610",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atse-2848.jpg",
+    "specs": [
+      "1225mm Wide",
+      "W1225xD711xH610"
+    ]
+  },
+  {
+    "sku": "ATSE-2836",
+    "name": "Stainless Steel Stand W940x D740 X H180 | Cookrite",
+    "cat": "Stainless Steel (MixRite)",
+    "rrp": 466,
+    "dims": "W915xD711xH610",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image018_2.jpg",
+    "specs": [
+      "915mm Wide",
+      "W915xD711xH610"
+    ]
+  },
+  {
+    "sku": "ATSE-2824",
+    "name": "Stainless Steel Stand W640 X D740 X H180 | Cookrite",
+    "cat": "Stainless Steel (MixRite)",
+    "rrp": 397,
+    "dims": "W615xD711xH610",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atse-2824.jpg",
+    "specs": [
+      "615mm Wide",
+      "W615xD711xH610"
+    ]
+  },
+  {
+    "sku": "ATRC-48-LPG",
+    "name": "1220mm Radiant Broiler W1220 X D700 X H385 | Cookrite 1",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3864.0,
+    "dims": "W1220xD700xH385",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atrc-48.jpg",
+    "specs": [
+      "1220mm Wide",
+      "W1220xD700xH385"
+    ]
+  },
+  {
+    "sku": "ATRC-36-LPG",
+    "name": "910mm Radiant Broiler W910 X D700 X H385 | Cookrite 1",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2897.0,
+    "dims": "W910xD700xH385",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image015_1_1.jpg",
+    "specs": [
+      "910mm Wide",
+      "W910xD700xH385"
+    ]
+  },
+  {
+    "sku": "ATRC-24-LPG",
+    "name": "610mm Radiant Broiler W610 X D700 X H385 | Cookrite 1",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2501.0,
+    "dims": "W610xD700xH385",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image014_1.jpg",
+    "specs": [
+      "610mm Wide",
+      "W610xD700xH385"
+    ]
+  },
+  {
+    "sku": "ATCB-48-LPG",
+    "name": "1220mm Char Rock Broiler W1220 X D700 X H385 | Cookrite 1",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3864.0,
+    "dims": "W1220xD700xH386",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atcb-48.jpg",
+    "specs": [
+      "1220mm Wide",
+      "W1220xD700xH386"
+    ]
+  },
+  {
+    "sku": "ATCB-36-LPG",
+    "name": "910mm Char Rock Broiler W910 X D700 X H385 | Cookrite 1",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2897.0,
+    "dims": "W910xD700xH385",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atcb-36_1.jpg",
+    "specs": [
+      "910mm Wide",
+      "W910xD700xH385"
+    ]
+  },
+  {
+    "sku": "ATCB-24-LPG",
+    "name": "610mm Char Rock Broiler W610 X D700 X H385 | Cookrite 1",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2501.0,
+    "dims": "W610xD700xH385",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atcb-24.jpg",
+    "specs": [
+      "610mm Wide",
+      "W610xD700xH385"
+    ]
+  },
+  {
+    "sku": "ATMG-48-LPG",
+    "name": "1220mm Griddle W1220 X D725 X H385 | Cookrite 1",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 4341.0,
+    "dims": "W1220xD725xH385",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image010_1.jpg",
+    "specs": [
+      "1220mm Wide",
+      "W1220xD725xH385"
+    ]
+  },
+  {
+    "sku": "ATMG-36-LPG",
+    "name": "910mm Griddle W910 X D725 X H385 | Cookrite 1",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3403.0,
+    "dims": "W910xD725xH385",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image009.jpg",
+    "specs": [
+      "910mm Wide",
+      "W910xD725xH385"
+    ]
+  },
+  {
+    "sku": "ATMG-24-LPG",
+    "name": "610mm Griddle W610 X D725 X H385 | Cookrite 1",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 1892.0,
+    "dims": "W610xD725xH385",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image008.jpg",
+    "specs": [
+      "610mm Wide",
+      "W610xD725xH385"
+    ]
+  },
+  {
+    "sku": "ATHP-36-6-LPG",
+    "name": "6 Burner Cook Tops W910 X D700 X H333 | Cookrite 1",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3322.0,
+    "dims": "W910xD700xH332",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image007.jpg",
+    "specs": [
+      "910mm Wide",
+      "W910xD700xH332"
+    ]
+  },
+  {
+    "sku": "ATHP-24-4-LPG",
+    "name": "4 Burner Cook Tops W610 X D700 X H333 | Cookrite 1",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2471.0,
+    "dims": "W610xD700xH332",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image006.jpg",
+    "specs": [
+      "610mm Wide",
+      "W610xD700xH332"
+    ]
+  },
+  {
+    "sku": "ATHP-12-2-LPG",
+    "name": "2 Burner Cook Tops W310 X D700 X H333 | Cookrite 2",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 1846.0,
+    "dims": "W308xD700xH332",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image005.jpg",
+    "specs": [
+      "308mm Wide",
+      "W308xD700xH332"
+    ]
+  },
+  {
+    "sku": "ESL3801",
+    "name": "2 Doors Table Saladette Fridge 900 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 1944.0,
+    "dims": "W900xD700xH943",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/3/8/3801.jpg",
+    "specs": [
+      "900mm Wide",
+      "W900xD700xH943"
+    ]
+  },
+  {
+    "sku": "1001",
+    "name": "Gn1 1 Wire Grates",
+    "cat": "Benchtop Equipment",
+    "rrp": 29.0,
+    "dims": "W436xD252xH21",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/1/0/1001.jpg",
+    "specs": [
+      "436mm Wide",
+      "W436xD252xH21"
+    ]
+  },
+  {
+    "sku": "1002",
+    "name": "Gn1 2 Wire Grates",
+    "cat": "Benchtop Equipment",
+    "rrp": 17.0,
+    "dims": "W250xD190xH21",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/1/0/1002_1.jpg",
+    "specs": [
+      "250mm Wide",
+      "W250xD190xH21"
+    ]
+  },
+  {
+    "sku": "1021",
+    "name": "Gn1 1 Adaptor Bars",
+    "cat": "Benchtop Equipment",
+    "rrp": 10.0,
+    "dims": "W532xD25xH6",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/1/0/1021.jpg",
+    "specs": [
+      "532mm Wide",
+      "W532xD25xH6"
+    ]
+  },
+  {
+    "sku": "1022",
+    "name": "Gn1 2 Adaptor Bars",
+    "cat": "Benchtop Equipment",
+    "rrp": 10.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/1/0/1022.jpg"
+  },
+  {
+    "sku": "SHA1000",
+    "name": "Asian Type Sha Series Exhaust Canopy 1000 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 1817.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_32.png"
+  },
+  {
+    "sku": "SHA1100",
+    "name": "Asian Type Sha Series Exhaust Canopy 1100 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 2013.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_1_33.png"
+  },
+  {
+    "sku": "SHA1200",
+    "name": "Asian Type Sha Series Exhaust Canopy 1200 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 2162.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_2_2.png"
+  },
+  {
+    "sku": "SHA1300",
+    "name": "Asian Type Sha Series Exhaust Canopy 1300 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 2358.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_3_1.png"
+  },
+  {
+    "sku": "SHA1400",
+    "name": "Asian Type Sha Series Exhaust Canopy 1400 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 2622.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_4_1.png"
+  },
+  {
+    "sku": "SHA1500",
+    "name": "Asian Type Sha Series Exhaust Canopy 1500 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 2703.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_5_1.png"
+  },
+  {
+    "sku": "SHA1600",
+    "name": "Asian Type Sha Series Exhaust Canopy 1600 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 2967.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_6_1.png"
+  },
+  {
+    "sku": "SHA1700",
+    "name": "Asian Type Sha Series Exhaust Canopy 1700 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 3082.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_7_1.png"
+  },
+  {
+    "sku": "SHA1800",
+    "name": "Asian Type Sha Series Exhaust Canopy 1800 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 3278.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_8_1.png"
+  },
+  {
+    "sku": "SHA1900",
+    "name": "Asian Type Sha Series Exhaust Canopy 1900 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 3427.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_9_1.png"
+  },
+  {
+    "sku": "SHA2000",
+    "name": "Asian Type Sha Series Exhaust Canopy 2000 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 3623.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_10_1.png"
+  },
+  {
+    "sku": "SHA2100",
+    "name": "Asian Type Sha Series Exhaust Canopy 2100 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 3853.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_11_1.png"
+  },
+  {
+    "sku": "SHA2200",
+    "name": "Asian Type Sha Series Exhaust Canopy 2200 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 3968.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_12_1.png"
+  },
+  {
+    "sku": "SHA2300",
+    "name": "Asian Type Sha Series Exhaust Canopy 2300 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 4198.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_13_1.png"
+  },
+  {
+    "sku": "SHA2400",
+    "name": "Asian Type Sha Series Exhaust Canopy 2400 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 4462.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_14_1.png"
+  },
+  {
+    "sku": "SHA2500",
+    "name": "Asian Type Sha Series Exhaust Canopy 2500 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 4543.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_15_1.png"
+  },
+  {
+    "sku": "SHA2600",
+    "name": "Asian Type Sha Series Exhaust Canopy 2600 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 4692.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_16_1.png"
+  },
+  {
+    "sku": "SHA2700",
+    "name": "Asian Type Sha Series Exhaust Canopy 2700 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 4888.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_17_1.png"
+  },
+  {
+    "sku": "SHA2800",
+    "name": "Asian Type Sha Series Exhaust Canopy 2800 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 5118.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_18_1.png"
+  },
+  {
+    "sku": "SHA2900",
+    "name": "Asian Type Sha Series Exhaust Canopy 2900 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 5233.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_19_1.png"
+  },
+  {
+    "sku": "SHA3000",
+    "name": "Asian Type Sha Series Exhaust Canopy 3000 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 5463.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_20_1.png"
+  },
+  {
+    "sku": "SHA3100",
+    "name": "Asian Type Sha Series Exhaust Canopy 3100 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 5612.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_21_1.png"
+  },
+  {
+    "sku": "SHA3200",
+    "name": "Asian Type Sha Series Exhaust Canopy 3200 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 5808.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_22_1.png"
+  },
+  {
+    "sku": "SHA3300",
+    "name": "Asian Type Sha Series Exhaust Canopy 3300 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 5957.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_23_1.png"
+  },
+  {
+    "sku": "SHA3400",
+    "name": "Asian Type Sha Series Exhaust Canopy 3400 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 6153.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_24_1.png"
+  },
+  {
+    "sku": "SHA3500",
+    "name": "Asian Type Sha Series Exhaust Canopy 3500 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 6325.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_25_1.png"
+  },
+  {
+    "sku": "SHA3600",
+    "name": "Asian Type Sha Series Exhaust Canopy 3600 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 6498.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_26_1.png"
+  },
+  {
+    "sku": "SHA3700",
+    "name": "Asian Type Sha Series Exhaust Canopy 3700 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 6728.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_27_1.png"
+  },
+  {
+    "sku": "SHA3800",
+    "name": "Asian Type Sha Series Exhaust Canopy 3800 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 6877.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_28_1.png"
+  },
+  {
+    "sku": "SHA3900",
+    "name": "Asian Type Sha Series Exhaust Canopy 3900 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 7073.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_29_1.png"
+  },
+  {
+    "sku": "SHA4000",
+    "name": "Asian Type Sha Series Exhaust Canopy 4000 X 1150",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 7107.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood_asian_type_sha_series_exhaust_canopy_30_1.png"
+  },
+  {
+    "sku": "SS1618C",
+    "name": "Sink Bench With Splashback Center W1800 X D600 X H900",
+    "cat": "Stainless Steel (MixRite)",
+    "rrp": 1236.0,
+    "dims": "W1800xD600xH900",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/sink_bench_with_splashback_1_3.jpg",
+    "specs": [
+      "1800mm Wide",
+      "W1800xD600xH900"
+    ]
+  },
+  {
+    "sku": "PizzaCanopy",
+    "name": "Pizza Canopy Pizza and Bakery Oven Simcohood",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 3094.0,
+    "dims": "W2200xD1700xH700",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/c/a/canopy1.jpg",
+    "specs": [
+      "2200mm Wide",
+      "W2200xD1700xH700"
+    ]
+  },
+  {
+    "sku": "YBF9207",
+    "name": "Single Door Top Mounted Freezer",
+    "cat": "Upright Freezer",
+    "rrp": 3439,
+    "dims": "W600xD730xH1955",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/y/b/ybp9206-07_1.jpg",
+    "specs": [
+      "600mm Wide",
+      "W600xD730xH1955"
+    ]
+  },
+  {
+    "sku": "YBF9219",
+    "name": "Double Door Top Mounted Freezer",
+    "cat": "Upright Freezer",
+    "rrp": 4934,
+    "dims": "W1200xD730xH1955",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/y/b/ybf9218-19_1.jpg",
+    "specs": [
+      "1200mm Wide",
+      "W1200xD730xH1955"
+    ]
+  },
+  {
+    "sku": "YBF9239",
+    "name": "Dual Temperature Refrigerator Ybf9239",
+    "cat": "Upright Fridge",
+    "rrp": 6429,
+    "dims": "W1200xD730xH1955",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/y/b/ybf9218-19_1_1.jpg",
+    "specs": [
+      "1200mm Wide",
+      "W1200xD730xH1955"
+    ]
+  },
+  {
+    "sku": "YCF9401",
+    "name": "Top Mounted Single Door Glass Fridge",
+    "cat": "Upright Fridge",
+    "rrp": 3209,
+    "dims": "W600xD730xH1955",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/y/c/ycf9401-9407.jpg",
+    "specs": [
+      "600mm Wide",
+      "W600xD730xH1955"
+    ]
+  },
+  {
+    "sku": "YCF9407",
+    "name": "Top Mounted Single Door Glass Freezer",
+    "cat": "Upright Freezer",
+    "rrp": 4704,
+    "dims": "W600xD730xH1955",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/y/c/ycf9401-9407_1.jpg",
+    "specs": [
+      "600mm Wide",
+      "W600xD730xH1955"
+    ]
+  },
+  {
+    "sku": "YCF9402",
+    "name": "Top Mounted Double Door Glass Fridge",
+    "cat": "Upright Fridge",
+    "rrp": 4244,
+    "dims": "W1200xD730xH1955",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/y/c/ycf9402-08.jpg",
+    "specs": [
+      "1200mm Wide",
+      "W1200xD730xH1955"
+    ]
+  },
+  {
+    "sku": "YCF9408",
+    "name": "Top Mounted Double Door Glass Freezer",
+    "cat": "Upright Freezer",
+    "rrp": 6314,
+    "dims": "W1200xD730xH1955",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/y/c/ycf9402-08_1.jpg",
+    "specs": [
+      "1200mm Wide",
+      "W1200xD730xH1955"
+    ]
+  },
+  {
+    "sku": "DH1500-750",
+    "name": "Ductless Exhaust Hood System 620 Mm W 1500mm X D 750mm X H 1400mm",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 16250.0,
+    "dims": "W1500xD750xH1400",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/d/h/dh1_1.jpg",
+    "specs": [
+      "1500mm Wide",
+      "W1500xD750xH1400"
+    ]
+  },
+  {
+    "sku": "DH1500-850",
+    "name": "Ductless Exhaust Hood System 620 Mm W 1500mm X D 850mm X H 1400mm",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 16250.0,
+    "dims": "W1500xD850xH1400",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/d/h/dh1_1_1.jpg",
+    "specs": [
+      "1500mm Wide",
+      "W1500xD850xH1400"
+    ]
+  },
+  {
+    "sku": "DH1800",
+    "name": "Ductless Exhaust Hood System 620 Mm W 1800mm X D 850mm X H 1400mm",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 18250.0,
+    "dims": "W1800xD750xH1400",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/d/h/dh1_1_2.jpg",
+    "specs": [
+      "1800mm Wide",
+      "W1800xD750xH1400"
+    ]
+  },
+  {
+    "sku": "SH1000",
+    "name": "Sh Series Exhaust Canopy 1000x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 1668.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_29.jpg"
+  },
+  {
+    "sku": "SH1100",
+    "name": "Sh Series Exhaust Canopy 1100x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 1817.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_30.jpg"
+  },
+  {
+    "sku": "SH1200",
+    "name": "Sh Series Exhaust Canopy 1200x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 2013.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2.jpg"
+  },
+  {
+    "sku": "SH1300",
+    "name": "Sh Series Exhaust Canopy 1300x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 2128.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_1.jpg"
+  },
+  {
+    "sku": "SH1400",
+    "name": "Sh Series Exhaust Canopy 1400x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 2300.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_2.jpg"
+  },
+  {
+    "sku": "SH1500",
+    "name": "Sh Series Exhaust Canopy 1500x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 2473.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_3.jpg"
+  },
+  {
+    "sku": "SH1600",
+    "name": "Sh Series Exhaust Canopy 1600x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 2622.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_4.jpg"
+  },
+  {
+    "sku": "SH1700",
+    "name": "Sh Series Exhaust Canopy 1700x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 2818.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_5.jpg"
+  },
+  {
+    "sku": "SH1800",
+    "name": "Sh Series Exhaust Canopy 1800x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 2967.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_6.jpg"
+  },
+  {
+    "sku": "SH1900",
+    "name": "Sh Series Exhaust Canopy 1900x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 3163.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_7.jpg"
+  },
+  {
+    "sku": "SH2000",
+    "name": "Sh Series Exhaust Canopy 2000x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 3278.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_8.jpg"
+  },
+  {
+    "sku": "SH2100",
+    "name": "Sh Series Exhaust Canopy 2100x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 3450.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_9.jpg"
+  },
+  {
+    "sku": "SH2200",
+    "name": "Sh Series Exhaust Canopy 2200x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 3623.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_10.jpg"
+  },
+  {
+    "sku": "SH2300",
+    "name": "Sh Series Exhaust Canopy 2300x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 3772.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_11.jpg"
+  },
+  {
+    "sku": "SH2400",
+    "name": "Sh Series Exhaust Canopy 2400x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 3968.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_12.jpg"
+  },
+  {
+    "sku": "SH2500",
+    "name": "Sh Series Exhaust Canopy 2500x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 4117.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_13.jpg"
+  },
+  {
+    "sku": "SH2600",
+    "name": "Sh Series Exhaust Canopy 2600x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 4313.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_14.jpg"
+  },
+  {
+    "sku": "SH2700",
+    "name": "Sh Series Exhaust Canopy 2700x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 4428.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_15.jpg"
+  },
+  {
+    "sku": "SH2800",
+    "name": "Sh Series Exhaust Canopy 2800x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 4600.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_16.jpg"
+  },
+  {
+    "sku": "SH2900",
+    "name": "Sh Series Exhaust Canopy 2900x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 4773.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_17.jpg"
+  },
+  {
+    "sku": "SH3000",
+    "name": "Sh Series Exhaust Canopy 3000x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 4922.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_18.jpg"
+  },
+  {
+    "sku": "SH3100",
+    "name": "Sh Series Exhaust Canopy 3100x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 5118.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_19.jpg"
+  },
+  {
+    "sku": "SH3200",
+    "name": "Sh Series Exhaust Canopy 3200x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 5267.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_20.jpg"
+  },
+  {
+    "sku": "SH3300",
+    "name": "Sh Series Exhaust Canopy 3300x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 5463.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_21.jpg"
+  },
+  {
+    "sku": "SH3400",
+    "name": "Sh Series Exhaust Canopy 3400x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 5578.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_22.jpg"
+  },
+  {
+    "sku": "SH3500",
+    "name": "Sh Series Exhaust Canopy 3500x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 5750.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_23.jpg"
+  },
+  {
+    "sku": "SH3600",
+    "name": "Sh Series Exhaust Canopy 3600x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 5923.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_24.jpg"
+  },
+  {
+    "sku": "SH3700",
+    "name": "Sh Series Exhaust Canopy 3700x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 6072.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_25.jpg"
+  },
+  {
+    "sku": "SH3800",
+    "name": "Sh Series Exhaust Canopy 3800x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 6268.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_26.jpg"
+  },
+  {
+    "sku": "SH3900",
+    "name": "Sh Series Exhaust Canopy 3900x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 6417.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_27.jpg"
+  },
+  {
+    "sku": "SH4000",
+    "name": "Sh Series Exhaust Canopy 4000x1000",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 6613.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/simco_hood-sh_series_exhaust_canopy_2_2_2_28.jpg"
+  },
+  {
+    "sku": "ESL3880",
+    "name": "Esl Counter Top Salad Bar W1205 X D335 X H460",
+    "cat": "Upright Fridge",
+    "rrp": 1254.0,
+    "dims": "W1205xD335xH435",
+    "capacity": "BAC GN1/4 x 5",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/s/esl1_1.jpg",
+    "specs": [
+      "1205mm Wide",
+      "BAC GN1/4 x 5",
+      "W1205xD335xH435"
+    ]
+  },
+  {
+    "sku": "ESL3881",
+    "name": "Esl Counter Top Salad Bar W1205 X D395 X H460",
+    "cat": "Upright Fridge",
+    "rrp": 1254.0,
+    "dims": "W1205xD395xH435",
+    "capacity": "BAC GN1/3 x 4",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/s/esl1_1_1.jpg",
+    "specs": [
+      "1205mm Wide",
+      "BAC GN1/3 x 4",
+      "W1205xD395xH435"
+    ]
+  },
+  {
+    "sku": "ESL3861",
+    "name": "Esl Counter Top Salad Bar W1405 X D335 X H460",
+    "cat": "Upright Fridge",
+    "rrp": 1484.0,
+    "dims": "W1405xD335xH460",
+    "capacity": "BAC GN1/4 x 6",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/s/esl1_1_2.jpg",
+    "specs": [
+      "1405mm Wide",
+      "BAC GN1/4 x 6",
+      "W1405xD335xH460"
+    ]
+  },
+  {
+    "sku": "ESL3882",
+    "name": "Esl Counter Top Salad Bar W1415 X D395 X H460",
+    "cat": "Upright Fridge",
+    "rrp": 1484.0,
+    "dims": "W1415xD395xH435",
+    "capacity": "BAC GN1/3 x 6",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/s/esl1_1_3.jpg",
+    "specs": [
+      "1415mm Wide",
+      "BAC GN1/3 x 6",
+      "W1415xD395xH435"
+    ]
+  },
+  {
+    "sku": "ESL3883",
+    "name": "Esl Counter Top Salad Bar W1505 X D335 X H460",
+    "cat": "Upright Fridge",
+    "rrp": 1484.0,
+    "dims": "W1505xD335xH435",
+    "capacity": "BAC GN1/4 x 7",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/s/esl1_1_4.jpg",
+    "specs": [
+      "1505mm Wide",
+      "BAC GN1/4 x 7",
+      "W1505xD335xH435"
+    ]
+  },
+  {
+    "sku": "ESL3884",
+    "name": "Esl Counter Top Salad Bar W1505 X D395 X H460",
+    "cat": "Upright Fridge",
+    "rrp": 1484.0,
+    "dims": "W1505xD395xH435",
+    "capacity": "BAC GN1/3 x 6",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/s/esl1_1_5.jpg",
+    "specs": [
+      "1505mm Wide",
+      "BAC GN1/3 x 6",
+      "W1505xD395xH435"
+    ]
+  },
+  {
+    "sku": "ESL3885",
+    "name": "Esl Counter Top Salad Bar W1600 X D335 X H435",
+    "cat": "Upright Fridge",
+    "rrp": 1599.0,
+    "dims": "W1605xD335xH435",
+    "capacity": "BAC GN1/4 x 7",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/s/esl1_1_6.jpg",
+    "specs": [
+      "1605mm Wide",
+      "BAC GN1/4 x 7",
+      "W1605xD335xH435"
+    ]
+  },
+  {
+    "sku": "ESL3886",
+    "name": "Esl Counter Top Salad Bar W1600 X D395 X H435",
+    "cat": "Upright Fridge",
+    "rrp": 1599.0,
+    "dims": "W1605xD395xH435",
+    "capacity": "BAC GN1/3 x 7",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/s/esl1_1_7.jpg",
+    "specs": [
+      "1605mm Wide",
+      "BAC GN1/3 x 7",
+      "W1605xD395xH435"
+    ]
+  },
+  {
+    "sku": "ESL3887",
+    "name": "Esl Counter Top Salad Bar W1805 X D335 X H460",
+    "cat": "Upright Fridge",
+    "rrp": 1714.0,
+    "dims": "W1805xD335xH435",
+    "capacity": "BAC GN1/4 x 8",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/s/esl1_1_8.jpg",
+    "specs": [
+      "1805mm Wide",
+      "BAC GN1/4 x 8",
+      "W1805xD335xH435"
+    ]
+  },
+  {
+    "sku": "ESL3888",
+    "name": "Esl Counter Top Salad Bar W1805 X D395 X H460",
+    "cat": "Upright Fridge",
+    "rrp": 1714.0,
+    "dims": "W1805xD395xH435",
+    "capacity": "BAC GN1/3 x 8",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/s/esl1_1_9.jpg",
+    "specs": [
+      "1805mm Wide",
+      "BAC GN1/3 x 8",
+      "W1805xD395xH435"
+    ]
+  },
+  {
+    "sku": "ESL3889",
+    "name": "Esl Counter Top Salad Bar W2005 X D335 X H460",
+    "cat": "Upright Fridge",
+    "rrp": 1829.0,
+    "dims": "W2005xD335xH435",
+    "capacity": "BAC GN1/4 x10",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/s/esl1_1_10.jpg",
+    "specs": [
+      "2005mm Wide",
+      "BAC GN1/4 x10",
+      "W2005xD335xH435"
+    ]
+  },
+  {
+    "sku": "ESL3890",
+    "name": "Esl Counter Top Salad Bar W2005 X D395 X H460",
+    "cat": "Upright Fridge",
+    "rrp": 1829.0,
+    "dims": "W2005xD395xH435",
+    "capacity": "BAC GN1/3 x 9",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/s/esl1_1_11.jpg",
+    "specs": [
+      "2005mm Wide",
+      "BAC GN1/3 x 9",
+      "W2005xD395xH435"
+    ]
+  },
+  {
+    "sku": "ATCB-24-NG",
+    "name": "610mm Char Rock Broiler W610 X D700 X H385 Cookrite",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2501.0,
+    "dims": "W610xD700xH385",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atcb-24_2.jpg",
+    "specs": [
+      "610mm Wide",
+      "W610xD700xH385"
+    ]
+  },
+  {
+    "sku": "ATCB-36-NG",
+    "name": "910mm Char Rock Broiler W910 X D700 X H385 Cookrite",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2897.0,
+    "dims": "W910xD700xH385",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atcb-36_1_1.jpg",
+    "specs": [
+      "910mm Wide",
+      "W910xD700xH385"
+    ]
+  },
+  {
+    "sku": "ATCB-48-NG",
+    "name": "1220mm Char Rock Broiler W1220 X D700 X H385 Cookrite",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3864.0,
+    "dims": "W1220xD700xH386",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atcb-48_1.jpg",
+    "specs": [
+      "1220mm Wide",
+      "W1220xD700xH386"
+    ]
+  },
+  {
+    "sku": "ATRC-24-NG",
+    "name": "610mm Radiant Broiler W610 X D700 X H385 Cookrite",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2501.0,
+    "dims": "W610xD700xH385",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image014_1_1.jpg",
+    "specs": [
+      "610mm Wide",
+      "W610xD700xH385"
+    ]
+  },
+  {
+    "sku": "ATRC-36-NG",
+    "name": "910mm Radiant Broiler W910 X D700 X H385 Cookrite",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2897.0,
+    "dims": "W910xD700xH385",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image015_1_1_1.jpg",
+    "specs": [
+      "910mm Wide",
+      "W910xD700xH385"
+    ]
+  },
+  {
+    "sku": "ATRC-48-NG",
+    "name": "1220mm Radiant Broiler W1220 X D700 X H385 Cookrite",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3864.0,
+    "dims": "W1220xD700xH385",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atrc-48_1.jpg",
+    "specs": [
+      "1220mm Wide",
+      "W1220xD700xH385"
+    ]
+  },
+  {
+    "sku": "ATMG-24-NG",
+    "name": "610mm Griddle W610 X D725 X H385 Cookrite",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 1892.0,
+    "dims": "W610xD725xH385",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image008_1.jpg",
+    "specs": [
+      "610mm Wide",
+      "W610xD725xH385"
+    ]
+  },
+  {
+    "sku": "ATMG-36-NG",
+    "name": "910mm Griddle W910 X D725 X H385 Cookrite",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3403.0,
+    "dims": "W910xD725xH385",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image009_1.jpg",
+    "specs": [
+      "910mm Wide",
+      "W910xD725xH385"
+    ]
+  },
+  {
+    "sku": "ATMG-48-NG",
+    "name": "1220mm Griddle W1220 X D725 X H385 Cookrite",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 4341.0,
+    "dims": "W1220xD725xH385",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image010_1_1.jpg",
+    "specs": [
+      "1220mm Wide",
+      "W1220xD725xH385"
+    ]
+  },
+  {
+    "sku": "ATHP-12-2-NG",
+    "name": "2 Burner Cook Tops W310 X D700 X H333 Cookrite",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 1846.0,
+    "dims": "W308xD700xH332",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image005_1.jpg",
+    "specs": [
+      "308mm Wide",
+      "W308xD700xH332"
+    ]
+  },
+  {
+    "sku": "ATHP-24-4-NG",
+    "name": "4 Burner Cook Tops W610 X D700 X H333 Cookrite",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2471.0,
+    "dims": "W610xD700xH332",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image006_1.jpg",
+    "specs": [
+      "610mm Wide",
+      "W610xD700xH332"
+    ]
+  },
+  {
+    "sku": "ATHP-36-6-NG",
+    "name": "6 Burner Cook Tops W910 X D700 X H333 Cookrite",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3322.0,
+    "dims": "W910xD700xH332",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/i/m/image007_1.jpg",
+    "specs": [
+      "910mm Wide",
+      "W910xD700xH332"
+    ]
+  },
+  {
+    "sku": "ATFS-40-NG",
+    "name": "3 Tubes Gas Deep Fryer W395 X D765 X H1128 Ng Cookrite",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2294.0,
+    "dims": "W395xD765xH1128",
+    "capacity": "84 MJ/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atfs-40-50-75_1.jpg",
+    "specs": [
+      "395mm Wide",
+      "84 MJ/h",
+      "W395xD765xH1128"
+    ]
+  },
+  {
+    "sku": "ATFS-50-NG",
+    "name": "4 Tubes Gas Deep Fryer W395 X D765 X H1128 Cookrite",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3099.0,
+    "dims": "W395xD765xH1128",
+    "capacity": "112 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atfs-40-50-75_1_1.jpg",
+    "specs": [
+      "395mm Wide",
+      "112 Mj/h",
+      "W395xD765xH1128"
+    ]
+  },
+  {
+    "sku": "ATFS-75-NG",
+    "name": "5 Tubes Gas Deep Fryer W535 X D765 X H1128 Cookrite",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3789.0,
+    "dims": "W535xD765xH1128",
+    "capacity": "114 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atfs-40-50-75_1_3.jpg",
+    "specs": [
+      "535mm Wide",
+      "114 Mj/h",
+      "W535xD765xH1128"
+    ]
+  },
+  {
+    "sku": "SS1618L",
+    "name": "Sink Bench With Splashback W1800 X D600 X H900",
+    "cat": "Stainless Steel (MixRite)",
+    "rrp": 1236.0,
+    "dims": "W1800xD600xH900",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/sink_bench_left_with_splashback_1_3_1.jpg",
+    "specs": [
+      "1800mm Wide",
+      "W1800xD600xH900"
+    ]
+  },
+  {
+    "sku": "WDF097Z",
+    "name": "Upright Square Cake Showcase 900 Mm Fridge",
+    "cat": "Display Fridge",
+    "rrp": 5394.0,
+    "dims": "W900xD750xH1350",
+    "capacity": "373L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/c/a/cake-show.jpg",
+    "specs": [
+      "900mm Wide",
+      "373L",
+      "W900xD750xH1350"
+    ]
+  },
+  {
+    "sku": "WDF127Z",
+    "name": "Cake Showcase 1200 Mm 1",
+    "cat": "Display Fridge",
+    "rrp": 6199.0,
+    "dims": "W1200xD750xH1350",
+    "capacity": "505L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/c/a/cake-show_1.jpg",
+    "specs": [
+      "1200mm Wide",
+      "505L",
+      "W1200xD750xH1350"
+    ]
+  },
+  {
+    "sku": "WDF157Z",
+    "name": "Upright Square Cake Showcase 1500 Mm Fridge",
+    "cat": "Display Fridge",
+    "rrp": 7004.0,
+    "dims": "W1500xD750xH1350",
+    "capacity": "638L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/c/a/cake-show_2.jpg",
+    "specs": [
+      "1500mm Wide",
+      "638L",
+      "W1500xD750xH1350"
+    ]
+  },
+  {
+    "sku": "WDF177Z",
+    "name": "Upright Square Cake Showcase 1700 Mm Fridge",
+    "cat": "Display Fridge",
+    "rrp": 7694.0,
+    "dims": "W1700xD750xH1350",
+    "capacity": "730L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/c/a/cake-show_2.jpg",
+    "specs": [
+      "1700mm Wide",
+      "730L",
+      "W1700xD750xH1350"
+    ]
+  },
+  {
+    "sku": "MSF8303",
+    "name": "2 Door Sandwich Prep Table Fridge1530 Mm",
+    "cat": "Sandwich Prep",
+    "rrp": 4704.0,
+    "dims": "W1530xD762xH1124",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/c/d/cd0d165e9302c73978d21d8cbf01c48a_1.jpg",
+    "specs": [
+      "1530mm Wide",
+      "W1530xD762xH1124"
+    ]
+  },
+  {
+    "sku": "MBC24G",
+    "name": "Chiller Fridge Cabinet Glass Door",
+    "cat": "Upright Fridge",
+    "rrp": 1484.0,
+    "dims": "W605xD635xH825",
+    "capacity": "105L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/c/h/chiller_fridge.jpg",
+    "specs": [
+      "605mm Wide",
+      "105L",
+      "W605xD635xH825"
+    ]
+  },
+  {
+    "sku": "MBC24FG",
+    "name": "Chiller Freezer Cabinet Glass Door - Mbc24fg",
+    "cat": "Upright Freezer",
+    "rrp": 1599.0,
+    "dims": "W605xD635xH825",
+    "capacity": "105L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/c/h/chiller_fridge_1.jpg",
+    "specs": [
+      "605mm Wide",
+      "105L",
+      "W605xD635xH825"
+    ]
+  },
+  {
+    "sku": "MBC24R",
+    "name": "Chiller Fridge Cabinet Solid Door",
+    "cat": "Upright Fridge",
+    "rrp": 1484.0,
+    "dims": "W605xD635xH825",
+    "capacity": "105L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/c/h/chiller_fridge4.jpg",
+    "specs": [
+      "605mm Wide",
+      "105L",
+      "W605xD635xH825"
+    ]
+  },
+  {
+    "sku": "MBC24F",
+    "name": "Chiller Freezer Cabinet Solid Door - Mbc24f",
+    "cat": "Upright Freezer",
+    "rrp": 1599.0,
+    "dims": "W605xD635xH825",
+    "capacity": "105L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/c/h/chiller_fridge4_1.jpg",
+    "specs": [
+      "605mm Wide",
+      "105L",
+      "W605xD635xH825"
+    ]
+  },
+  {
+    "sku": "MBB48G",
+    "name": "Back Bar Fridge With Glass Door",
+    "cat": "Back Bar Cooler",
+    "rrp": 3990.0,
+    "dims": "W1220xD714xH1068",
+    "capacity": "365L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/b/a/backbar.jpg",
+    "specs": [
+      "1220mm Wide",
+      "365L",
+      "W1220xD714xH1068"
+    ]
+  },
+  {
+    "sku": "MBB59G",
+    "name": "Back Bar Fridge With Glass Door",
+    "cat": "Back Bar Cooler",
+    "rrp": 4290.0,
+    "dims": "W1467xD714xH1068",
+    "capacity": "390L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/b/a/backbar_1.jpg",
+    "specs": [
+      "1467mm Wide",
+      "390L",
+      "W1467xD714xH1068"
+    ]
+  },
+  {
+    "sku": "ATSEC-48",
+    "name": "Stainless Steel Stand Gas Series 1218x640",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 546.0,
+    "dims": "W1218xD640xH712",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atsec-48_1_.jpg",
+    "specs": [
+      "1218mm Wide",
+      "W1218xD640xH712"
+    ]
+  },
+  {
+    "sku": "BD-450",
+    "name": "Solid Door Chest Freezer 450",
+    "cat": "Upright Freezer",
+    "rrp": 1714,
+    "dims": "W1270xD755xH840",
+    "capacity": "358 L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/b/d/bd-_500x500.png",
+    "specs": [
+      "1270mm Wide",
+      "358 L",
+      "W1270xD755xH840"
+    ]
+  },
+  {
+    "sku": "BD-550",
+    "name": "Solid Door Chest Freezer 550",
+    "cat": "Upright Freezer",
+    "rrp": 1944,
+    "dims": "W1530xD755xH840",
+    "capacity": "450 L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/b/d/bd-_500x500_1.png",
+    "specs": [
+      "1530mm Wide",
+      "450 L",
+      "W1530xD755xH840"
+    ]
+  },
+  {
+    "sku": "BD-650",
+    "name": "Solid Door Chest Freezer 650",
+    "cat": "Upright Freezer",
+    "rrp": 2289,
+    "dims": "W1810xD755xH840",
+    "capacity": "560L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/b/d/bd-_500x500_2.png",
+    "specs": [
+      "1810mm Wide",
+      "560L",
+      "W1810xD755xH840"
+    ]
+  },
+  {
+    "sku": "SD-420P",
+    "name": "Glass Top Chest Freezer 420p",
+    "cat": "Upright Freezer",
+    "rrp": 2289,
+    "dims": "W1270xD680xH850",
+    "capacity": "355L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/g/l/glass_top_chest_freezers_-_500x500_-_01.png",
+    "specs": [
+      "1270mm Wide",
+      "355L",
+      "W1270xD680xH850"
+    ]
+  },
+  {
+    "sku": "SD-520P",
+    "name": "Glass Top Chest Freezer 520p",
+    "cat": "Upright Freezer",
+    "rrp": 2634,
+    "dims": "W1530xD680xH850",
+    "capacity": "445L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/g/l/glass_top_chest_freezers_-_500x500_-_01_1.png",
+    "specs": [
+      "1530mm Wide",
+      "445L",
+      "W1530xD680xH850"
+    ]
+  },
+  {
+    "sku": "SD-620P",
+    "name": "Glass Top Chest Freezer 620p",
+    "cat": "Upright Freezer",
+    "rrp": 2864,
+    "dims": "W1810xD680xH850",
+    "capacity": "545L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/g/l/glass_top_chest_freezers_-_500x500_-_01_2.png",
+    "specs": [
+      "1810mm Wide",
+      "545L",
+      "W1810xD680xH850"
+    ]
+  },
+  {
+    "sku": "P600WB",
+    "name": "Single Glass Door Mounted Fridge 700 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 2519,
+    "dims": "W700xD790xH2058",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/p/6/p600wb.jpg",
+    "specs": [
+      "700mm Wide",
+      "W700xD790xH2058"
+    ]
+  },
+  {
+    "sku": "AT80G2B-F-NG",
+    "name": "2 Burner Cook Top Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2294.0,
+    "dims": "W300xD800xH1115",
+    "capacity": "56 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g2b-f_2000px_1200px_1.png",
+    "specs": [
+      "300mm Wide",
+      "56 Mj/h",
+      "W300xD800xH1115"
+    ]
+  },
+  {
+    "sku": "MSF8302G",
+    "name": "2 Door Sandwich Bar With Glass Canopy 1225mm",
+    "cat": "Upright Fridge",
+    "rrp": 4359.0,
+    "dims": "W1225xD762xH1420",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/m/s/msf8302g.jpg",
+    "specs": [
+      "1225mm Wide",
+      "W1225xD762xH1420"
+    ]
+  },
+  {
+    "sku": "MSF8303G",
+    "name": "2 Door Sandwich Bar With Glass Canopy 1530mm",
+    "cat": "Upright Fridge",
+    "rrp": 4934.0,
+    "dims": "W1530xD762xH1420",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/m/s/msf8302g.jpg",
+    "specs": [
+      "1530mm Wide",
+      "W1530xD762xH1420"
+    ]
+  },
+  {
+    "sku": "MSF8304G",
+    "name": "3 Door Sandwich Bar With Glass Canopy 1846mm",
+    "cat": "Upright Fridge",
+    "rrp": 5739.0,
+    "dims": "W1846xD762xH1420",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/m/s/msf8304g.jpg",
+    "specs": [
+      "1846mm Wide",
+      "W1846xD762xH1420"
+    ]
+  },
+  {
+    "sku": "AT80G2B-F-LPG",
+    "name": "2 Burner Cook Top Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2294.0,
+    "dims": "W300xD800xH1115",
+    "capacity": "56 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g2b-f_2000px_1200px_1_1.png",
+    "specs": [
+      "300mm Wide",
+      "56 Mj/h",
+      "W300xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G4B-F-NG",
+    "name": "4 Burner Cook Top Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3099.0,
+    "dims": "W600xD800xH1117",
+    "capacity": "112 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g4b-f_2000px_1200px.png",
+    "specs": [
+      "600mm Wide",
+      "112 Mj/h",
+      "W600xD800xH1117"
+    ]
+  },
+  {
+    "sku": "AT80G4B-F-LPG",
+    "name": "4 Burner Cook Top Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3099.0,
+    "dims": "W600xD800xH1115",
+    "capacity": "112 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g4b-f_2000px_1200px_1.png",
+    "specs": [
+      "600mm Wide",
+      "112 Mj/h",
+      "W600xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G6B-F-NG",
+    "name": "6 Burner Cook Top Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 4134.0,
+    "dims": "W900xD800xH1115",
+    "capacity": "168 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g6b-f.jpg",
+    "specs": [
+      "900mm Wide",
+      "168 Mj/h",
+      "W900xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G6B-F-LPG",
+    "name": "6 Burner Cook Top Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 4134.0,
+    "dims": "W900xD800xH1115",
+    "capacity": "168 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g6b-f_1.jpg",
+    "specs": [
+      "900mm Wide",
+      "168 Mj/h",
+      "W900xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G8B-F-NG",
+    "name": "8 Burner Cook Top Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 5629.0,
+    "dims": "W1200xD800xH1115",
+    "capacity": "224 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g8b-f_2000px_1200px.png",
+    "specs": [
+      "1200mm Wide",
+      "224 Mj/h",
+      "W1200xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G8B-F-LPG",
+    "name": "8 Burner Cook Top Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 5629.0,
+    "dims": "W1200xD800xH1115",
+    "capacity": "224 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g8b-f_2000px_1200px_1.png",
+    "specs": [
+      "1200mm Wide",
+      "224 Mj/h",
+      "W1200xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G3G-F-NG",
+    "name": "300mm Hotplate Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2064.0,
+    "dims": "W300xD800xH1115",
+    "capacity": "25 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g3g-f.png",
+    "specs": [
+      "300mm Wide",
+      "25 Mj/h",
+      "W300xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G6G-F-NG",
+    "name": "600mm Hotplate Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2639.0,
+    "dims": "W600xD800xH1115",
+    "capacity": "50 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g6g-f.png",
+    "specs": [
+      "600mm Wide",
+      "50 Mj/h",
+      "W600xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G9G-F-NG",
+    "name": "900mm Hotplate Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 4019.0,
+    "dims": "W900xD800xH1115",
+    "capacity": "75 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g9g-f.png",
+    "specs": [
+      "900mm Wide",
+      "75 Mj/h",
+      "W900xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G12G-F-NG",
+    "name": "1200mm Hotplate Ng 1",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 5054.0,
+    "dims": "W1200xD800xH1115",
+    "capacity": "100 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g12g-f.png",
+    "specs": [
+      "1200mm Wide",
+      "100 Mj/h",
+      "W1200xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G3G-F-LPG",
+    "name": "300mm Hotplate Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2064.0,
+    "dims": "W300xD800xH1115",
+    "capacity": "25 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g3g-f_1.png",
+    "specs": [
+      "300mm Wide",
+      "25 Mj/h",
+      "W300xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G6G-F-LPG",
+    "name": "600mm Hotplate Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2639.0,
+    "dims": "W600xD800xH1115",
+    "capacity": "50 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g6g-f_1.png",
+    "specs": [
+      "600mm Wide",
+      "50 Mj/h",
+      "W600xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G9G-F-LPG",
+    "name": "900mm Hotplate Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 4019.0,
+    "dims": "W900xD800xH1115",
+    "capacity": "75 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g9g-f_1.png",
+    "specs": [
+      "900mm Wide",
+      "75 Mj/h",
+      "W900xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G12G-F-LPG",
+    "name": "1200mm Hotplate Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 5054.0,
+    "dims": "W1200xD800xH1115",
+    "capacity": "100 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g12g-f_1.png",
+    "specs": [
+      "1200mm Wide",
+      "100 Mj/h",
+      "W1200xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G2B-C-NG",
+    "name": "Open 2 Burner Cook Tops Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 1949.0,
+    "dims": "W300xD800xH562",
+    "capacity": "56 MJ/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g2b-c.png",
+    "specs": [
+      "300mm Wide",
+      "56 MJ/h",
+      "W300xD800xH562"
+    ]
+  },
+  {
+    "sku": "AT80G2B-C-LPG",
+    "name": "Open 2 Burner Cook Tops Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 1949.0,
+    "dims": "W300xD800xH562",
+    "capacity": "56 MJ/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g2b-c_1.png",
+    "specs": [
+      "300mm Wide",
+      "56 MJ/h",
+      "W300xD800xH562"
+    ]
+  },
+  {
+    "sku": "AT80G4B-C-NG",
+    "name": "Open 4 Burner Cook Tops Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2754.0,
+    "dims": "W600xD800xH562",
+    "capacity": "112L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g4b-c.png",
+    "specs": [
+      "600mm Wide",
+      "112L",
+      "W600xD800xH562"
+    ]
+  },
+  {
+    "sku": "AT80G4B-C-LPG",
+    "name": "Open 4 Burner Cook Tops Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2754.0,
+    "dims": "W600xD800xH562",
+    "capacity": "112L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g4b-c_1.png",
+    "specs": [
+      "600mm Wide",
+      "112L",
+      "W600xD800xH562"
+    ]
+  },
+  {
+    "sku": "AT80G6B-C-NG",
+    "name": "Open 6 Burner Cook Tops Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3674.0,
+    "dims": "W900xD800xH562",
+    "capacity": "168L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g6b-c.png",
+    "specs": [
+      "900mm Wide",
+      "168L",
+      "W900xD800xH562"
+    ]
+  },
+  {
+    "sku": "AT80G8B-C-NG",
+    "name": "Open 8 Burner Cook Tops Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 5169.0,
+    "dims": "W1200xD800xH562",
+    "capacity": "224L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g8b-c.jpg",
+    "specs": [
+      "1200mm Wide",
+      "224L",
+      "W1200xD800xH562"
+    ]
+  },
+  {
+    "sku": "AT80G8B-C-LPG",
+    "name": "Open 8 Burner Cook Tops Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 5169.0,
+    "dims": "W1200xD800xH562",
+    "capacity": "224L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g8b-c_1.jpg",
+    "specs": [
+      "1200mm Wide",
+      "224L",
+      "W1200xD800xH562"
+    ]
+  },
+  {
+    "sku": "AT80G6B-C-LPG",
+    "name": "Open 6 Burner Cook Tops Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3674.0,
+    "dims": "W900xD800xH562",
+    "capacity": "168L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g6b-c_1.png",
+    "specs": [
+      "900mm Wide",
+      "168L",
+      "W900xD800xH562"
+    ]
+  },
+  {
+    "sku": "AT80G12G-C-NG",
+    "name": "1200mm Hotplate Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 4479.0,
+    "dims": "W1200xD800xH562",
+    "capacity": "100L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g12g-c.jpg",
+    "specs": [
+      "1200mm Wide",
+      "100L",
+      "W1200xD800xH562"
+    ]
+  },
+  {
+    "sku": "AT80G12G-C-LPG",
+    "name": "1200 Mm Hotplate Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 4479.0,
+    "dims": "W1200xD800xH562",
+    "capacity": "100L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g12g-c_1.jpg",
+    "specs": [
+      "1200mm Wide",
+      "100L",
+      "W1200xD800xH562"
+    ]
+  },
+  {
+    "sku": "AT80G3G-C-NG",
+    "name": "300 Mm Hotplate Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 1719.0,
+    "dims": "W300xD800xH562",
+    "capacity": "25 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g3g-c_1.png",
+    "specs": [
+      "300mm Wide",
+      "25 Mj/h",
+      "W300xD800xH562"
+    ]
+  },
+  {
+    "sku": "AT80G3G-C-LPG",
+    "name": "300 Mm Hotplate Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 1719.0,
+    "dims": "W300xD800xH562",
+    "capacity": "25 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g3g-c_1_1.png",
+    "specs": [
+      "300mm Wide",
+      "25 Mj/h",
+      "W300xD800xH562"
+    ]
+  },
+  {
+    "sku": "AT80G6G-C-NG",
+    "name": "600 Mm Hotplate Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2179.0,
+    "dims": "W600xD800xH562",
+    "capacity": "50 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g6g-c-ng-lpg_1.jpg",
+    "specs": [
+      "600mm Wide",
+      "50 Mj/h",
+      "W600xD800xH562"
+    ]
+  },
+  {
+    "sku": "AT80G6G-C-LPG",
+    "name": "600 Mm Hotplate Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2179.0,
+    "dims": "W600xD800xH562",
+    "capacity": "50 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g6g-c-ng-lpg.jpg",
+    "specs": [
+      "600mm Wide",
+      "50 Mj/h",
+      "W600xD800xH562"
+    ]
+  },
+  {
+    "sku": "AT80G9G-C-NG",
+    "name": "900 Mm Hotplate Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3674.0,
+    "dims": "W900xD800xH562",
+    "capacity": "75 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g9g-c.jpg",
+    "specs": [
+      "900mm Wide",
+      "75 Mj/h",
+      "W900xD800xH562"
+    ]
+  },
+  {
+    "sku": "AT80G9G-C-LPG",
+    "name": "900 Mm Hotplate Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3674.0,
+    "dims": "W900xD800xH562",
+    "capacity": "75 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g9g-c_1.jpg",
+    "specs": [
+      "900mm Wide",
+      "75 Mj/h",
+      "W900xD800xH562"
+    ]
+  },
+  {
+    "sku": "AT80G3C-C-NG",
+    "name": "300mm Char Grill Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 1719.0,
+    "dims": "W300xD800xH562",
+    "capacity": "26.5 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g3c-c.png",
+    "specs": [
+      "300mm Wide",
+      "26.5 Mj/h",
+      "W300xD800xH562"
+    ]
+  },
+  {
+    "sku": "AT80G3C-C-LPG",
+    "name": "300mm Char Grill Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 1719.0,
+    "dims": "W300xD800xH562",
+    "capacity": "24 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g3c-c_1.png",
+    "specs": [
+      "300mm Wide",
+      "24 Mj/h",
+      "W300xD800xH562"
+    ]
+  },
+  {
+    "sku": "AT80G6C-C-NG",
+    "name": "600mm Char Grill Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2639.0,
+    "dims": "W600xD800xH562",
+    "capacity": "53 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g6c-c.png",
+    "specs": [
+      "600mm Wide",
+      "53 Mj/h",
+      "W600xD800xH562"
+    ]
+  },
+  {
+    "sku": "AT80G6C-C-LPG",
+    "name": "600mm Char Grill Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2639.0,
+    "dims": "W600xD800xH562",
+    "capacity": "48 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g6c-c_1.png",
+    "specs": [
+      "600mm Wide",
+      "48 Mj/h",
+      "W600xD800xH562"
+    ]
+  },
+  {
+    "sku": "AT80G9C-C-NG",
+    "name": "900mm Char Grill Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3099.0,
+    "dims": "W900xD800xH562",
+    "capacity": "79.5L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g9c-c.png",
+    "specs": [
+      "900mm Wide",
+      "79.5L",
+      "W900xD800xH562"
+    ]
+  },
+  {
+    "sku": "AT80G9C-C-LPG",
+    "name": "900mm Char Grill Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3099.0,
+    "dims": "W900xD800xH562",
+    "capacity": "72L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g9c-c_1.png",
+    "specs": [
+      "900mm Wide",
+      "72L",
+      "W900xD800xH562"
+    ]
+  },
+  {
+    "sku": "AT65G4G-C-NG",
+    "name": "400mm Hotplate Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 1719.0,
+    "dims": "W400xD650xH485",
+    "capacity": "25L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at65g4g-c.png",
+    "specs": [
+      "400mm Wide",
+      "25L",
+      "W400xD650xH485"
+    ]
+  },
+  {
+    "sku": "AT65G4G-C-LPG",
+    "name": "400mm Hotplate Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 1719.0,
+    "dims": "W400xD650xH485",
+    "capacity": "25L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at65g4g-c_1.png",
+    "specs": [
+      "400mm Wide",
+      "25L",
+      "W400xD650xH485"
+    ]
+  },
+  {
+    "sku": "AT65G2B-C-NG",
+    "name": "2 Burner Cook Top 650 Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 1949.0,
+    "dims": "W400xD650xH485",
+    "capacity": "25L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at65g2b-c.png",
+    "specs": [
+      "400mm Wide",
+      "25L",
+      "W400xD650xH485"
+    ]
+  },
+  {
+    "sku": "AT65G2B-C-LPG",
+    "name": "2 Burner Cook Top 650 Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 1949.0,
+    "dims": "W400xD650xH485",
+    "capacity": "25L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at65g2b-c_1.png",
+    "specs": [
+      "400mm Wide",
+      "25L",
+      "W400xD650xH485"
+    ]
+  },
+  {
+    "sku": "AT80G4B-O-NG",
+    "name": "4 Burners With Oven Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 4709.0,
+    "dims": "W600xD800xH1115",
+    "capacity": "112L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g4b-o.jpg",
+    "specs": [
+      "600mm Wide",
+      "112L",
+      "W600xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G4B-O-LPG",
+    "name": "4 Burners With Oven Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 4709.0,
+    "dims": "W600xD800xH1115",
+    "capacity": "112L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g4b-o_1.jpg",
+    "specs": [
+      "600mm Wide",
+      "112L",
+      "W600xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G6B-O-NG",
+    "name": "6 Burners With Oven Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 5744.0,
+    "dims": "W900xD800xH1115",
+    "capacity": "112L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g6b-o.jpg",
+    "specs": [
+      "900mm Wide",
+      "112L",
+      "W900xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G6B-O-LPG",
+    "name": "6 Burners With Oven Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 5744.0,
+    "dims": "W900xD800xH1115",
+    "capacity": "112L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g6b-o_1.jpg",
+    "specs": [
+      "900mm Wide",
+      "112L",
+      "W900xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G8B-O-NG",
+    "name": "8 Burners With Oven Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 8734.0,
+    "dims": "W1200xD800xH1115",
+    "capacity": "224L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g8b-o.jpg",
+    "specs": [
+      "1200mm Wide",
+      "224L",
+      "W1200xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G8B-O-LPG",
+    "name": "8 Burners With Oven Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 8734.0,
+    "dims": "W1200xD800xH1115",
+    "capacity": "224L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g8b-o_1.jpg",
+    "specs": [
+      "1200mm Wide",
+      "224L",
+      "W1200xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G3C-F-NG",
+    "name": "300 Mm Radiant Char Grills Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2064.0,
+    "dims": "W300xD800xH1115",
+    "capacity": "26.5 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g3c-f.png",
+    "specs": [
+      "300mm Wide",
+      "26.5 Mj/h",
+      "W300xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G3C-F-LPG",
+    "name": "300 Mm Radiant Char Grills Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2064.0,
+    "dims": "W300xD800xH1115",
+    "capacity": "24 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g3c-f_2.png",
+    "specs": [
+      "300mm Wide",
+      "24 Mj/h",
+      "W300xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G6C-F-NG",
+    "name": "600 Mm Radiant Char Grills Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2984.0,
+    "dims": "W600xD800xH1115",
+    "capacity": "53 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g6c-f.png",
+    "specs": [
+      "600mm Wide",
+      "53 Mj/h",
+      "W600xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G6C-F-LPG",
+    "name": "600 Mm Radiant Char Grills Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 2984.0,
+    "dims": "W600xD800xH1115",
+    "capacity": "48 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g6c-f_2.png",
+    "specs": [
+      "600mm Wide",
+      "48 Mj/h",
+      "W600xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G9C-F-NG",
+    "name": "900 Mm Radiant Char Grills Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3674.0,
+    "dims": "W900xD800xH1115",
+    "capacity": "79.5 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g9c-f.png",
+    "specs": [
+      "900mm Wide",
+      "79.5 Mj/h",
+      "W900xD800xH1115"
+    ]
+  },
+  {
+    "sku": "AT80G9C-F-LPG",
+    "name": "900 Mm Radiant Char Grills Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3674.0,
+    "dims": "W900xD800xH1115",
+    "capacity": "72 Mj/h",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/at80g9c-f_2.png",
+    "specs": [
+      "900mm Wide",
+      "72 Mj/h",
+      "W900xD800xH1115"
+    ]
+  },
+  {
+    "sku": "ATSEC-1200",
+    "name": "Stainless Steel Stand Atsec 1200 Gas Series",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 638.0,
+    "dims": "W1218xD640xH712",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/s/i/sink_bench_with_splashback_cad_designs_3_1_1_1_1.jpg",
+    "specs": [
+      "1218mm Wide",
+      "W1218xD640xH712"
+    ]
+  },
+  {
+    "sku": "21ML029",
+    "name": "Atosa Long Curved Glass Cold Display 1200mm",
+    "cat": "Display Fridge",
+    "rrp": 8694.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product"
+  },
+  {
+    "sku": "JA-1CB-N",
+    "name": "Jasper Single Wok Range(chimney Burner) Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3980,
+    "dims": "W600xD900xH1180",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/j/a/ja-1db-n-l-ja1cb-n-l_2.png",
+    "specs": [
+      "600mm Wide",
+      "W600xD900xH1180"
+    ]
+  },
+  {
+    "sku": "JA-1DB-L",
+    "name": "Jasper Single Wok Range(duckbill Burner) Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3980,
+    "dims": "W600xD900xH1180",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/j/a/ja-1db-n-l-ja1cb-n-l_1.png",
+    "specs": [
+      "600mm Wide",
+      "W600xD900xH1180"
+    ]
+  },
+  {
+    "sku": "JA-1CB-L",
+    "name": "Jasper Single Wok Range(chimney Burner) Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 3980,
+    "dims": "W600xD900xH1180",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/j/a/ja-1db-n-l-ja1cb-n-l_3.png",
+    "specs": [
+      "600mm Wide",
+      "W600xD900xH1180"
+    ]
+  },
+  {
+    "sku": "JA-2CB-N",
+    "name": "Jasper Double Wok Range(chimney Burner) Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 6280,
+    "dims": "W1200xD900xH1180",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/j/a/ja-2ob-n_ja-2dbb-l_ja2cb-n_1.png",
+    "specs": [
+      "1200mm Wide",
+      "W1200xD900xH1180"
+    ]
+  },
+  {
+    "sku": "JA-2DB-L",
+    "name": "Jasper Double Wok Range(duckbill Burner) Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 6280,
+    "dims": "W1200xD900xH1180",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/j/a/ja-2ob-n_ja-2dbb-l_ja2cb-n_2.png",
+    "specs": [
+      "1200mm Wide",
+      "W1200xD900xH1180"
+    ]
+  },
+  {
+    "sku": "JA-2CB-L",
+    "name": "Jasper Double Wok Range(chimney Burner) Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 6280,
+    "dims": "W1200xD900xH1180",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/j/a/ja-2ob-n_ja-2dbb-l_ja2cb-n_3.png",
+    "specs": [
+      "1200mm Wide",
+      "W1200xD900xH1180"
+    ]
+  },
+  {
+    "sku": "JA-3DB-N",
+    "name": "Jasper Triple Wok Range(duckbill Burner) Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 8280,
+    "dims": "W1800xD900xH1180",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/j/a/ja-3db-l-n_ja-3cb-n-l-2.png",
+    "specs": [
+      "1800mm Wide",
+      "W1800xD900xH1180"
+    ]
+  },
+  {
+    "sku": "JA-3DB-L",
+    "name": "Jasper Triple Wok Range(duckbill Burner) Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 8280,
+    "dims": "W1800xD900xH1180",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/j/a/ja-3db-l-n_ja-3cb-n-l-2_1.png",
+    "specs": [
+      "1800mm Wide",
+      "W1800xD900xH1180"
+    ]
+  },
+  {
+    "sku": "JA-3CB-N",
+    "name": "Jasper Triple Wok Range(chimney Burner) Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 8280,
+    "dims": "W1800xD900xH1180",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/j/a/ja-3db-l-n_ja-3cb-n-l-2_2.png",
+    "specs": [
+      "1800mm Wide",
+      "W1800xD900xH1180"
+    ]
+  },
+  {
+    "sku": "JA-3CB-L",
+    "name": "Jasper Triple Wok Range(chimney Burner) Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 8280,
+    "dims": "W1800xD900xH1180",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/j/a/ja-3db-l-n_ja-3cb-n-l-2_3.png",
+    "specs": [
+      "1800mm Wide",
+      "W1800xD900xH1180"
+    ]
+  },
+  {
+    "sku": "JA-SPB-L",
+    "name": "Jasper Stockpot Boiler Duckbill Burner: 18 Jets Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 4380,
+    "dims": "W600xD900xH1180",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/j/a/ja-spb-n_1.png",
+    "specs": [
+      "600mm Wide",
+      "W600xD900xH1180"
+    ]
+  },
+  {
+    "sku": "JA-NC-N",
+    "name": "Jasper Noodle Cooker Ng",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 5880,
+    "dims": "W600xD900xH960",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/j/a/ja-nc-n_ja-nc-l-4.png",
+    "specs": [
+      "600mm Wide",
+      "W600xD900xH960"
+    ]
+  },
+  {
+    "sku": "JA-NC-L",
+    "name": "Jasper Multi-function Cooker Lpg",
+    "cat": "CookRite Gas Cooking",
+    "rrp": 5880,
+    "dims": "W600xD900xH960",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/j/a/ja-nc-n_ja-nc-l-4_1.png",
+    "specs": [
+      "600mm Wide",
+      "W600xD900xH960"
+    ]
+  },
+  {
+    "sku": "BB-138HEC",
+    "name": "One Swing Door Back Bar Cooler",
+    "cat": "Back Bar Cooler",
+    "rrp": 1265,
+    "dims": "W600xD530xH835",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/b/b/bb-138hec.png",
+    "specs": [
+      "600mm Wide",
+      "W600xD530xH835"
+    ]
+  },
+  {
+    "sku": "BB-330HEC",
+    "name": "3 Swing Doors Back Bar Cooler",
+    "cat": "Back Bar Cooler",
+    "rrp": 1815,
+    "dims": "W1350xD530xH835",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/b/b/bb-330hec.png",
+    "specs": [
+      "1350mm Wide",
+      "W1350xD530xH835"
+    ]
+  },
+  {
+    "sku": "BB-330SEC",
+    "name": "3 Sliding Doors Back Bar Cooler",
+    "cat": "Back Bar Cooler",
+    "rrp": 1815,
+    "dims": "W1350xD520xH835",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/b/b/bb-330sec.png",
+    "specs": [
+      "1350mm Wide",
+      "W1350xD520xH835"
+    ]
+  },
+  {
+    "sku": "WHF150L",
+    "name": "700 Square Hot Display Showccase",
+    "cat": "Benchtop Equipment",
+    "rrp": 1290.0,
+    "dims": "W700xD570xH678",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/w/h/whf150l-whf200l.png",
+    "specs": [
+      "700mm Wide",
+      "W700xD570xH678"
+    ]
+  },
+  {
+    "sku": "WHF200L",
+    "name": "900 Square Hot Display Showccase",
+    "cat": "Benchtop Equipment",
+    "rrp": 1490.0,
+    "dims": "W900xD570xH678",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/w/h/whf150l-whf200l_1.png",
+    "specs": [
+      "900mm Wide",
+      "W900xD570xH678"
+    ]
+  },
+  {
+    "sku": "WHY125L",
+    "name": "700 Curved Hot Display Showccase",
+    "cat": "Benchtop Equipment",
+    "rrp": 1190.0,
+    "dims": "W700xD580xH678",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/w/h/why125-why160.png",
+    "specs": [
+      "700mm Wide",
+      "W700xD580xH678"
+    ]
+  },
+  {
+    "sku": "WHY160L",
+    "name": "900 Curved Hot Display Showccase",
+    "cat": "Benchtop Equipment",
+    "rrp": 1350.0,
+    "dims": "W900xD580xH678",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/w/h/why125-why160_1.png",
+    "specs": [
+      "900mm Wide",
+      "W900xD580xH678"
+    ]
+  },
+  {
+    "sku": "MSF17GR",
+    "name": "Slim Sandwich Prep Table",
+    "cat": "Sandwich Prep",
+    "rrp": 2480.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product"
+  },
+  {
+    "sku": "DH1800-750",
+    "name": "Ductless Exhaust Hood System 620 Mm W 1800mm X D 750mm X H 1400mm Dh1800",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 18250.0,
+    "dims": "W1800xD750xH1400",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/d/h/dh1_1_2_1_1.jpg",
+    "specs": [
+      "1800mm Wide",
+      "W1800xD750xH1400"
+    ]
+  },
+  {
+    "sku": "EBF-05",
+    "name": "Atosa 5 Grid Undercounter Blast Chiller/freezer",
+    "cat": "Blast Chiller",
+    "rrp": 5190,
+    "dims": "W750xD815xH870",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/b/ebf-5.jpg",
+    "specs": [
+      "750mm Wide",
+      "W750xD815xH870"
+    ]
+  },
+  {
+    "sku": "JBF40FSGR",
+    "name": "Slimline Upright Single Door Freezer",
+    "cat": "Upright Freezer",
+    "rrp": 3290,
+    "dims": "W654xD800xH2065",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/j/b/jbf40rs-1-850x533.jpg",
+    "specs": [
+      "654mm Wide",
+      "W654xD800xH2065"
+    ]
+  },
+  {
+    "sku": "JBF80FSGR",
+    "name": "Slimline Upright Double Door Freezer",
+    "cat": "Upright Freezer",
+    "rrp": 4390,
+    "dims": "W1314xD800xH2065",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/j/b/jbf80rs-1-850x533.jpg",
+    "specs": [
+      "1314mm Wide",
+      "W1314xD800xH2065"
+    ]
+  },
+  {
+    "sku": "EPF3421",
+    "name": "Underbench 2door Fridge 1360mm",
+    "cat": "Underbench Fridge",
+    "rrp": 2944.0,
+    "dims": "W1360xD600xH715",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/p/epf3422_epf3462_2.jpg",
+    "specs": [
+      "1360mm Wide",
+      "W1360xD600xH715"
+    ]
+  },
+  {
+    "sku": "EPF3431",
+    "name": "Underbench 3door Fridge 1795mm",
+    "cat": "Underbench Fridge",
+    "rrp": 3404.0,
+    "dims": "W1795xD600xH715",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/p/epf3432.jpg",
+    "specs": [
+      "1795mm Wide",
+      "W1795xD600xH715"
+    ]
+  },
+  {
+    "sku": "MSF8305",
+    "name": "1door Sandwich Preptable Fridge 698mm",
+    "cat": "Sandwich Prep",
+    "rrp": 3090.0,
+    "dims": "W698xD863xH1197",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/m/s/msf8305.png",
+    "specs": [
+      "698mm Wide",
+      "W698xD863xH1197"
+    ]
+  },
+  {
+    "sku": "MSF8306",
+    "name": "2door Sandwich Preptable Fridge 1225mm",
+    "cat": "Sandwich Prep",
+    "rrp": 4190.0,
+    "dims": "W1225xD863xH1197",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/m/s/msf8306.png",
+    "specs": [
+      "1225mm Wide",
+      "W1225xD863xH1197"
+    ]
+  },
+  {
+    "sku": "MSF8308",
+    "name": "3door Sandwich Preptable Fridge 1846mm",
+    "cat": "Sandwich Prep",
+    "rrp": 5590.0,
+    "dims": "W1846xD863xH1197",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/m/s/msf8308.png",
+    "specs": [
+      "1846mm Wide",
+      "W1846xD863xH1197"
+    ]
+  },
+  {
+    "sku": "WDG096F",
+    "name": "Square Cake Showcase 900mm",
+    "cat": "Display Fridge",
+    "rrp": 2790.0,
+    "dims": "W900xD660xH1200",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/w/d/wdg_3.png",
+    "specs": [
+      "900mm Wide",
+      "W900xD660xH1200"
+    ]
+  },
+  {
+    "sku": "WDG126F",
+    "name": "Square Cake Showcase 1200mm",
+    "cat": "Display Fridge",
+    "rrp": 3090.0,
+    "dims": "W1200xD660xH1200",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/w/d/wdg_2.png",
+    "specs": [
+      "1200mm Wide",
+      "W1200xD660xH1200"
+    ]
+  },
+  {
+    "sku": "WDG156F",
+    "name": "Square Cake Showcase 1500mm",
+    "cat": "Display Fridge",
+    "rrp": 3590.0,
+    "dims": "W1500xD660xH1200",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/w/d/wdg_1.png",
+    "specs": [
+      "1500mm Wide",
+      "W1500xD660xH1200"
+    ]
+  },
+  {
+    "sku": "WDG186F",
+    "name": "Square Cake Showcase 1800mm",
+    "cat": "Display Fridge",
+    "rrp": 3990.0,
+    "dims": "W1800xD660xH1200",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/w/d/wdg.png",
+    "specs": [
+      "1800mm Wide",
+      "W1800xD660xH1200"
+    ]
+  },
+  {
+    "sku": "SHB1800",
+    "name": "Exhaust Canopy Shb1800 1800x1400mm",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 4320.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product"
+  },
+  {
+    "sku": "YLM480B",
+    "name": "Multideck Display Cooler",
+    "cat": "Display Fridge",
+    "rrp": 6200.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product"
+  },
+  {
+    "sku": "MSF8307",
+    "name": "Mega Top 2 Door Sandwich Prep Table Fridge 1530 Mm",
+    "cat": "Sandwich Prep",
+    "rrp": 4490.0,
+    "dims": "W1530xD863xH1197",
+    "capacity": "490L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/m/s/msf8306_8307.jpg",
+    "specs": [
+      "1530mm Wide",
+      "490L",
+      "W1530xD863xH1197"
+    ]
+  },
+  {
+    "sku": "MBB69",
+    "name": "Mbb69 Refrigerated Back Bar Cooler With Glass Door",
+    "cat": "Back Bar Cooler",
+    "rrp": 4890.0,
+    "dims": "W1727xD713xH1073",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/m/b/mbb69gr.jpg",
+    "specs": [
+      "1727mm Wide",
+      "W1727xD713xH1073"
+    ]
+  },
+  {
+    "sku": "MBB90",
+    "name": "Mbb90 Refrigerated Back Bar Cooler With Glass Door",
+    "cat": "Back Bar Cooler",
+    "rrp": 5490.0,
+    "dims": "W2268xD713xH1073",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/m/b/mbb90.jpg",
+    "specs": [
+      "2268mm Wide",
+      "W2268xD713xH1073"
+    ]
+  },
+  {
+    "sku": "SHB1500",
+    "name": "Shb1500 1500 X 1400mm Hood",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 3600.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product"
+  },
+  {
+    "sku": "WDG096D",
+    "name": "Round Cake Showcase",
+    "cat": "Display Fridge",
+    "rrp": 2590.0,
+    "dims": "W900xD660xH1200",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/w/d/wdg096d.jpg",
+    "specs": [
+      "900mm Wide",
+      "W900xD660xH1200"
+    ]
+  },
+  {
+    "sku": "WDG126D",
+    "name": "Round Cake Showcase",
+    "cat": "Display Fridge",
+    "rrp": 3090.0,
+    "dims": "W1200xD660xH1200",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/w/d/wdg096d_1.jpg",
+    "specs": [
+      "1200mm Wide",
+      "W1200xD660xH1200"
+    ]
+  },
+  {
+    "sku": "WDG096FY",
+    "name": "Square Cake Showcase",
+    "cat": "Display Fridge",
+    "rrp": 2590.0,
+    "dims": "W900xD660xH1200",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/w/d/wdg096fy_1.jpg",
+    "specs": [
+      "900mm Wide",
+      "W900xD660xH1200"
+    ]
+  },
+  {
+    "sku": "WDG126FY",
+    "name": "Square Cake Showcase",
+    "cat": "Display Fridge",
+    "rrp": 2890.0,
+    "dims": "W1200xD660xH1200",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/w/d/wdg096fy.jpg",
+    "specs": [
+      "1200mm Wide",
+      "W1200xD660xH1200"
+    ]
+  },
+  {
+    "sku": "WSY100L",
+    "name": "Round Cake Showcase",
+    "cat": "Display Fridge",
+    "rrp": 1350.0,
+    "dims": "W700xD560xH670",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/w/s/wsy100l.jpg",
+    "specs": [
+      "700mm Wide",
+      "W700xD560xH670"
+    ]
+  },
+  {
+    "sku": "WSY125L",
+    "name": "Round Cake Showcase",
+    "cat": "Display Fridge",
+    "rrp": 1550.0,
+    "dims": "W900xD560xH670",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/w/s/wsy100l_1.jpg",
+    "specs": [
+      "900mm Wide",
+      "W900xD560xH670"
+    ]
+  },
+  {
+    "sku": "YLM580B",
+    "name": "Multideck Display Cooler 1200mm",
+    "cat": "Display Fridge",
+    "rrp": 6890.0,
+    "dims": "W1200xD610xH1910",
+    "capacity": "580L",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/y/l/ylm580b_1.jpg",
+    "specs": [
+      "1200mm Wide",
+      "580L",
+      "W1200xD610xH1910"
+    ]
+  },
+  {
+    "sku": "WSF120L",
+    "name": "Countertop Square Cake Showcase 700 Mm Fridge",
+    "cat": "Display Fridge",
+    "rrp": 1390.0,
+    "dims": "W700xD560xH670",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/w/t/wtf120l_wtf160l.jpg",
+    "specs": [
+      "700mm Wide",
+      "W700xD560xH670"
+    ]
+  },
+  {
+    "sku": "WSF160L",
+    "name": "Countertop Square Cake Showcase 900 Mm Fridge",
+    "cat": "Display Fridge",
+    "rrp": 1590.0,
+    "dims": "W900xD560xH670",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/w/t/wtf120l_wtf160l_1.jpg",
+    "specs": [
+      "900mm Wide",
+      "W900xD560xH670"
+    ]
+  },
+  {
+    "sku": "SHB3700",
+    "name": "700 X 1450 Custom Hood",
+    "cat": "Exhaust Canopies (Simcohood)",
+    "rrp": 8800.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product"
+  },
+  {
+    "sku": "MPF8201OS",
+    "name": "1 Door Pizza Prep Table Fridge With Over Shelf",
+    "cat": "Pizza Prep",
+    "rrp": 4364.0,
+    "dims": "W1117xD840xH1856",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/m/p/mpf8201os.jpg",
+    "specs": [
+      "1117mm Wide",
+      "W1117xD840xH1856"
+    ]
+  },
+  {
+    "sku": "MPF8202OS",
+    "name": "2 Door Pizza Prep Table Fridge With Over Shelf",
+    "cat": "Pizza Prep",
+    "rrp": 5729.0,
+    "dims": "W1702xD840xH1856",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/m/p/mpf8202os-2.jpg",
+    "specs": [
+      "1702mm Wide",
+      "W1702xD840xH1856"
+    ]
+  },
+  {
+    "sku": "MPF8203OS",
+    "name": "3 Door Pizza Prep Table Fridge With Over Shelf",
+    "cat": "Pizza Prep",
+    "rrp": 7999.0,
+    "dims": "W2362xD840xH1856",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/m/p/mpf8203os.jpg",
+    "specs": [
+      "2362mm Wide",
+      "W2362xD840xH1856"
+    ]
+  },
+  {
+    "sku": "MSF8301OS",
+    "name": "1 Door Sandwich Prep Table Fridge With Over Shelf",
+    "cat": "Sandwich Prep",
+    "rrp": 3384.0,
+    "dims": "W698xD762xH1844",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/m/s/msf8301os.jpg",
+    "specs": [
+      "698mm Wide",
+      "W698xD762xH1844"
+    ]
+  },
+  {
+    "sku": "MSF8302OS",
+    "name": "2 Door Sandwich Prep Table Fridge With Over Shelf",
+    "cat": "Sandwich Prep",
+    "rrp": 4364.0,
+    "dims": "W1225xD762xH1844",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/m/s/msf8302os-1.jpg",
+    "specs": [
+      "1225mm Wide",
+      "W1225xD762xH1844"
+    ]
+  },
+  {
+    "sku": "MSF8303OS",
+    "name": "2 Door Sandwich Prep Table Fridge With Over Shelf",
+    "cat": "Sandwich Prep",
+    "rrp": 5094.0,
+    "dims": "W1530xD762xH1844",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/m/s/msf8302os_1.jpg",
+    "specs": [
+      "1530mm Wide",
+      "W1530xD762xH1844"
+    ]
+  },
+  {
+    "sku": "MSF8304OS",
+    "name": "3 Door Sandwich Prep Table Fridge With Over Shelf",
+    "cat": "Sandwich Prep",
+    "rrp": 5844.0,
+    "dims": "W1846xD762xH1844",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/m/s/msf8304os.jpg",
+    "specs": [
+      "1846mm Wide",
+      "W1846xD762xH1844"
+    ]
+  },
+  {
+    "sku": "AS-101",
+    "name": "Atosa Combi Oven Stand for Epc-1011e2",
+    "cat": "Combi Oven (Atosa)",
+    "rrp": 790.0,
+    "dims": "W811xD751xH410",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/s/as-5171-62-101-102.jpg",
+    "specs": [
+      "811mm Wide",
+      "W811xD751xH410"
+    ]
+  },
+  {
+    "sku": "AS-5171",
+    "name": "Atosa Combi Oven Stand for Epc-0511e1 and 0711e2",
+    "cat": "Combi Oven (Atosa)",
+    "rrp": 1090.0,
+    "dims": "W811xD751xH581",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/s/as-5171d-1-768x768.jpg",
+    "specs": [
+      "811mm Wide",
+      "W811xD751xH581"
+    ]
+  },
+  {
+    "sku": "ASK-11",
+    "name": "Atosa Combi Oven Low Height Stand and Stacking Kit",
+    "cat": "Combi Oven (Atosa)",
+    "rrp": 720.0,
+    "dims": "W931xD945xH227",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/s/ask-11-1-1-768x768.jpg",
+    "specs": [
+      "931mm Wide",
+      "W931xD945xH227"
+    ]
+  },
+  {
+    "sku": "ASR-5171",
+    "name": "Atosa Combi Oven Stand With Tray Holders for Epc-0511e1 and 0711e2",
+    "cat": "Combi Oven (Atosa)",
+    "rrp": 1250.0,
+    "dims": "W811xD751xH581",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/s/asr-5171-62.jpg",
+    "specs": [
+      "811mm Wide",
+      "W811xD751xH581"
+    ]
+  },
+  {
+    "sku": "CEC11C",
+    "name": "Atosa Combi Oven Condensation System for Gn1/1 Oven",
+    "cat": "Combi Oven (Atosa)",
+    "rrp": 3900.0,
+    "dims": "W886xD778xH289",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/e/e/ee50011-3.jpg",
+    "specs": [
+      "886mm Wide",
+      "W886xD778xH289"
+    ]
+  },
+  {
+    "sku": "WDG096HF",
+    "name": "Square Cake Showcase",
+    "cat": "Display Fridge",
+    "rrp": 3390.0,
+    "dims": "W900xD660xH1350",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/w/d/wdg096hf_3.jpg",
+    "specs": [
+      "900mm Wide",
+      "W900xD660xH1350"
+    ]
+  },
+  {
+    "sku": "WDG126HF",
+    "name": "Square Cake Showcase",
+    "cat": "Display Fridge",
+    "rrp": 3790.0,
+    "dims": "W1200xD660xH1350",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/w/d/wdg096hf_2.jpg",
+    "specs": [
+      "1200mm Wide",
+      "W1200xD660xH1350"
+    ]
+  },
+  {
+    "sku": "WDG156HF",
+    "name": "Square Cake Showcase",
+    "cat": "Display Fridge",
+    "rrp": 4390.0,
+    "dims": "W1500xD660xH1350",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/w/d/wdg096hf_1.jpg",
+    "specs": [
+      "1500mm Wide",
+      "W1500xD660xH1350"
+    ]
+  },
+  {
+    "sku": "WDG186HF",
+    "name": "Square Cake Showcase",
+    "cat": "Display Fridge",
+    "rrp": 4790.0,
+    "dims": "W1800xD660xH1350",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/w/d/wdg096hf.jpg",
+    "specs": [
+      "1800mm Wide",
+      "W1800xD660xH1350"
+    ]
+  },
+  {
+    "sku": "COMBI OVEN WATER FILTER",
+    "name": "Filter to Suit Combi Oven",
+    "cat": "Combi Oven (Atosa)",
+    "rrp": 385.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/w/a/water_filter_1.png"
+  },
+  {
+    "sku": "BM2",
+    "name": "Wet Hot Food Display 740 Mm Bm2 Holds 2 X 1/1 Gn Pans (pans Not Included) 10 Amp",
+    "cat": "Jasper Asian Cooking",
+    "rrp": 3094.0,
+    "dims": "W740xD650xH755",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/b/m/bm4.png",
+    "specs": [
+      "740mm Wide",
+      "W740xD650xH755"
+    ]
+  },
+  {
+    "sku": "BM3",
+    "name": "Wet Hot Food Display 1070 Mm Bm3 Holds 3 X 1/1 Gn Pans (pans Not Included) 10 Amp",
+    "cat": "Jasper Asian Cooking",
+    "rrp": 3324.0,
+    "dims": "W1070xD650xH755",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/b/m/bm6.png",
+    "specs": [
+      "1070mm Wide",
+      "W1070xD650xH755"
+    ]
+  },
+  {
+    "sku": "BM4",
+    "name": "Wet Hot Food Display 1400 Mm Bm4 Holds 4 X 1/1 Gn Pans (pans Not Included) 15 Amp",
+    "cat": "Jasper Asian Cooking",
+    "rrp": 3669.0,
+    "dims": "W1400xD650xH755",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/b/m/bm8.png",
+    "specs": [
+      "1400mm Wide",
+      "W1400xD650xH755"
+    ]
+  },
+  {
+    "sku": "BM5",
+    "name": "Wet Hot Food Display 1730 Mm Bm5 Holds 5 X 1/1 Gn Pans (pans Not Included) 15 Amp",
+    "cat": "Jasper Asian Cooking",
+    "rrp": 4014.0,
+    "dims": "W1730xD650xH755",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/b/m/bm10.png",
+    "specs": [
+      "1730mm Wide",
+      "W1730xD650xH755"
+    ]
+  },
+  {
+    "sku": "BM6",
+    "name": "Wet Hot Food Display 2060 Mm Bm6 Holds 6 X 1/1 Gn Pans (pans Not Included) 15 Amp",
+    "cat": "Jasper Asian Cooking",
+    "rrp": 4359.0,
+    "dims": "W2060xD650xH755",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/b/m/bm12.png",
+    "specs": [
+      "2060mm Wide",
+      "W2060xD650xH755"
+    ]
+  },
+  {
+    "sku": "SN-420P",
+    "name": "Blizzard Ice Maker",
+    "cat": "Benchtop Equipment",
+    "rrp": 6280.0,
+    "dims": "W560xD860xH1745",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product",
+    "specs": [
+      "560mm Wide",
+      "W560xD860xH1745"
+    ]
+  },
+  {
+    "sku": "SN-700P",
+    "name": "Blizzard Ice Maker",
+    "cat": "Benchtop Equipment",
+    "rrp": 7980.0,
+    "dims": "W760xD860xH1745",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product",
+    "specs": [
+      "760mm Wide",
+      "W760xD860xH1745"
+    ]
+  },
+  {
+    "sku": "E20",
+    "name": "20kg Ice Machine",
+    "cat": "Benchtop Equipment",
+    "rrp": 1310.0,
+    "dims": "W350xD482xH600",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product",
+    "specs": [
+      "350mm Wide",
+      "W350xD482xH600"
+    ]
+  },
+  {
+    "sku": "YR140",
+    "name": "140 Lb Ice Machine",
+    "cat": "Benchtop Equipment",
+    "rrp": 3310.0,
+    "dims": "W618xD731xH980",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product",
+    "specs": [
+      "618mm Wide",
+      "W618xD731xH980"
+    ]
+  },
+  {
+    "sku": "YR280",
+    "name": "280 Lb Ice Machine",
+    "cat": "Benchtop Equipment",
+    "rrp": 4410.0,
+    "dims": "W618xD731xH981",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product",
+    "specs": [
+      "618mm Wide",
+      "W618xD731xH981"
+    ]
+  },
+  {
+    "sku": "YR450",
+    "name": "450 Lb Ice Machine",
+    "cat": "Benchtop Equipment",
+    "rrp": 5330.0,
+    "dims": "W774xD640xH560",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product",
+    "specs": [
+      "774mm Wide",
+      "W774xD640xH560"
+    ]
+  },
+  {
+    "sku": "YR800",
+    "name": "800 Lb Ice Machine",
+    "cat": "Benchtop Equipment",
+    "rrp": 7030.0,
+    "dims": "W774xD640xH806",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product",
+    "specs": [
+      "774mm Wide",
+      "W774xD640xH806"
+    ]
+  },
+  {
+    "sku": "CYR400",
+    "name": "400lb Ice Bin",
+    "cat": "Benchtop Equipment",
+    "rrp": 950.0,
+    "dims": "W770xD834xH1050",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product",
+    "specs": [
+      "770mm Wide",
+      "W770xD834xH1050"
+    ]
+  },
+  {
+    "sku": "CYR700",
+    "name": "700lb Ice Bin",
+    "cat": "Benchtop Equipment",
+    "rrp": 1450.0,
+    "dims": "W1225xD834xH1050",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product",
+    "specs": [
+      "1225mm Wide",
+      "W1225xD834xH1050"
+    ]
+  },
+  {
+    "sku": "YPF9022",
+    "name": "Undercounter Fridge 1200 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 3094.0,
+    "dims": "W1200xD700xH838",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/y/p/ypf9022_27.jpg",
+    "specs": [
+      "1200mm Wide",
+      "W1200xD700xH838"
+    ]
+  },
+  {
+    "sku": "YPF9027",
+    "name": "Undercounter Freezer 1200 Mm",
+    "cat": "Upright Freezer",
+    "rrp": 3554.0,
+    "dims": "W1200xD700xH838",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/y/p/ypf9022_27_1.jpg",
+    "specs": [
+      "1200mm Wide",
+      "W1200xD700xH838"
+    ]
+  },
+  {
+    "sku": "YPF9032",
+    "name": "Undercounter Fridge 1500 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 3324.0,
+    "dims": "W1500xD700xH838",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/y/p/ypf9032_37_1.jpg",
+    "specs": [
+      "1500mm Wide",
+      "W1500xD700xH838"
+    ]
+  },
+  {
+    "sku": "YPF9037",
+    "name": "Undercounter Freezer 1500 Mm",
+    "cat": "Upright Freezer",
+    "rrp": 3899.0,
+    "dims": "W1500xD700xH838",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/y/p/ypf9032_37.jpg",
+    "specs": [
+      "1500mm Wide",
+      "W1500xD700xH838"
+    ]
+  },
+  {
+    "sku": "YPF9042",
+    "name": "Undercounter Fridge 1800 Mm",
+    "cat": "Upright Fridge",
+    "rrp": 3439.0,
+    "dims": "W1800xD700xH838",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/y/p/ypf9042_47_1.jpg",
+    "specs": [
+      "1800mm Wide",
+      "W1800xD700xH838"
+    ]
+  },
+  {
+    "sku": "YPF9047",
+    "name": "Undercounter Freezer 1800 Mm",
+    "cat": "Upright Freezer",
+    "rrp": 4014.0,
+    "dims": "W1800xD700xH838",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/y/p/ypf9042_47.jpg",
+    "specs": [
+      "1800mm Wide",
+      "W1800xD700xH838"
+    ]
+  },
+  {
+    "sku": "ASR-62",
+    "name": "Atosa Combi Oven Stand With Tray Holders for Epc-0621e2 and 1021e3",
+    "cat": "Combi Oven (Atosa)",
+    "rrp": 1390.0,
+    "dims": "W931xD959xH690",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/s/asr-62-300x300.jpg",
+    "specs": [
+      "931mm Wide",
+      "W931xD959xH690"
+    ]
+  },
+  {
+    "sku": "ASK-21",
+    "name": "Atosa Combi Oven Low Height Stand and Stacking Kit for Epc-0621e2",
+    "cat": "Combi Oven (Atosa)",
+    "rrp": 860.0,
+    "dims": "W931xD945xH227",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/s/ask-21.png",
+    "specs": [
+      "931mm Wide",
+      "W931xD945xH227"
+    ]
+  },
+  {
+    "sku": "CTCO-25",
+    "name": "Atosa Countertop Convection Oven 3 X Gn 1/4",
+    "cat": "Combi Oven (Atosa)",
+    "rrp": 870.0,
+    "dims": "W475xD504xH381",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/c/r/crcc-25-front2-300x300.jpg",
+    "specs": [
+      "475mm Wide",
+      "W475xD504xH381"
+    ]
+  },
+  {
+    "sku": "CTCO-50",
+    "name": "Atosa Countertop Convection Oven 4 X Gn 1/2",
+    "cat": "Combi Oven (Atosa)",
+    "rrp": 1360.0,
+    "dims": "W580xD570xH417",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/c/r/crcc-50-front-1-300x300.jpg",
+    "specs": [
+      "580mm Wide",
+      "W580xD570xH417"
+    ]
+  },
+  {
+    "sku": "CTCO-100",
+    "name": "Atosa Countertop Convection Oven 4 X 600* 400mm",
+    "cat": "Combi Oven (Atosa)",
+    "rrp": 2480.0,
+    "dims": "W808xD680xH476",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/c/r/crcc-100-1-300x300.jpg",
+    "specs": [
+      "808mm Wide",
+      "W808xD680xH476"
+    ]
+  },
+  {
+    "sku": "JCF40RSGR",
+    "name": "Single Door Glass Door Display Fridge",
+    "cat": "Display Fridge",
+    "rrp": 3160.0,
+    "dims": "W654xD800xH2065",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/j/c/jcf40rsgr_jcf40fsgr.jpg",
+    "specs": [
+      "654mm Wide",
+      "W654xD800xH2065"
+    ]
+  },
+  {
+    "sku": "JCF40FSGR",
+    "name": "Single Door Glass Door Display Freezer",
+    "cat": "Display Fridge",
+    "rrp": 3880.0,
+    "dims": "W654xD800xH2065",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/j/c/jcf40rsgr_jcf40fsgr_1.jpg",
+    "specs": [
+      "654mm Wide",
+      "W654xD800xH2065"
+    ]
+  },
+  {
+    "sku": "JCF80RSGR",
+    "name": "Double Door Glass Door Display Fridge",
+    "cat": "Display Fridge",
+    "rrp": 4860.0,
+    "dims": "W1340xD800xH2065",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/j/c/jcf80rsgr_jcf80fsgr_1.jpg",
+    "specs": [
+      "1340mm Wide",
+      "W1340xD800xH2065"
+    ]
+  },
+  {
+    "sku": "JCF80FSGR",
+    "name": "Double Door Glass Door Display Freezer",
+    "cat": "Display Fridge",
+    "rrp": 5180.0,
+    "dims": "W1340xD800xH2065",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/j/c/jcf80rsgr_jcf80fsgr_1_1.jpg",
+    "specs": [
+      "1340mm Wide",
+      "W1340xD800xH2065"
+    ]
+  },
+  {
+    "sku": "Atosa Wash Detergent",
+    "name": "Atosa Wash Detergent Carton of 2 X 2l",
+    "cat": "Combi Oven (Atosa)",
+    "rrp": 50.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atosa_wash.jpg"
+  },
+  {
+    "sku": "Atosa Rinse Detergent",
+    "name": "Atosa Rinse Detergent Carton of 2 X 2l",
+    "cat": "Combi Oven (Atosa)",
+    "rrp": 55.0,
+    "dims": "",
+    "capacity": "",
+    "type": "",
+    "img": "https://simcogroup.com.au/pub/media/catalog/product/a/t/atosa_rinse.jpg"
   }
 ]
