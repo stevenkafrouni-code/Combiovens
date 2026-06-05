@@ -2410,40 +2410,40 @@
     "poa": false
   },
   "C500DD": {
-    "rrp": null,
+    "rrp": 8600,
     "cost": null,
-    "sell": null,
+    "sell": 6880.0,
     "margin": null,
     "margin_pct": null,
     "source": "classeq_csv",
-    "cost_basis": "UNKNOWN - confirm dealer margin with supplier",
-    "sell_basis": "POA",
+    "cost_basis": "TBC",
+    "sell_basis": "20% off RRP",
     "brand": "Classeq",
-    "poa": true
+    "poa": false
   },
   "CP500": {
-    "rrp": null,
+    "rrp": 10000,
     "cost": null,
-    "sell": null,
+    "sell": 8000.0,
     "margin": null,
     "margin_pct": null,
     "source": "classeq_csv",
-    "cost_basis": "UNKNOWN - confirm dealer margin with supplier",
-    "sell_basis": "POA",
+    "cost_basis": "TBC",
+    "sell_basis": "20% off RRP",
     "brand": "Classeq",
-    "poa": true
+    "poa": false
   },
   "CP500SR": {
-    "rrp": null,
+    "rrp": 16789,
     "cost": null,
-    "sell": null,
+    "sell": 13431.2,
     "margin": null,
     "margin_pct": null,
     "source": "classeq_csv",
-    "cost_basis": "UNKNOWN - confirm dealer margin with supplier",
-    "sell_basis": "POA",
+    "cost_basis": "TBC",
+    "sell_basis": "20% off RRP",
     "brand": "Classeq",
-    "poa": true
+    "poa": false
   },
   "WH-UC-S": {
     "rrp": 10720,
