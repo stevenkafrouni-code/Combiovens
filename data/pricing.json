@@ -2448,134 +2448,134 @@
   "WH-UC-S": {
     "rrp": 10720,
     "cost": null,
-    "sell": null,
+    "sell": 8576.0,
     "margin": null,
     "margin_pct": null,
     "source": "classeq_csv",
-    "cost_basis": "UNKNOWN - confirm dealer margin with supplier",
-    "sell_basis": "POA",
+    "cost_basis": "TBC",
+    "sell_basis": "20% off RRP",
     "brand": "Winterhalter",
-    "poa": true
+    "poa": false
   },
   "WH-UC-M": {
     "rrp": 11770,
     "cost": null,
-    "sell": null,
+    "sell": 9416.0,
     "margin": null,
     "margin_pct": null,
     "source": "classeq_csv",
-    "cost_basis": "UNKNOWN - confirm dealer margin with supplier",
-    "sell_basis": "POA",
+    "cost_basis": "TBC",
+    "sell_basis": "20% off RRP",
     "brand": "Winterhalter",
-    "poa": true
+    "poa": false
   },
   "WH-UC-L": {
     "rrp": 12853,
     "cost": null,
-    "sell": null,
+    "sell": 10282.4,
     "margin": null,
     "margin_pct": null,
     "source": "classeq_csv",
-    "cost_basis": "UNKNOWN - confirm dealer margin with supplier",
-    "sell_basis": "POA",
+    "cost_basis": "TBC",
+    "sell_basis": "20% off RRP",
     "brand": "Winterhalter",
-    "poa": true
+    "poa": false
   },
   "WH-UC-XL": {
     "rrp": 15085,
     "cost": null,
-    "sell": null,
+    "sell": 12068.0,
     "margin": null,
     "margin_pct": null,
     "source": "classeq_csv",
-    "cost_basis": "UNKNOWN - confirm dealer margin with supplier",
-    "sell_basis": "POA",
+    "cost_basis": "TBC",
+    "sell_basis": "20% off RRP",
     "brand": "Winterhalter",
-    "poa": true
+    "poa": false
   },
   "WH-UC-S-EXI": {
     "rrp": 13620,
     "cost": null,
-    "sell": null,
+    "sell": 10896.0,
     "margin": null,
     "margin_pct": null,
     "source": "classeq_csv",
-    "cost_basis": "UNKNOWN - confirm dealer margin with supplier",
-    "sell_basis": "POA",
+    "cost_basis": "TBC",
+    "sell_basis": "20% off RRP",
     "brand": "Winterhalter",
-    "poa": true
+    "poa": false
   },
   "WH-UC-M-EXI": {
     "rrp": 16127,
     "cost": null,
-    "sell": null,
+    "sell": 12901.6,
     "margin": null,
     "margin_pct": null,
     "source": "classeq_csv",
-    "cost_basis": "UNKNOWN - confirm dealer margin with supplier",
-    "sell_basis": "POA",
+    "cost_basis": "TBC",
+    "sell_basis": "20% off RRP",
     "brand": "Winterhalter",
-    "poa": true
+    "poa": false
   },
   "WH-PT-M": {
     "rrp": 24553,
     "cost": null,
-    "sell": null,
+    "sell": 19642.4,
     "margin": null,
     "margin_pct": null,
     "source": "classeq_csv",
-    "cost_basis": "UNKNOWN - confirm dealer margin with supplier",
-    "sell_basis": "POA",
+    "cost_basis": "TBC",
+    "sell_basis": "20% off RRP",
     "brand": "Winterhalter",
-    "poa": true
+    "poa": false
   },
   "WH-PT-L": {
     "rrp": 29515,
     "cost": null,
-    "sell": null,
+    "sell": 23612.0,
     "margin": null,
     "margin_pct": null,
     "source": "classeq_csv",
-    "cost_basis": "UNKNOWN - confirm dealer margin with supplier",
-    "sell_basis": "POA",
+    "cost_basis": "TBC",
+    "sell_basis": "20% off RRP",
     "brand": "Winterhalter",
-    "poa": true
+    "poa": false
   },
   "WH-PT-XL": {
     "rrp": 30422,
     "cost": null,
-    "sell": null,
+    "sell": 24337.6,
     "margin": null,
     "margin_pct": null,
     "source": "classeq_csv",
-    "cost_basis": "UNKNOWN - confirm dealer margin with supplier",
-    "sell_basis": "POA",
+    "cost_basis": "TBC",
+    "sell_basis": "20% off RRP",
     "brand": "Winterhalter",
-    "poa": true
+    "poa": false
   },
   "WH-GS630": {
     "rrp": 20007,
     "cost": null,
-    "sell": null,
+    "sell": 16005.6,
     "margin": null,
     "margin_pct": null,
     "source": "classeq_csv",
-    "cost_basis": "UNKNOWN - confirm dealer margin with supplier",
-    "sell_basis": "POA",
+    "cost_basis": "TBC",
+    "sell_basis": "20% off RRP",
     "brand": "Winterhalter",
-    "poa": true
+    "poa": false
   },
   "WH-UF-XL": {
     "rrp": 34431,
     "cost": null,
-    "sell": null,
+    "sell": 27544.8,
     "margin": null,
     "margin_pct": null,
     "source": "classeq_csv",
-    "cost_basis": "UNKNOWN - confirm dealer margin with supplier",
-    "sell_basis": "POA",
+    "cost_basis": "TBC",
+    "sell_basis": "20% off RRP",
     "brand": "Winterhalter",
-    "poa": true
+    "poa": false
   },
   "AT80012": {
     "rrp": 569,
