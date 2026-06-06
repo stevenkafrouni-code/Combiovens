@@ -10,7 +10,7 @@ const { sendQuoteToCustomer }   = require('../lib/email');
 const { enrichLinesWithStock }  = require('../lib/stock');
 
 const MAX_ITEMS          = 30;    // max SKUs per quote
-const COOLDOWN_MINUTES   = 3;     // same email can't submit again within this window
+const COOLDOWN_MINUTES   = 1;     // same email can't submit again within this window
 
 function generateQuoteId() {
   const now  = new Date();
@@ -76,7 +76,7 @@ module.exports = async (req, res) => {
       );
       if (tooSoon) {
         return res.status(429).json({
-          error: `A quote was already submitted for this email recently. Please wait ${COOLDOWN_MINUTES} minutes or call us on (03) 7009 3816.`,
+          error: `A quote was just submitted for this email. Please wait a minute and try again, or call us on (03) 7009 3816.`,
         });
       }
     } catch (_) { /* non-fatal — continue if rate limit check fails */ }
