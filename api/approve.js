@@ -1,15 +1,17 @@
 // api/approve.js
 const { buildQuoteLines, buildStripeLineItems } = require('../lib/products');
-const { updateQuote } = require('../lib/storage');
-const { sendQuoteToCustomer } = require('../lib/email');
-
-const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || '';
+const { updateQuote, readFile }                 = require('../lib/storage');
+const { sendQuoteToCustomer }                   = require('../lib/email');
+const { verifyToken }                           = require('../lib/token');
 
 module.exports = async (req, res) => {
-  const { quoteId, pw, data } = req.query;
-  if (pw !== ADMIN_PASSWORD) return res.status(401).send('Unauthorised');
-  if (!quoteId) return res.status(400).send('Missing quoteId');
-  if (!data) return res.status(400).send('Missing data — quote cannot be decoded. Please resubmit the quote form.');
+  const { quoteId, token, data } = req.query;
+
+  // Auth: HMAC-signed token tied to this quoteId + action
+  // Token is generated in lib/email.js when the admin email is sent
+  if (!quoteId)                                    return res.status(400).send('Missing quoteId');
+  if (!verifyToken(quoteId, 'approve', token))     return res.status(401).send('Unauthorised — invalid or expired approval token');
+  if (!data)                                       return res.status(400).send('Missing data — quote cannot be decoded. Please resubmit the quote form.');
 
   let quote;
   try {
@@ -20,6 +22,20 @@ module.exports = async (req, res) => {
   }
 
   try {
+    // Idempotency — don't create a second payment link if already approved
+    const quotes = await readFile('data/quotes.json').catch(() => []);
+    const stored = quotes.find(q => q.quoteId === quoteId);
+    if (stored?.paymentLink) {
+      return res.status(200).send(`
+        <html><body style="font-family:sans-serif;padding:60px;background:#0e0e0e;color:#e8e4de;text-align:center">
+          <div style="font-size:48px;margin-bottom:16px">ℹ️</div>
+          <h2 style="color:#e85d04;font-size:24px;margin-bottom:8px">Already Approved</h2>
+          <p style="color:#a8a8a8">${quoteId} was already sent to ${quote.email}.</p>
+          <p style="margin-top:16px"><a href="${stored.paymentLink}" style="color:#e85d04">Payment link ↗</a></p>
+        </body></html>
+      `);
+    }
+
     const { lines } = buildQuoteLines(quote.items.map(i => ({ sku: i.sku, qty: i.qty })));
 
     let paymentUrl = null;

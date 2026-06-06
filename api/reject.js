@@ -1,18 +1,17 @@
 // api/reject.js
-// GET /api/reject?quoteId=CBO-XXXXX&pw=ADMIN_PASSWORD
+// GET /api/reject?quoteId=CBO-XXXXX&token=HMAC_TOKEN
 // Admin rejects a quote — marks it closed, no email sent to customer
 
 const { updateQuote } = require('../lib/storage');
-
-const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || '';
+const { verifyToken } = require('../lib/token');
 
 module.exports = async (req, res) => {
-  const { quoteId, pw } = req.query;
+  const { quoteId, token } = req.query;
 
-  if (pw !== ADMIN_PASSWORD || !ADMIN_PASSWORD) {
-    return res.status(401).send('Unauthorised');
-  }
   if (!quoteId) return res.status(400).send('Missing quoteId');
+  if (!verifyToken(quoteId, 'reject', token)) {
+    return res.status(401).send('Unauthorised — invalid or expired rejection token');
+  }
 
   try {
     await updateQuote(quoteId, {

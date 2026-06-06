@@ -35,8 +35,11 @@ module.exports = async (req, res) => {
       return res.status(400).json({ error: 'No priceable items on this quote — please contact us.' });
     }
 
-    // Build Stripe line items (ex GST) then add GST as a single line
-    const exGstTotal = validLines.reduce((sum, l) => sum + (l.lineTotal || 0), 0);
+    // Build Stripe line items (ex GST)
+    const discount    = quote.discount || 0;
+    const grossTotal  = validLines.reduce((sum, l) => sum + (l.lineTotal || 0), 0);
+    const exGstTotal  = Math.max(0, grossTotal - discount);
+
     const lineItems = validLines.map(l => ({
       price_data: {
         currency: 'aud',
@@ -49,7 +52,19 @@ module.exports = async (req, res) => {
       quantity: l.qty,
     }));
 
-    // GST line item
+    // Referral discount line (negative amount)
+    if (discount > 0) {
+      lineItems.push({
+        price_data: {
+          currency: 'aud',
+          product_data: { name: `Referral Discount (ex GST)` },
+          unit_amount: -Math.round(discount * 100),
+        },
+        quantity: 1,
+      });
+    }
+
+    // GST line item (calculated on discounted total)
     lineItems.push({
       price_data: {
         currency: 'aud',
