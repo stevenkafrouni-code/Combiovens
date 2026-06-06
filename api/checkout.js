@@ -4,6 +4,7 @@
 
 const Stripe = require('stripe');
 const { readFile } = require('../lib/storage');
+const { buildQuoteLines } = require('../lib/products');
 
 const SITE_URL = process.env.SITE_URL || 'https://www.combiovens.com.au';
 
@@ -22,15 +23,28 @@ module.exports = async (req, res) => {
       return res.redirect(`${SITE_URL}/payment-success.html?already=1`);
     }
 
-    // Build line items from quote — prices are ex GST
-    const lineItems = (quote.lines || []).map(l => ({
+    // Re-calculate prices fresh from current pricing.json so stale or
+    // null-priced stored lines never reach Stripe with a $0 amount.
+    const items = (quote.items || []).map(i => ({ sku: i.sku, qty: i.qty }));
+    const { lines, subtotal } = items.length
+      ? buildQuoteLines(items)
+      : { lines: quote.lines || [], subtotal: quote.total || 0 };
+
+    const validLines = lines.filter(l => l.unitPrice && l.unitPrice > 0 && !l.poa);
+    if (!validLines.length) {
+      return res.status(400).json({ error: 'No priceable items on this quote — please contact us.' });
+    }
+
+    // Build Stripe line items (ex GST) then add GST as a single line
+    const exGstTotal = validLines.reduce((sum, l) => sum + (l.lineTotal || 0), 0);
+    const lineItems = validLines.map(l => ({
       price_data: {
         currency: 'aud',
         product_data: {
           name: l.name,
           description: [l.sku, l.dims].filter(Boolean).join(' · '),
         },
-        unit_amount: Math.round(l.unitPrice * 100), // cents
+        unit_amount: Math.round(l.unitPrice * 100), // cents, ex GST
       },
       quantity: l.qty,
     }));
@@ -40,7 +54,7 @@ module.exports = async (req, res) => {
       price_data: {
         currency: 'aud',
         product_data: { name: 'GST (10%)' },
-        unit_amount: Math.round(quote.total * 0.1 * 100),
+        unit_amount: Math.round(exGstTotal * 0.1 * 100),
       },
       quantity: 1,
     });
