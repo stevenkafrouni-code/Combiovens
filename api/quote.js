@@ -5,9 +5,12 @@
 const { buildQuoteLines, applyReferralDiscount, buildMarginSummary } = require('../lib/products');
 const { validateCode }          = require('../lib/referral');
 const { validateQuote }         = require('../lib/claude');
-const { appendToFile }          = require('../lib/storage');
+const { appendToFile, readFile } = require('../lib/storage');
 const { sendQuoteToCustomer }   = require('../lib/email');
 const { enrichLinesWithStock }  = require('../lib/stock');
+
+const MAX_ITEMS          = 30;    // max SKUs per quote
+const COOLDOWN_MINUTES   = 3;     // same email can't submit again within this window
 
 function generateQuoteId() {
   const now  = new Date();
@@ -50,16 +53,33 @@ module.exports = async (req, res) => {
     if (!/^\d{4}$/.test(postcode?.trim())) errors.push('Postcode must be 4 digits');
     if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email?.trim())) errors.push('Invalid email address');
     if (!items?.length)         errors.push('No items in quote');
+    if (items?.length > MAX_ITEMS) errors.push(`Maximum ${MAX_ITEMS} items per quote`);
     if (items?.length) {
       items.forEach((item, i) => {
         if (!item.sku?.trim()) errors.push(`Item ${i + 1}: SKU is required`);
         if (!item.qty || item.qty < 1) errors.push(`Item ${i + 1}: Quantity must be at least 1`);
+        if (item.qty > 999) errors.push(`Item ${i + 1}: Quantity seems unreasonably high`);
       });
     }
 
     if (errors.length) {
       return res.status(400).json({ error: errors.join('. ') });
     }
+
+    // ── Rate limit — same email can't submit again within cooldown window ─────
+    try {
+      const recent = await readFile('data/quotes.json').catch(() => []);
+      const cutoff = Date.now() - COOLDOWN_MINUTES * 60 * 1000;
+      const tooSoon = recent.some(q =>
+        q.email?.toLowerCase() === email.trim().toLowerCase() &&
+        new Date(q.timestamp).getTime() > cutoff
+      );
+      if (tooSoon) {
+        return res.status(429).json({
+          error: `A quote was already submitted for this email recently. Please wait ${COOLDOWN_MINUTES} minutes or call us on (03) 7009 3816.`,
+        });
+      }
+    } catch (_) { /* non-fatal — continue if rate limit check fails */ }
 
     // ── Build and price quote lines ───────────────────────────────────────────
     const { lines: rawLines, subtotal, costTotal, totalMargin, hasPoaItems, gst, totalIncGst } =
