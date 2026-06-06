@@ -713,7 +713,7 @@ const CAT_MAP = {
   'gas':           p => p.cat.includes('CookRite') || p.cat.includes('Gas'),
   'asian':         p => p.cat.includes('Jasper') || p.cat.includes('Asian'),
   'warewashing':   p => p.cat.includes('Warewashing'),
-  'stainless':     p => p.cat.includes('Stainless') || p.cat.includes('MixRite'),
+  'stainless':     p => p.cat.includes('Stainless') || p.cat.includes('MixRite') || p.cat.includes('Benchtop'),
   'canopies':      p => p.cat.includes('Canopies') || p.cat.includes('Simcohood') || p.cat.includes('Hood'),
   'all':           p => true,
 };
@@ -745,6 +745,13 @@ function filterCat(cat) {
 function handleSearch(val) {
   searchQuery = val.trim().toLowerCase();
   document.getElementById('searchClear').style.display = searchQuery ? 'block' : 'none';
+  // Search is always global — reset category filter to all when typing
+  if (searchQuery) {
+    currentCat = 'all';
+    document.querySelectorAll('.filter-pill').forEach(btn => {
+      btn.classList.toggle('active', btn.getAttribute('onclick').includes("'all'"));
+    });
+  }
   renderProducts();
 }
 
