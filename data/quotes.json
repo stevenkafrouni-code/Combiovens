@@ -416,6 +416,9 @@
     "gst": 0.31,
     "totalIncGst": 3.43,
     "hasPoaItems": false,
-    "status": "sent"
+    "status": "paid",
+    "paidAt": "2026-06-06T02:12:15.884Z",
+    "stripeSessionId": "cs_live_b1iRBTCIlQle4DfVjsSFWgTZahI2UFTuVi1yaFoyI9MfBQkDVyLJo9FnGt",
+    "amountPaid": 3.43
   }
 ]
