@@ -79,9 +79,11 @@ function parseStockCSV(text) {
 // ── Main handler ───────────────────────────────────────────────────────────────
 
 module.exports = async (req, res) => {
-  // Auth
-  const secret = req.headers['x-cron-secret'] || req.query.secret;
-  if (secret !== process.env.CRON_SECRET) {
+  // Auth: Vercel cron sends x-vercel-cron:1, manual trigger uses secret header or query param
+  const isVercelCron = req.headers['x-vercel-cron'] === '1';
+  const hasSecret    = (req.headers['x-cron-secret'] || req.query.secret) === process.env.CRON_SECRET;
+  const isLocalDev   = process.env.NODE_ENV === 'development';
+  if (!isVercelCron && !hasSecret && !isLocalDev) {
     return res.status(401).json({ error: 'Unauthorized' });
   }
 
