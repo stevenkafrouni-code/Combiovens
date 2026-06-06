@@ -420,5 +420,40 @@
     "paidAt": "2026-06-06T02:12:15.884Z",
     "stripeSessionId": "cs_live_b1iRBTCIlQle4DfVjsSFWgTZahI2UFTuVi1yaFoyI9MfBQkDVyLJo9FnGt",
     "amountPaid": 3.43
+  },
+  {
+    "quoteId": "CBO-260606-6084",
+    "timestamp": "2026-06-06T02:26:33.420Z",
+    "name": "Steven Kafrouni",
+    "businessName": "100",
+    "email": "steven@misspickle.com.au",
+    "phone": "0410776713",
+    "postcode": "3977",
+    "address": "11 Powerscout Retreat",
+    "suburb": "Cranbourne",
+    "state": "VIC",
+    "notes": "",
+    "deliveryNotes": "",
+    "deliveryAccess": {
+      "groundFloor": true,
+      "stairs": false,
+      "dock": false,
+      "tailLift": false
+    },
+    "items": [
+      {
+        "sku": "EPC-0711E2",
+        "desc": "Combi Oven 7 Tray GN1/1",
+        "qty": 1
+      }
+    ],
+    "referralCode": "",
+    "subtotal": 6562.5,
+    "discount": 0,
+    "total": 6562.5,
+    "gst": 656.25,
+    "totalIncGst": 7218.75,
+    "hasPoaItems": false,
+    "status": "sent"
   }
 ]
