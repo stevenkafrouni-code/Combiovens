@@ -546,13 +546,6 @@ footer{background:var(--black);border-top:1px solid rgba(255,255,255,.06);paddin
         <div class="form-group" style="margin-bottom:24px">
           <label>Additional Notes</label>
           <textarea name="notes" placeholder="Installation requirements, site access, preferred delivery date, or any other details..."></textarea></div>
-          <div class="form-group" style="margin-top:16px">
-            <label>Referral Code <span style="color:var(--steel);font-weight:400;text-transform:none">(optional — $250 off)</span></label>
-            <div style="display:flex;gap:12px;align-items:flex-start">
-              <input type="text" id="referralCode" name="referralCode" placeholder="e.g. CBO-2026-A3X9" style="text-transform:uppercase;letter-spacing:.05em;flex:1" oninput="this.value=this.value.toUpperCase()">
-              <button type="button" onclick="validateReferralCode()" style="background:var(--mid);color:var(--silver);border:1px solid rgba(255,255,255,.1);border-radius:2px;padding:14px 20px;font-family:'Barlow Condensed',sans-serif;font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;cursor:pointer;white-space:nowrap">Validate</button>
-            </div>
-            <div id="referralMsg" style="font-size:12px;margin-top:6px;display:none"></div>
           <div style="display:none">
         </div>
         <button type="submit" class="btn btn-primary" style="width:100%;justify-content:center;font-size:18px;padding:20px">
@@ -1064,34 +1057,6 @@ function removeItem(btn) {
 }
 
 
-async function validateReferralCode() {
-  const code = document.getElementById('referralCode').value.trim();
-  const msg = document.getElementById('referralMsg');
-  if (!code) { msg.style.display='none'; return; }
-  
-  msg.style.display = 'block';
-  msg.style.color = 'var(--steel)';
-  msg.textContent = 'Checking code...';
-  
-  try {
-    const res = await fetch('/api/validate-referral', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ code }),
-    });
-    const data = await res.json();
-    if (data.valid) {
-      msg.style.color = '#00b4a6';
-      msg.textContent = '✓ Valid code — $250 will be applied to your quote. Expires ' + data.expiry + '.';
-    } else {
-      msg.style.color = '#e85d04';
-      msg.textContent = '✗ ' + (data.reason || 'Invalid code');
-    }
-  } catch {
-    msg.style.color = 'var(--steel)';
-    msg.textContent = 'Could not validate — code will be checked when you submit.';
-  }
-}
 
 async function submitQuote(e) {
   e.preventDefault();
@@ -1130,7 +1095,7 @@ async function submitQuote(e) {
     state:         data.get('state')?.trim(),
     postcode:      data.get('postcode')?.trim(),
     notes:         data.get('notes')?.trim(),
-    referralCode:  document.getElementById('referralCode')?.value?.trim().toUpperCase() || '',
+
     deliveryAccess: {
       groundFloor: !!data.get('accessGroundFloor'),
       stairs:      !!data.get('accessStairs'),

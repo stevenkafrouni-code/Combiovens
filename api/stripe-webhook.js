@@ -12,7 +12,6 @@
 const Stripe = require('stripe');
 const { updateQuote, appendToFile, readFile } = require('../lib/storage');
 const { sendPaymentConfirmation, sendAdminOrderNotification } = require('../lib/email');
-const { issueCode } = require('../lib/referral');
 
 const SITE_URL  = process.env.SITE_URL  || 'https://www.combiovens.com.au';
 const ADMIN_EMAIL = process.env.ADMIN_EMAIL || 'sales@combiovens.com.au';
@@ -86,26 +85,9 @@ module.exports = async (req, res) => {
       };
       await appendToFile('data/orders.json', order);
 
-      // Issue + persist referral code
-      let referralCode   = null;
-      let referralExpiry = null;
-      try {
-        const ref = await issueCode({
-          customerName: order.customerName,
-          customerEmail: order.email,
-          orderId,
-        });
-        referralCode   = ref.code;
-        referralExpiry = new Date(ref.expiry + 'T00:00:00')
-          .toLocaleDateString('en-AU', { day: 'numeric', month: 'long', year: 'numeric' });
-      } catch (refErr) {
-        console.error('Referral issue failed (non-fatal):', refErr.message);
-        // Non-fatal — continue without voucher rather than blocking confirmation
-      }
-
       // Fire both emails in parallel
       await Promise.allSettled([
-        sendPaymentConfirmation({ order, referralCode, referralExpiry }),
+        sendPaymentConfirmation({ order }),
         sendAdminOrderNotification({ order, supplierEmails: [] }),
       ]);
 

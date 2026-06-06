@@ -2,8 +2,7 @@
 // POST /api/quote
 // Full quote submission flow with proper pricing, validation and approval routing
 
-const { buildQuoteLines, applyReferralDiscount, buildMarginSummary } = require('../lib/products');
-const { validateCode }          = require('../lib/referral');
+const { buildQuoteLines, buildMarginSummary } = require('../lib/products');
 const { validateQuote }         = require('../lib/claude');
 const { appendToFile, readFile } = require('../lib/storage');
 const { sendQuoteToCustomer }   = require('../lib/email');
@@ -39,7 +38,6 @@ module.exports = async (req, res) => {
       suburb,
       state,
       items,          // [{ sku, qty, desc }]
-      referralCode,
       notes,
       deliveryNotes,
       deliveryAccess, // { groundFloor, stairs, dock, tailLift }
@@ -104,25 +102,12 @@ module.exports = async (req, res) => {
     // ── Enrich lines with stock availability ─────────────────────────────────
     const lines = await enrichLinesWithStock(rawLines).catch(() => rawLines);
 
-    // ── Validate referral code ────────────────────────────────────────────────
-    let discount    = 0;
-    let referralMsg = null;
-    const cleanCode = referralCode?.trim().toUpperCase() || '';
-
-    if (cleanCode) {
-      const validation = await validateCode(cleanCode);
-      if (!validation.valid) {
-        return res.status(400).json({ error: `Referral code: ${validation.reason}` });
-      }
-      discount    = 250;
-      referralMsg = `Code ${cleanCode} applied — $250 discount`;
-    }
-
     // ── Calculate totals ──────────────────────────────────────────────────────
-    const { total, gst: finalGst, totalIncGst: finalIncGst } =
-      discount ? applyReferralDiscount(subtotal) : { total: subtotal, gst, totalIncGst };
+    const total       = subtotal;
+    const finalGst    = gst;
+    const finalIncGst = totalIncGst;
 
-    const marginSummary = buildMarginSummary(lines, discount);
+    const marginSummary = buildMarginSummary(lines, 0);
 
     const quoteId   = generateQuoteId();
     const timestamp = new Date().toISOString();
@@ -146,9 +131,7 @@ module.exports = async (req, res) => {
       timestamp,
       ...customer,
       items,
-      referralCode: cleanCode,
       subtotal,
-      discount,
       total,
       gst:          finalGst,
       totalIncGst:  finalIncGst,
@@ -162,7 +145,7 @@ module.exports = async (req, res) => {
       lines,
       subtotal,
       total,
-      referralUsed: !!discount,
+      referralUsed: false,
     });
 
     // ── Store quote and customer ──────────────────────────────────────────────
