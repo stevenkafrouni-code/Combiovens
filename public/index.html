@@ -796,7 +796,7 @@ function renderProducts() {
         <div class="dealer-tag">✓ Auth. Dealer</div>
         <div class="product-name">${p.name}</div>
         <div class="product-sku">${p.sku}</div>
-        <div class="product-specs">${p.specs.map(s=>'<span class="spec-tag">' + s + '</span>').join('')}</div>
+        <div class="product-specs">${(p.specs||[]).map(s=>'<span class="spec-tag">' + s + '</span>').join('')}</div>
         <div class="product-price-row">
           <div class="product-price-block">
             <div class="product-rrp-label">RRP (ex GST)</div>
